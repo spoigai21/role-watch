@@ -158,6 +158,9 @@ def main():
     ap.add_argument("--log", help="path to the findings markdown (default: beside this script)")
     ap.add_argument("--github-output", action="store_true",
                     help="in CI: write found=1 and a summary to $GITHUB_OUTPUT")
+    ap.add_argument("--test", action="store_true",
+                    help="inject one fake finding to prove the alert path works, and do not "
+                         "record it, so a real req is still reported later")
     a = ap.parse_args()
 
     global STATE, LOG
@@ -203,6 +206,13 @@ def main():
     STATE.write_text(json.dumps(seen, indent=1, sort_keys=True))
 
     hits = found if a.all else [f for f in found if interesting(f["title"])]
+
+    if a.test:
+        hits = [{"company": "Netflix", "title": "TEST — Software Engineer Intern (Summer 2027)",
+                 "location": "Los Gatos, CA", "team": "Engineering",
+                 "url": "https://explore.jobs.netflix.net/careers", "created": None}]
+        print("--test: injecting one fake finding. Nothing real is recorded or suppressed.")
+
     if not hits:
         line = (f"{stamp} — nothing new "
                 f"({len(nf)} Netflix early-career reqs live, {len(mids)} Meta reqs live)")
@@ -221,6 +231,16 @@ def main():
         print(f"    {f['url']}")
         summary(f"- **{f['company']}** — {f['title']}" + (f" *({where})*" if where else "")
                 + f"  \n  {f['url']}")
+
+    if a.test:
+        notify([h["title"] for h in hits])
+        if a.github_output and (gh := __import__("os").environ.get("GITHUB_OUTPUT")):
+            body = "\n".join(f"- **{f['company']}** - {f['title']}\n  {f['url']}" for f in hits)
+            with open(gh, "a") as fh:
+                fh.write("found=1\ncount=1\n")
+                fh.write("body<<ROLEWATCH_EOF\n" + body + "\nROLEWATCH_EOF\n")
+        print("\ntest alert sent. State and findings log untouched.")
+        return 0
 
     with LOG.open("a") as fh:
         fh.write(f"\n## {stamp}\n\n")

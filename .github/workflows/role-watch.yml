@@ -10,6 +10,11 @@ on:
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
+    inputs:
+      test:
+        description: "Send a fake alert to prove the email works"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -32,7 +37,8 @@ jobs:
           python3 watch_roles.py \
             --state state/seen.json \
             --log state/FOUND.md \
-            --github-output
+            --github-output \
+            ${{ inputs.test && '--test' || '' }}
 
       - name: Remember what was seen
         run: |
