@@ -1,7 +1,17 @@
 # role-watch
 
-Checks Netflix and Meta every 5 minutes for new **undergraduate internship** reqs and opens an
-issue when one appears.
+Checks Netflix and Meta every 5 minutes for new **undergraduate internship** reqs, posts to Discord,
+and opens an issue as a record.
+
+## Setup
+
+Add a repository secret `DISCORD_WEBHOOK` (Discord → channel → Edit Channel → Integrations →
+Webhooks → New Webhook → Copy Webhook URL). Optionally `DISCORD_MENTION`, e.g. `<@YOUR_USER_ID>`,
+to get a push notification rather than a quiet message.
+
+**Do not rely on GitHub's own notifications here** — issues opened, assigned or @-mentioned by
+`github-actions[bot]` with the default token do not generate them, and watch settings cannot
+override that.
 
 Both companies pull reqs when they fill — Netflix's own postings say "open for no less than 7 days
 and will be removed when the position is filled" — and neither emails you when one opens.

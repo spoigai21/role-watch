@@ -73,32 +73,32 @@ jobs:
             "https://api.github.com/repos/${{ github.repository }}/issues" \
             -d @payload.json | jq -r '"opened: " + .html_url'
 
-      # GitHub does NOT email for issues opened, assigned or @-mentioned by github-actions[bot]
-      # using the default token - notifications from the Actions bot are suppressed. So the mail
-      # is sent directly. Skipped silently if the secrets are not configured.
-      - name: Email me
-        if: steps.scan.outputs.found == '1' && env.MAIL_USER != ''
+      # GitHub does NOT notify for issues opened, assigned or @-mentioned by github-actions[bot]
+      # using the default token - notifications from the Actions bot are suppressed, and watch
+      # settings cannot override it. So the alert is pushed to Discord directly.
+      # Skipped silently when the webhook secret is absent.
+      - name: Post to Discord
+        if: steps.scan.outputs.found == '1' && env.HOOK != ''
         env:
-          MAIL_USER: ${{ secrets.MAIL_USERNAME }}
-          MAIL_PASS: ${{ secrets.MAIL_PASSWORD }}
-          MAIL_TO: ${{ secrets.MAIL_TO || secrets.MAIL_USERNAME }}
+          HOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          MENTION: ${{ secrets.DISCORD_MENTION }}
           BODY: ${{ steps.scan.outputs.body }}
           COUNT: ${{ steps.scan.outputs.count }}
         run: |
-          {
-            printf 'From: role-watch <%s>\n' "$MAIL_USER"
-            printf 'To: %s\n' "$MAIL_TO"
-            printf 'Subject: [role-watch] %s new intern req(s) - Netflix / Meta\n' "$COUNT"
-            printf 'Content-Type: text/plain; charset=utf-8\n\n'
-            printf 'A new undergraduate internship req just appeared.\n\n'
-            printf '%s\n\n' "$BODY"
-            printf -- '---\n'
-            printf 'Apply early. Netflix reqs stay open a minimum of 7 days and are pulled once filled.\n'
-            printf 'Check the graduation window in the posting before applying.\n'
-            printf 'If it is Netflix: watch for the Airtable form emailed after you submit - the\n'
-            printf 'application is NOT complete without it.\n'
-          } > mail.txt
-          curl -sS --ssl-reqd --url "smtps://smtp.gmail.com:465" \
-            --user "$MAIL_USER:$MAIL_PASS" \
-            --mail-from "$MAIL_USER" --mail-rcpt "$MAIL_TO" \
-            --upload-file mail.txt && echo "email sent to $MAIL_TO"
+          MSG="$MENTION**$COUNT new intern req(s) — Netflix / Meta**
+
+          $BODY
+
+          Apply early — Netflix reqs stay open a minimum of 7 days and are pulled once filled.
+          Check the graduation window before applying. If it is Netflix, watch for the Airtable
+          form emailed after you submit; the application is **not** complete without it."
+          # Discord caps content at 2000 characters.
+          MSG="${MSG:0:1900}"
+          jq -n --arg c "$MSG" '{content:$c, allowed_mentions:{parse:["users","roles","everyone"]}}' > hook.json
+          code=$(curl -sS -o /dev/null -w '%{http_code}' -X POST \
+                   -H "Content-Type: application/json" -d @hook.json "$HOOK")
+          if [ "$code" = "204" ] || [ "$code" = "200" ]; then
+            echo "posted to Discord"
+          else
+            echo "Discord webhook returned HTTP $code" >&2; exit 1
+          fi
