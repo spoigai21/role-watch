@@ -47,6 +47,11 @@ jobs:
             --github-output \
             ${{ inputs.test && '--test' || '' }}
 
+      - name: Secret check
+        run: |
+          echo "DISCORD_WEBHOOK set: ${{ secrets.DISCORD_WEBHOOK != '' }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "DISCORD_MENTION set: ${{ secrets.DISCORD_MENTION != '' }}" >> "$GITHUB_STEP_SUMMARY"
+
       - name: Remember what was seen
         run: |
           git config user.name  "role-watch"
@@ -85,11 +90,19 @@ jobs:
       # settings cannot override it. So the alert is pushed to Discord directly.
       # Skipped silently when the webhook secret is absent.
       - name: Post to Discord
-        if: steps.scan.outputs.found == '1' && env.HOOK != ''
+        if: steps.scan.outputs.found == '1'
         env:
           BODY: ${{ steps.scan.outputs.body }}
           COUNT: ${{ steps.scan.outputs.count }}
         run: |
+          if [ -z "$HOOK" ]; then
+            echo "::error::DISCORD_WEBHOOK is empty. The secret is missing or named differently."
+            echo "Repository secrets must be at Settings > Secrets and variables > Actions >"
+            echo "Repository secrets, named exactly DISCORD_WEBHOOK. Environment- and"
+            echo "organization-scoped secrets are NOT visible here."
+            exit 1
+          fi
+          echo "webhook present (${#HOOK} chars); mention present: $([ -n "$MENTION" ] && echo yes || echo no)"
           MSG="$MENTION **$COUNT new intern req(s) — Netflix / Meta**
 
           $BODY
