@@ -72,3 +72,33 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             "https://api.github.com/repos/${{ github.repository }}/issues" \
             -d @payload.json | jq -r '"opened: " + .html_url'
+
+      # GitHub does NOT email for issues opened, assigned or @-mentioned by github-actions[bot]
+      # using the default token - notifications from the Actions bot are suppressed. So the mail
+      # is sent directly. Skipped silently if the secrets are not configured.
+      - name: Email me
+        if: steps.scan.outputs.found == '1' && env.MAIL_USER != ''
+        env:
+          MAIL_USER: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASS: ${{ secrets.MAIL_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO || secrets.MAIL_USERNAME }}
+          BODY: ${{ steps.scan.outputs.body }}
+          COUNT: ${{ steps.scan.outputs.count }}
+        run: |
+          {
+            printf 'From: role-watch <%s>\n' "$MAIL_USER"
+            printf 'To: %s\n' "$MAIL_TO"
+            printf 'Subject: [role-watch] %s new intern req(s) - Netflix / Meta\n' "$COUNT"
+            printf 'Content-Type: text/plain; charset=utf-8\n\n'
+            printf 'A new undergraduate internship req just appeared.\n\n'
+            printf '%s\n\n' "$BODY"
+            printf -- '---\n'
+            printf 'Apply early. Netflix reqs stay open a minimum of 7 days and are pulled once filled.\n'
+            printf 'Check the graduation window in the posting before applying.\n'
+            printf 'If it is Netflix: watch for the Airtable form emailed after you submit - the\n'
+            printf 'application is NOT complete without it.\n'
+          } > mail.txt
+          curl -sS --ssl-reqd --url "smtps://smtp.gmail.com:465" \
+            --user "$MAIL_USER:$MAIL_PASS" \
+            --mail-from "$MAIL_USER" --mail-rcpt "$MAIL_TO" \
+            --upload-file mail.txt && echo "email sent to $MAIL_TO"
