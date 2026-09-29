@@ -28,6 +28,13 @@ jobs:
   check:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    # Job level, NOT step level. A step's `if:` is evaluated before its own `env:` block exists,
+    # so `env.HOOK != ''` in a step that defines HOOK itself is always false and the step is
+    # silently skipped. The `secrets` context is not available in a step `if` at all, so this is
+    # the way to gate on a secret being present.
+    env:
+      HOOK: ${{ secrets.DISCORD_WEBHOOK }}
+      MENTION: ${{ secrets.DISCORD_MENTION }}
     steps:
       - uses: actions/checkout@v4
 
@@ -48,7 +55,7 @@ jobs:
           git diff --staged --quiet || git commit -m "seen: $(date -u +%Y-%m-%dT%H:%MZ)"
           git push
 
-      - name: Open an issue and email me
+      - name: Open an issue as a record
         if: steps.scan.outputs.found == '1'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -80,12 +87,10 @@ jobs:
       - name: Post to Discord
         if: steps.scan.outputs.found == '1' && env.HOOK != ''
         env:
-          HOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          MENTION: ${{ secrets.DISCORD_MENTION }}
           BODY: ${{ steps.scan.outputs.body }}
           COUNT: ${{ steps.scan.outputs.count }}
         run: |
-          MSG="$MENTION**$COUNT new intern req(s) — Netflix / Meta**
+          MSG="$MENTION **$COUNT new intern req(s) — Netflix / Meta**
 
           $BODY
 
