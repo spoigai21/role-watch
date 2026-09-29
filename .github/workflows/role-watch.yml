@@ -1,0 +1,68 @@
+# Check Netflix and Meta for new undergraduate internship reqs, every 5 minutes, around the clock.
+#
+# Public repo, so Actions minutes are unlimited and a 5-minute cadence costs nothing. On a hit it
+# opens an issue, assigns it, and @-mentions the owner - an assignment plus a mention both send
+# email, so the alert does not depend on repository watch settings.
+
+name: role-watch
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: role-watch
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check Netflix and Meta
+        id: scan
+        run: |
+          python3 watch_roles.py \
+            --state state/seen.json \
+            --log state/FOUND.md \
+            --github-output
+
+      - name: Remember what was seen
+        run: |
+          git config user.name  "role-watch"
+          git config user.email "role-watch@users.noreply.github.com"
+          git add state/
+          git diff --staged --quiet || git commit -m "seen: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
+
+      - name: Open an issue and email me
+        if: steps.scan.outputs.found == '1'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BODY: ${{ steps.scan.outputs.body }}
+          COUNT: ${{ steps.scan.outputs.count }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          jq -n \
+            --arg t "🔔 $COUNT new intern req(s) — Netflix / Meta" \
+            --arg b "@$OWNER — a new undergraduate internship req just appeared.
+
+          $BODY
+
+          ---
+          Apply early. Netflix reqs are open for a minimum of 7 days and are pulled once filled.
+          Before applying: check the graduation window in the posting, and if it is Netflix, watch for the Airtable form emailed after submission — the application is not complete without it." \
+            --arg a "$OWNER" \
+            '{title:$t, body:$b, assignees:[$a], labels:["new-req"]}' > payload.json
+          curl -sS -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/issues" \
+            -d @payload.json | jq -r '"opened: " + .html_url'
