@@ -33,7 +33,10 @@ jobs:
     # silently skipped. The `secrets` context is not available in a step `if` at all, so this is
     # the way to gate on a secret being present.
     env:
-      HOOK: ${{ secrets.DISCORD_WEBHOOK }}
+      # Accept either name. The secret was created as DISCORD_WEBHOOK_URL while this workflow
+      # read DISCORD_WEBHOOK, so every alert died at the last step with "secret is empty" while
+      # the secret was sitting right there. Taking both costs nothing and removes the trap.
+      HOOK: ${{ secrets.DISCORD_WEBHOOK_URL || secrets.DISCORD_WEBHOOK }}
       MENTION: ${{ secrets.DISCORD_MENTION }}
     steps:
       - uses: actions/checkout@v4
@@ -49,6 +52,7 @@ jobs:
 
       - name: Secret check
         run: |
+          echo "DISCORD_WEBHOOK_URL set: ${{ secrets.DISCORD_WEBHOOK_URL != '' }}" >> "$GITHUB_STEP_SUMMARY"
           echo "DISCORD_WEBHOOK set: ${{ secrets.DISCORD_WEBHOOK != '' }}" >> "$GITHUB_STEP_SUMMARY"
           echo "DISCORD_MENTION set: ${{ secrets.DISCORD_MENTION != '' }}" >> "$GITHUB_STEP_SUMMARY"
 
@@ -96,9 +100,9 @@ jobs:
           COUNT: ${{ steps.scan.outputs.count }}
         run: |
           if [ -z "$HOOK" ]; then
-            echo "::error::DISCORD_WEBHOOK is empty. The secret is missing or named differently."
+            echo "::error::No Discord webhook. Set DISCORD_WEBHOOK_URL (or DISCORD_WEBHOOK)."
             echo "Repository secrets must be at Settings > Secrets and variables > Actions >"
-            echo "Repository secrets, named exactly DISCORD_WEBHOOK. Environment- and"
+            echo "Repository secrets, named DISCORD_WEBHOOK_URL or DISCORD_WEBHOOK. Environment- and"
             echo "organization-scoped secrets are NOT visible here."
             exit 1
           fi
