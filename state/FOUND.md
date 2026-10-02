@@ -10,3 +10,8 @@
 
 - **Meta** — DFX Engineering Intern  
   https://www.metacareers.com/profile/job_details/1095054769939445/
+
+## 2026-10-02 08:42
+
+- **Meta** — Mechanical Engineering Intern, Infrastructure  
+  https://www.metacareers.com/profile/job_details/921722064324989/
