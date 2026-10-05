@@ -15,3 +15,10 @@
 
 - **Meta** — Mechanical Engineering Intern, Infrastructure  
   https://www.metacareers.com/profile/job_details/921722064324989/
+
+## 2026-10-05 17:34
+
+- **Meta** — Electrical Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1105729655266553/
+- **Meta** — Electrical Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1771434380856457/
