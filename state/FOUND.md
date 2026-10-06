@@ -22,3 +22,10 @@
   https://www.metacareers.com/profile/job_details/1105729655266553/
 - **Meta** — Electrical Engineering Intern  
   https://www.metacareers.com/profile/job_details/1771434380856457/
+
+## 2026-10-06 10:09
+
+- **Meta** — ASIC Engineer Intern - Infra Silicon Enablement  
+  https://www.metacareers.com/profile/job_details/939474918844068/
+- **Meta** — ASIC Engineer Intern, Design  
+  https://www.metacareers.com/profile/job_details/1631077978652493/
