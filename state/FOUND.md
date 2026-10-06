@@ -29,3 +29,10 @@
   https://www.metacareers.com/profile/job_details/939474918844068/
 - **Meta** — ASIC Engineer Intern, Design  
   https://www.metacareers.com/profile/job_details/1631077978652493/
+
+## 2026-10-06 21:16
+
+- **Meta** — Data Scientist Intern, Product Analytics (Summer 2027)  
+  https://www.metacareers.com/profile/job_details/1633096478817942/
+- **Meta** — Software Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1952991802037374/
