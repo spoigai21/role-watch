@@ -36,3 +36,8 @@
   https://www.metacareers.com/profile/job_details/1633096478817942/
 - **Meta** — Software Engineering Intern  
   https://www.metacareers.com/profile/job_details/1952991802037374/
+
+## 2026-10-07 23:45
+
+- **Meta** — Data Center Technician, Intern  
+  https://www.metacareers.com/profile/job_details/2185283202380208/
