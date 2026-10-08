@@ -41,3 +41,12 @@
 
 - **Meta** — Data Center Technician, Intern  
   https://www.metacareers.com/profile/job_details/2185283202380208/
+
+## 2026-10-08 02:59
+
+- **Meta** — DFX Engineering Intern  
+  https://www.metacareers.com/profile/job_details/966089683203668/
+- **Meta** — Optical Engineering Intern - Camera, Depth &amp; Cover Window Optics  
+  https://www.metacareers.com/profile/job_details/1092606640401919/
+- **Meta** — Manufacturing Test Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1866862250969693/
