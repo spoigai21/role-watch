@@ -50,3 +50,12 @@
   https://www.metacareers.com/profile/job_details/1092606640401919/
 - **Meta** — Manufacturing Test Engineering Intern  
   https://www.metacareers.com/profile/job_details/1866862250969693/
+
+## 2026-10-08 22:13
+
+- **Meta** — Manufacturing Test Engineering Intern, Field Requirements &amp; Feedback  
+  https://www.metacareers.com/profile/job_details/940553205402689/
+- **Meta** — Thermal Engineering Intern   
+  https://www.metacareers.com/profile/job_details/1123905276826454/
+- **Meta** — Production Systems Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1144327871507763/
