@@ -66,3 +66,8 @@
   https://www.metacareers.com/profile/job_details/1080292111664557/
 - **Meta** — ASIC Engineer Intern, Architecture  
   https://www.metacareers.com/profile/job_details/1096213456288397/
+
+## 2026-10-09 20:21
+
+- **Meta** — Production Systems Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1772445513807075/
