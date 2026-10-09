@@ -59,3 +59,10 @@
   https://www.metacareers.com/profile/job_details/1123905276826454/
 - **Meta** — Production Systems Engineering Intern  
   https://www.metacareers.com/profile/job_details/1144327871507763/
+
+## 2026-10-09 15:50
+
+- **Meta** — Structural Design Engineer - FEA (Intern)  
+  https://www.metacareers.com/profile/job_details/1080292111664557/
+- **Meta** — ASIC Engineer Intern, Architecture  
+  https://www.metacareers.com/profile/job_details/1096213456288397/
