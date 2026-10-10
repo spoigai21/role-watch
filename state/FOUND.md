@@ -71,3 +71,8 @@
 
 - **Meta** — Production Systems Engineering Intern  
   https://www.metacareers.com/profile/job_details/1772445513807075/
+
+## 2026-10-10 00:06
+
+- **Meta** — Mechanical Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1530919698792460/
