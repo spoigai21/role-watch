@@ -76,3 +76,8 @@
 
 - **Meta** — Mechanical Engineering Intern  
   https://www.metacareers.com/profile/job_details/1530919698792460/
+
+## 2026-10-13 01:18
+
+- **Meta** — Signal Integrity Intern  
+  https://www.metacareers.com/profile/job_details/1134883748976209/
