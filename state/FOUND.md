@@ -81,3 +81,8 @@
 
 - **Meta** — Signal Integrity Intern  
   https://www.metacareers.com/profile/job_details/1134883748976209/
+
+## 2026-10-13 20:43
+
+- **Meta** — Materials Regulatory Compliance (MRC) Intern  
+  https://www.metacareers.com/profile/job_details/1054006261009917/
