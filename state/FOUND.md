@@ -86,3 +86,18 @@
 
 - **Meta** — Materials Regulatory Compliance (MRC) Intern  
   https://www.metacareers.com/profile/job_details/1054006261009917/
+
+## 2026-10-13 23:55
+
+- **Meta** — Product Design Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1123001263407222/
+- **Meta** — Mechanical Engineering Intern, Infrastructure  
+  https://www.metacareers.com/profile/job_details/2863542050708101/
+- **Meta** — Production Systems Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1423159169992675/
+- **Meta** — Mechanical Engineering Intern  
+  https://www.metacareers.com/profile/job_details/3255073444698138/
+- **Meta** — Thermal Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1114875338141580/
+- **Meta** — Signal Integrity Intern  
+  https://www.metacareers.com/profile/job_details/2262379047961521/
