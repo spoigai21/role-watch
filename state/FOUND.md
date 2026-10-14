@@ -101,3 +101,10 @@
   https://www.metacareers.com/profile/job_details/1114875338141580/
 - **Meta** — Signal Integrity Intern  
   https://www.metacareers.com/profile/job_details/2262379047961521/
+
+## 2026-10-14 08:03
+
+- **Meta** — ASIC Engineer Intern, Implementation  
+  https://www.metacareers.com/profile/job_details/1046140895105013/
+- **Meta** — ASIC Engineer Intern, Design Verification  
+  https://www.metacareers.com/profile/job_details/1123459746795309/
