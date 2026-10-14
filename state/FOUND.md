@@ -108,3 +108,24 @@
   https://www.metacareers.com/profile/job_details/1046140895105013/
 - **Meta** — ASIC Engineer Intern, Design Verification  
   https://www.metacareers.com/profile/job_details/1123459746795309/
+
+## 2026-10-14 18:09
+
+- **Meta** — Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)  
+  https://www.metacareers.com/profile/job_details/1758435721926913/
+- **Meta** — Display Panel Design Intern   
+  https://www.metacareers.com/profile/job_details/1136608158836536/
+- **Meta** — ASIC Design Engineer Intern  
+  https://www.metacareers.com/profile/job_details/1406976394946562/
+- **Meta** — Hardware Engineer Intern, Camera &amp; Sensing Architecture  
+  https://www.metacareers.com/profile/job_details/29216393121298039/
+- **Meta** — Structural Design Engineer - FEA (Intern)  
+  https://www.metacareers.com/profile/job_details/1763344164969127/
+- **Meta** — Manufacturing Test Engineering Intern, AI  
+  https://www.metacareers.com/profile/job_details/954380870617862/
+- **Meta** — Manufacturing Test Engineering Intern, Field Requirements &amp; Feedback  
+  https://www.metacareers.com/profile/job_details/1628524068903947/
+- **Meta** — Electrical Engineering Intern  
+  https://www.metacareers.com/profile/job_details/929122273385202/
+- **Meta** — Optical Engineering Intern - Camera, Depth &amp; Cover Window Optics  
+  https://www.metacareers.com/profile/job_details/2271558583687956/
