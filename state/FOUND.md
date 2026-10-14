@@ -129,3 +129,10 @@
   https://www.metacareers.com/profile/job_details/929122273385202/
 - **Meta** — Optical Engineering Intern - Camera, Depth &amp; Cover Window Optics  
   https://www.metacareers.com/profile/job_details/2271558583687956/
+
+## 2026-10-14 21:37
+
+- **Meta** — ASIC Engineering Intern, Design Verification (Silicon Engineering)  
+  https://www.metacareers.com/profile/job_details/1079763448023260/
+- **Meta** — Display Engineering Intern  
+  https://www.metacareers.com/profile/job_details/2773227806411499/
