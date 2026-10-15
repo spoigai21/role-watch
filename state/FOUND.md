@@ -136,3 +136,8 @@
   https://www.metacareers.com/profile/job_details/1079763448023260/
 - **Meta** — Display Engineering Intern  
   https://www.metacareers.com/profile/job_details/2773227806411499/
+
+## 2026-10-15 18:16
+
+- **Meta** — Quality &amp; Reliability Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1624891432439039/
