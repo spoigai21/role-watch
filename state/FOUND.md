@@ -146,3 +146,232 @@
 
 - **Meta** — Production Systems Engineering Intern   
   https://www.metacareers.com/profile/job_details/4536253699919879/
+
+## 2026-10-16 21:53
+
+- *(quiet)* Netflix - Partner Engagement Manager, UCAN  
+  https://explore.jobs.netflix.net/careers/job/790318998848
+- *(quiet)* Netflix - Product Marketing Sr. Manager (UCAN) Programmatic Ads  
+  https://explore.jobs.netflix.net/careers/job/790318993870
+- *(quiet)* Netflix - Product Marketing Manager (UCAN) Media Effectiveness  
+  https://explore.jobs.netflix.net/careers/job/790318993874
+- *(quiet)* Netflix - Sr. Client Partner (CA)  
+  https://explore.jobs.netflix.net/careers/job/790318981534
+- *(quiet)* Netflix - Senior Tax Analyst, LATAM  
+  https://explore.jobs.netflix.net/careers/job/790318978578
+- *(quiet)* Netflix - Technical Director Pre Production  
+  https://explore.jobs.netflix.net/careers/job/790318983040
+- *(quiet)* Netflix - AR & Collections Analyst  
+  https://explore.jobs.netflix.net/careers/job/790318948903
+- *(quiet)* Netflix - Lighting Artist - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790318956909
+- *(quiet)* Netflix - Senior Manager, Communications - Japan  
+  https://explore.jobs.netflix.net/careers/job/790318920828
+- *(quiet)* Netflix - Sr. Account Manager (Benelux)  
+  https://explore.jobs.netflix.net/careers/job/790318922379
+- *(quiet)* Netflix - Launch Manager - Japan  
+  https://explore.jobs.netflix.net/careers/job/790318912417
+- *(quiet)* Netflix - Senior Gameplay Programmer, Game Prototypes  
+  https://explore.jobs.netflix.net/careers/job/790318938531
+- *(quiet)* Netflix - Administrative Assistant, Inclusion Strategy  
+  https://explore.jobs.netflix.net/careers/job/790318936895
+- *(quiet)* Netflix - Technical Operations Manager, Post Services - India  
+  https://explore.jobs.netflix.net/careers/job/790318927263
+- *(quiet)* Netflix - Demand Partnerships Lead, Sales Solutions (UCAN)  
+  https://explore.jobs.netflix.net/careers/job/790318907811
+- *(quiet)* Netflix - Creative Merchandiser - Product, India  
+  https://explore.jobs.netflix.net/careers/job/790318898616
+- *(quiet)* Netflix - Senior Manager, Strategy and Operations (Games)  
+  https://explore.jobs.netflix.net/careers/job/790318883368
+- *(quiet)* Netflix - Executive Producer - Mainstream, Narrative & New Experiences (Games)  
+  https://explore.jobs.netflix.net/careers/job/790318883356
+- *(quiet)* Netflix - AR & Collections Manager  
+  https://explore.jobs.netflix.net/careers/job/790318865574
+- *(quiet)* Netflix - Media Solutions & Planning Manager (Market Planning & Operations - EMEA)  
+  https://explore.jobs.netflix.net/careers/job/790318875539
+- *(quiet)* Netflix - Language Producer, India  
+  https://explore.jobs.netflix.net/careers/job/790318865052
+- *(quiet)* Netflix - Partner Operations Manager  
+  https://explore.jobs.netflix.net/careers/job/790318866949
+- *(quiet)* Netflix - AI Research Scientist 4/5 - Generative Models, Recommender Systems  
+  https://explore.jobs.netflix.net/careers/job/790318859750
+- *(quiet)* Netflix - Product Manager - Content  
+  https://explore.jobs.netflix.net/careers/job/790318858625
+- *(quiet)* Netflix - Senior Game Engineer, Gen AI - Games  
+  https://explore.jobs.netflix.net/careers/job/790318858893
+- *(quiet)* Netflix - Ads Measurement Lead (UCAN - Total Audience Narrative)  
+  https://explore.jobs.netflix.net/careers/job/790318861141
+- *(quiet)* Netflix - Art Lead, Live Service Team - Games  
+  https://explore.jobs.netflix.net/careers/job/790318841653
+- *(quiet)* Netflix - Character Surfacing Supervisor - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790318848658
+- *(quiet)* Netflix - Post Engineer, Animation Series (Union 700)  
+  https://explore.jobs.netflix.net/careers/job/790318877206
+- *(quiet)* Netflix - Staff Software Engineer 6  - Java Platform Team  
+  https://explore.jobs.netflix.net/careers/job/790318820918
+- *(quiet)* Netflix - Rigging Supervisor - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790318834293
+- *(quiet)* Netflix - Senior Portfolio Operations Manager, Games  
+  https://explore.jobs.netflix.net/careers/job/790318808922
+- *(quiet)* Netflix - Ads Measurement Specialist (APAC - Export)  
+  https://explore.jobs.netflix.net/careers/job/790318773314
+- *(quiet)* Netflix - Engineering Manager, Catalog Integration  
+  https://explore.jobs.netflix.net/careers/job/790318781005
+- *(quiet)* Netflix - Associate Counsel, Ads Legal - LATAM  
+  https://explore.jobs.netflix.net/careers/job/790318789236
+- *(quiet)* Netflix - Manager, Production Finance - Indonesia  
+  https://explore.jobs.netflix.net/careers/job/790318751113
+- *(quiet)* Netflix - Account Manager (France)  
+  https://explore.jobs.netflix.net/careers/job/790318752901
+- *(quiet)* Netflix - Manager, Sales Incentive Compensation  
+  https://explore.jobs.netflix.net/careers/job/790318755389
+- *(quiet)* Netflix - Marketing Partnerships Creative Manager - Korea  
+  https://explore.jobs.netflix.net/careers/job/790318793899
+- *(quiet)* Netflix - Senior Account Manager - Australia  
+  https://explore.jobs.netflix.net/careers/job/790318735280
+- *(quiet)* Netflix - Senior Account Manager  
+  https://explore.jobs.netflix.net/careers/job/790318738586
+- *(quiet)* Netflix - Stage Specialist, Studio Management - Brooklyn  
+  https://explore.jobs.netflix.net/careers/job/790318747006
+- *(quiet)* Netflix - Final Layout Artist - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790318746569
+- *(quiet)* Netflix - Executive Assistant, Finance & Operations  
+  https://explore.jobs.netflix.net/careers/job/790318718485
+- *(quiet)* Netflix - Sr. Account Manager (Ireland) 12 month FTC  
+  https://explore.jobs.netflix.net/careers/job/790318726671
+- *(quiet)* Netflix - Head of Cinematography, Lighting  
+  https://explore.jobs.netflix.net/careers/job/790318715894
+- *(quiet)* Netflix - Ads Measurement Specialist (UCAN - Client Services)  
+  https://explore.jobs.netflix.net/careers/job/790318714520
+- *(quiet)* Netflix - Machine Learning Scientist 5 - Ads Demand Science  
+  https://explore.jobs.netflix.net/careers/job/790316208720
+- *(quiet)* Netflix - Head of Cinematography, Lighting  
+  https://explore.jobs.netflix.net/careers/job/790318686994
+- *(quiet)* Netflix - Analytics Engineer 5 - Demand Science  
+  https://explore.jobs.netflix.net/careers/job/790318658684
+- *(quiet)* Netflix - Software Engineer (L6) - Compute Runtime  
+  https://explore.jobs.netflix.net/careers/job/790317912743
+- *(quiet)* Netflix - Client Partner (US - OMC)  
+  https://explore.jobs.netflix.net/careers/job/790318648433
+- *(quiet)* Netflix - Photo Campaign Manager - Series  
+  https://explore.jobs.netflix.net/careers/job/790318652466
+- *(quiet)* Netflix - Software Engineering L5, Open Connect Platform  
+  https://explore.jobs.netflix.net/careers/job/790318653296
+- *(quiet)* Netflix - HR Business Partner - Thailand and Indonesia  
+  https://explore.jobs.netflix.net/careers/job/790318621079
+- *(quiet)* Netflix - Engineering Manager — Change Systems  
+  https://explore.jobs.netflix.net/careers/job/790318622925
+- *(quiet)* Netflix - Manager, Post Production - Indonesia  
+  https://explore.jobs.netflix.net/careers/job/790318617537
+- *(quiet)* Netflix - Data Scientist 5 - Media Science DSE  
+  https://explore.jobs.netflix.net/careers/job/790318623518
+- *(quiet)* Netflix - Crowds Supervisor - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790318631012
+- *(quiet)* Netflix - Crowds Supervisor - Netflix Animation Stuidos  
+  https://explore.jobs.netflix.net/careers/job/790318631123
+- *(quiet)* Netflix - Photo & AV Studio Manager - DACH  
+  https://explore.jobs.netflix.net/careers/job/790318531573
+- *(quiet)* Netflix - Administrative Assistant, Marketing  
+  https://explore.jobs.netflix.net/careers/job/790318616532
+- *(quiet)* Netflix - Director, Marketing - ANZ  
+  https://explore.jobs.netflix.net/careers/job/790318602375
+- *(quiet)* Netflix - Manager, VFX - Chinese Language  
+  https://explore.jobs.netflix.net/careers/job/790318603649
+- *(quiet)* Netflix - Project Manager, Creative Innovation  
+  https://explore.jobs.netflix.net/careers/job/790318615919
+- *(quiet)* Netflix - Sr. Account Manager (Canada)  
+  https://explore.jobs.netflix.net/careers/job/790318616118
+- *(quiet)* Netflix - Business Security Partner (L5)  
+  https://explore.jobs.netflix.net/careers/job/790318616256
+- *(quiet)* Netflix - HR Associate - Korea  
+  https://explore.jobs.netflix.net/careers/job/790318591702
+- *(quiet)* Netflix - Senior Measurement Partner, UK (12 month FTC)  
+  https://explore.jobs.netflix.net/careers/job/790318592572
+- *(quiet)* Netflix - Sr. Ad Ops Demand Mgmt Specialist (UCAN)  
+  https://explore.jobs.netflix.net/careers/job/790318598054
+- *(quiet)* Netflix - Product Manager, Sports Experience  
+  https://explore.jobs.netflix.net/careers/job/790318602179
+- *(quiet)* Netflix - Software Engineer 4 - Revenue Infrastructure  
+  https://explore.jobs.netflix.net/careers/job/790318597004
+- *(quiet)* Netflix - Global Ad Sales Learning Enablement Manager  
+  https://explore.jobs.netflix.net/careers/job/790318598901
+- *(quiet)* Netflix - Client Partner (US - PMX)  
+  https://explore.jobs.netflix.net/careers/job/790318600987
+- *(quiet)* Netflix - Group Product Manager, Plans Innovation  
+  https://explore.jobs.netflix.net/careers/job/790318601563
+- *(quiet)* Netflix - Senior Software Engineer 5  — Validation & Safety Platform  
+  https://explore.jobs.netflix.net/careers/job/790318581246
+- *(quiet)* Netflix - Product Manager, Core Discovery  
+  https://explore.jobs.netflix.net/careers/job/790318587883
+- *(quiet)* Netflix - Product Manager, Ads Platform - Sales Products  
+  https://explore.jobs.netflix.net/careers/job/790318181132
+- *(quiet)* Netflix - Distributed Systems Engineer 6 - Membership & Monetization Platform  
+  https://explore.jobs.netflix.net/careers/job/790318539683
+- *(quiet)* Netflix - Product Manager, Ads (Billing and Finance)  
+  https://explore.jobs.netflix.net/careers/job/790318527356
+- *(quiet)* Netflix - Technical Infrastructure Delivery - Network Deployment Manager  
+  https://explore.jobs.netflix.net/careers/job/790318527355
+- *(quiet)* Netflix - Sales Partner (Japan)  
+  https://explore.jobs.netflix.net/careers/job/790318515297
+- *(quiet)* Netflix - Senior Manager, Business Development - Rest of Asia (Taiwan & Hong Kong Operators / China CE Partnerships)  
+  https://explore.jobs.netflix.net/careers/job/790318515782
+- *(quiet)* Netflix - Market Planning & Operations Manager (EMEA - Sales Operations)  
+  https://explore.jobs.netflix.net/careers/job/790318500566
+- *(quiet)* Netflix - Software Engineer L5 - AI Observability & Agent Evaluation  
+  https://explore.jobs.netflix.net/careers/job/790318510397
+- *(quiet)* Netflix - Manager, Photo & Audio Visual Studio - Japan  
+  https://explore.jobs.netflix.net/careers/job/790318500438
+- *(quiet)* Netflix - Accounts Payable Operations Lead  
+  https://explore.jobs.netflix.net/careers/job/790318509436
+- *(quiet)* Netflix - Workplace Manager (DC)  
+  https://explore.jobs.netflix.net/careers/job/790318509514
+- *(quiet)* Netflix - Environment Modeling Lead - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790318512553
+- *(quiet)* Netflix - Manager, Consumer Products - Japan  
+  https://explore.jobs.netflix.net/careers/job/790318476982
+- *(quiet)* Netflix - Screening Specialist, APAC (Events)  
+  https://explore.jobs.netflix.net/careers/job/790318478981
+- *(quiet)* Netflix - Technical Program Manager 4 - Content & Studio Engineering  
+  https://explore.jobs.netflix.net/careers/job/790318488063
+- *(quiet)* Netflix - Product Manager, Data Foundations  
+  https://explore.jobs.netflix.net/careers/job/790318491067
+- *(quiet)* Netflix - Senior Content Accountant  
+  https://explore.jobs.netflix.net/careers/job/790318491546
+- *(quiet)* Netflix - Senior Manager, Tax Planning and Business Advisory  
+  https://explore.jobs.netflix.net/careers/job/790318497575
+- *(quiet)* Netflix - Manager, Netflix is a Joke Social Marketing  
+  https://explore.jobs.netflix.net/careers/job/790318471725
+- *(quiet)* Netflix - Character Modeler - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790318470000
+- *(quiet)* Netflix - Senior Game Producer, Party & Puzzle Games  
+  https://explore.jobs.netflix.net/careers/job/790318469454
+- *(quiet)* Netflix - Head of Character Effects (CFX) - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790317396721
+- *(quiet)* Netflix - Head of Character Effects (CFX) - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790314413902
+- *(quiet)* Netflix - Software Engineer 5 - Ads Identity Graph  
+  https://explore.jobs.netflix.net/careers/job/790315141428
+- *(quiet)* Meta - Product Manager, WhatsApp - India  
+  https://www.metacareers.com/profile/job_details/2480258975833929/
+- *(quiet)* Meta - Associate General Counsel, Product (Integrity)  
+  https://www.metacareers.com/profile/job_details/1125569583326581/
+- *(quiet)* Meta - Program Lead, Creative X Program Management  
+  https://www.metacareers.com/profile/job_details/993639193800003/
+- *(quiet)* Meta - Research Scientist, Machine Learning &amp; Signal Processing [Technical Leadership]  
+  https://www.metacareers.com/profile/job_details/1476493301035580/
+- *(quiet)* Meta - Lead Counsel, Monetization   
+  https://www.metacareers.com/profile/job_details/4440645012852214/
+- *(quiet)* Meta - HRBP, Ads Ranking AI Relevance  
+  https://www.metacareers.com/profile/job_details/1406063418333628/
+- *(quiet)* Meta - KYC Program Manager  
+  https://www.metacareers.com/profile/job_details/1432026545801796/
+- *(quiet)* Meta - Signal Integrity Intern  
+  https://www.metacareers.com/profile/job_details/1950497786328676/
+- *(quiet)* Meta - Product Manager (Leadership) - Central Security  
+  https://www.metacareers.com/profile/job_details/1123150353629934/
+- *(quiet)* Meta - Program Manager, Compliance Assurance  
+  https://www.metacareers.com/profile/job_details/2571889979891130/
+- *(quiet)* Meta - Product Designer &#x2014; WhatsApp Brazil  
+  https://www.metacareers.com/profile/job_details/4452108591767075/
+- *(quiet)* Meta - Content Policy Associate Manager, Actor &amp; Behavioral Policy  
+  https://www.metacareers.com/profile/job_details/1113155727752607/
