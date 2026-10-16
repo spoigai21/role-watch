@@ -97,6 +97,7 @@ GRAD_GATED = re.compile(r"\b(phd|ph\.d|doctoral|masters?|m\.s\.?|mba)\b", re.I)
 # name in others, and an extra loud banner is cheap against a missed one.
 TARGET_ROLE = re.compile(r"\b(software|swe|engineer|engineering|developer)\b", re.I)
 TARGET_KIND = re.compile(r"\b(intern|interns|internship|co-?op)\b", re.I)
+NEWGRAD_ONLY = re.compile(r"\bnew ?grad(uate)?\b", re.I)
 TARGET_TERM = re.compile(r"\bsummer\s*,?\s*2027\b", re.I)
 # A season that is NOT his. Only used to rule a req out when it names a term and that term is
 # the wrong one - a req naming no season at all still counts, because plenty do not.
@@ -110,12 +111,40 @@ OTHER_TERM = re.compile(r"\b(fall|autumn|winter|spring)\s*,?\s*20\d\d\b", re.I)
 
 
 def is_target(title):
-    """Netflix SWE Intern, Summer 2027 - the req with the referral behind it."""
+    """Netflix SWE Intern, Summer 2027 - the req with the referral behind it.
+
+    THIS IS THE ONLY THING THAT PRODUCES A NOTIFICATION. His instruction, 2026-10-16: *"you
+    got to make sure only notify when its the right one"*. Everything else either company
+    opens is written to ROLE-WATCH.md and makes no sound at all.
+
+    That raises the stakes on this function, because a title it fails to match is now a title
+    he never hears about. So it is drawn as the widest net that is still honestly "the right
+    one", and each clause below says what it is buying:
+
+      early-career       - intern, co-op, new grad, university, student, pathways, apprentice.
+                           Netflix has used several of these for the same job.
+      not grad-gated     - a stated Master's/PhD minimum is a knockout (CLAUDE.md).
+      not senior / noise - "Manager, University Recruiting" and "Internal Audit" are not it.
+      right term         - Summer 2027, or NO season named at all. Many reqs name none, and a
+                           silent req is far likelier to be his than a Fall 2026 one.
+      right discipline   - an engineering word, OR the title says Summer 2027 outright. The
+                           second half is deliberate: a Netflix intern req that names his exact
+                           term is worth a banner whatever the discipline line calls it.
+    """
     if not title or GRAD_GATED.search(title) or NOISE.search(title) or SENIOR.search(title):
         return False
-    if not (TARGET_ROLE.search(title) and TARGET_KIND.search(title)):
+    if not EARLY.search(title):
         return False
-    return bool(TARGET_TERM.search(title)) or not OTHER_TERM.search(title)
+    # A new-grad req is a full-time job for someone finishing this year. He finishes in 2028,
+    # so it is not his and it does not ring - but it is still scanned and still logged, and
+    # a title carrying BOTH words ("New Grad / Intern Program") is kept, since that pairing
+    # usually means the intern track.
+    if NEWGRAD_ONLY.search(title) and not TARGET_KIND.search(title):
+        return False
+    summer = bool(TARGET_TERM.search(title))
+    if not summer and OTHER_TERM.search(title):
+        return False                      # it names a season, and it is not his
+    return summer or bool(TARGET_ROLE.search(title))
 
 
 class FetchError(Exception):
@@ -320,7 +349,12 @@ def main():
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--baseline", action="store_true",
                     help="record what exists now and alert on nothing (run this first)")
-    ap.add_argument("--all", action="store_true", help="skip the keyword filter")
+    ap.add_argument("--all", action="store_true",
+                    help="print every new req, not just the ones worth a notification")
+    ap.add_argument("--meta-notify", action="store_true",
+                    help="also notify on new Meta early-career reqs. OFF by default since "
+                         "2026-10-16: he asked to be notified only for the Netflix req he is "
+                         "waiting for. Meta is still scanned and still logged.")
     ap.add_argument("--test", action="store_true",
                     help="inject one fake finding to prove the alert path works, and do not "
                          "record it, so a real req is still reported later")
@@ -402,12 +436,13 @@ def main():
         seen.setdefault(k, {"title": v["title"]})
     STATE.write_text(json.dumps(seen, indent=1, sort_keys=True))
 
-    if a.all:
-        hot, quiet = new_nf + new_meta, []
-    else:
-        hot = [f for f in new_nf if netflix_tier(f["title"]) == "hot"]
+    # ONE rule decides whether anything makes a sound: is this the Netflix req he is waiting
+    # for. Meta reqs and every other Netflix opening are recorded, never announced.
+    hot = [f for f in new_nf if f["company"] == "Netflix" and is_target(f["title"])]
+    quiet = [f for f in new_nf if f not in hot] + new_meta
+    if a.meta_notify:
         hot += [f for f in new_meta if meta_interesting(f["title"])]
-        quiet = [f for f in new_nf if netflix_tier(f["title"]) != "hot"]
+        quiet = [f for f in quiet if f not in hot]
 
     if not hot and not quiet:
         line = (f"{stamp} - nothing new ({len(nf)} Netflix reqs scanned"
@@ -422,9 +457,11 @@ def main():
         return f"{f['company']}: {f['title']}{req}" + (f"  ({where})" if where else "")
 
     if quiet:
-        print(f"\n-- {len(quiet)} other new Netflix req(s), logged not alerted --")
-        for f in quiet:
+        print(f"\n-- {len(quiet)} other new req(s), logged, no notification --")
+        for f in (quiet if a.all else quiet[:12]):
             print(f"   {describe(f)}\n   {f['url']}")
+        if not a.all and len(quiet) > 12:
+            print(f"   ... and {len(quiet) - 12} more, in {LOG.name}")
 
     if hot:
         summary(f"## {len(hot)} new req(s) - {stamp}\n")
@@ -440,21 +477,17 @@ def main():
         for f in quiet:
             fh.write(f"- *(quiet)* {f['company']} - {f['title']}  \n  {f['url']}\n")
 
-    netflix_hot = [f for f in hot if f["company"] == "Netflix"]
-    target = [f for f in netflix_hot if is_target(f["title"])]
+    target = [f for f in hot if f["company"] == "Netflix"]
     if target:
         # Five rings across two and a half minutes. This is the req the whole watcher exists
-        # for; everything else can afford to be missed once.
+        # for, and now the only one that rings at all.
         alarm([describe(f) for f in target], repeat=5, gap=30,
               title="NETFLIX SWE INTERN SUMMER 2027 IS LIVE")
         (LOG.parent / "TARGET-FOUND.txt").write_text(
             stamp + "\n" + "\n".join(f"{describe(f)}\n{f['url']}" for f in target) + "\n")
-    rest = [f for f in netflix_hot if f not in target]
-    if rest:
-        alarm([describe(f) for f in rest])
-    other_hot = [f for f in hot if f["company"] != "Netflix"]
-    if other_hot:
-        banner("; ".join(describe(f) for f in other_hot), title="New req")
+    other = [f for f in hot if f["company"] != "Netflix"]      # only with --meta-notify
+    if other:
+        banner("; ".join(describe(f) for f in other), title="New req")
 
     if a.github_output and hot and (gh := __import__("os").environ.get("GITHUB_OUTPUT")):
         body = "\n".join(f"- **{f['company']}** - {f['title']}\n  {f['url']}" for f in hot)
@@ -463,7 +496,7 @@ def main():
             fh.write(f"count={len(hot)}\n")
             fh.write("body<<ROLEWATCH_EOF\n" + body + "\nROLEWATCH_EOF\n")
 
-    print(f"\n{len(hot)} alerted, {len(quiet)} logged quietly. Logged to {LOG.name}.")
+    print(f"\n{len(hot)} notified, {len(quiet)} logged silently. Logged to {LOG.name}.")
     return 0
 
 

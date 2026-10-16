@@ -43,10 +43,32 @@ A keyword query only finds a req whose title already contains the keyword, so ea
 
 A steady-state run is three requests and about **one second**.
 
-New Netflix reqs are then split in two. An early-career title that is not graduate-gated is
-**hot**: three banners across a minute, with sound, the last one saying to get the referral filed
-internally first. Everything else Netflix opens — and it opens several a day across 409 live reqs
-— is **quiet**: written to `ROLE-WATCH.md`, no banner. Meta keeps the narrow filter, one banner.
+## One notification, for one req
+
+**The only thing that makes a sound is the Netflix Software Engineer Intern, Summer 2027** — the
+req there is a referral behind. His instruction, 2026-10-16: *"you got to make sure only notify
+when its the right one."*
+
+Everything else either company opens is still scanned and still written to `ROLE-WATCH.md`. It
+just does not ring. That includes every Meta req; `--meta-notify` turns those banners back on.
+
+A match rings **five times across two and a half minutes**, with sound, under its own banner, and
+drops a `TARGET-FOUND.txt` beside the log. The last ring reads *"REFERRAL FIRST — have them file
+it internally, then apply"*, because that is the actual first move, not opening the posting.
+
+Since a title the matcher misses is now a title he never hears about, the net is the widest thing
+that is still honestly *the right one*:
+
+| Clause | Buys |
+| --- | --- |
+| early-career | intern · co-op · university · student · pathways · apprentice — Netflix has used several of these for the same job |
+| not graduate-gated | a stated Master's/PhD minimum is a knockout |
+| not senior, not "internal"/"international" | "Manager, University Recruiting" and "Internal Audit" are not it |
+| right term | Summer 2027, **or no season named at all** — many reqs name none, and a silent req is likelier to be his than a Fall 2026 one |
+| right discipline | an engineering word, **or** the title says Summer 2027 outright |
+| not new-grad-only | a new-grad req is a full-time job for someone finishing this year; he finishes 2028 |
+
+19 titles are verified against it, near misses included.
 
 ## Local agent
 
