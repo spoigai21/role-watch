@@ -141,3 +141,8 @@
 
 - **Meta** — Quality &amp; Reliability Engineering Intern  
   https://www.metacareers.com/profile/job_details/1624891432439039/
+
+## 2026-10-16 18:57
+
+- **Meta** — Production Systems Engineering Intern   
+  https://www.metacareers.com/profile/job_details/4536253699919879/
