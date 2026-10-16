@@ -375,3 +375,12 @@
   https://www.metacareers.com/profile/job_details/4452108591767075/
 - *(quiet)* Meta - Content Policy Associate Manager, Actor &amp; Behavioral Policy  
   https://www.metacareers.com/profile/job_details/1113155727752607/
+
+## 2026-10-16 23:59
+
+- *(quiet)* Netflix - Experiences Web & Digital Marketing Manager  
+  https://explore.jobs.netflix.net/careers/job/790318999845
+- *(quiet)* Meta - Product Manager, WhatsApp - Brazil   
+  https://www.metacareers.com/profile/job_details/1659928415915116/
+- *(quiet)* Meta - Product Manager, WhatsApp - India  
+  https://www.metacareers.com/profile/job_details/1446008381918730/
