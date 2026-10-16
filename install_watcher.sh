@@ -1,7 +1,10 @@
 #!/bin/bash
-# Optional: run the watcher locally as a launchd agent, for an instant desktop
-# notification while the Mac is awake. The GitHub Actions workflow covers 24/7
-# on its own, so this is a convenience, not the main path.
+# Run the watcher locally as a launchd agent: a desktop notification within three minutes
+# of a req going live, any time this Mac is on. launchd runs a StartInterval job on wake if
+# its turn came round while the machine was asleep, so closing the lid costs one cycle, not
+# the watch.
+#
+# Netflix every 3 minutes, Meta every 10 (its sitemap is ~1 MB; Netflix's API is a few KB).
 #
 #     bash install_watcher.sh          # install or update
 #     bash install_watcher.sh --off    # stop and remove
@@ -35,9 +38,10 @@ cat > "$PLIST" <<PLISTEOF
   <array>
     <string>/usr/bin/python3</string>
     <string>$DEST/watch_roles.py</string>
+    <string>--meta-every</string><string>10</string>
   </array>
   <key>WorkingDirectory</key><string>$DEST</string>
-  <key>StartInterval</key><integer>7200</integer>
+  <key>StartInterval</key><integer>180</integer>
   <key>RunAtLoad</key><true/>
   <key>StandardOutPath</key><string>$DEST/watch.log</string>
   <key>StandardErrorPath</key><string>$DEST/watch.log</string>
@@ -53,8 +57,9 @@ fi
 launchctl unload "$PLIST" 2>/dev/null || true
 launchctl load "$PLIST"
 echo
-echo "installed. runs every 2 hours and at login."
+echo "installed. Netflix every 3 minutes, Meta every 10, and at login."
 echo "  findings:  $DEST/ROLE-WATCH.md"
 echo "  run log:   $DEST/watch.log"
 echo "  check now: /usr/bin/python3 '$DEST/watch_roles.py'"
+echo "  test the alert: /usr/bin/python3 '$DEST/watch_roles.py' --test"
 echo "  stop:      bash install_watcher.sh --off"
