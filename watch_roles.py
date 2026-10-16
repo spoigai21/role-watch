@@ -88,6 +88,35 @@ SENIOR = re.compile(r"\b(manager|director|principal|staff|senior|sr\.?|lead|head
 # than an irrelevant one.
 GRAD_GATED = re.compile(r"\b(phd|ph\.d|doctoral|masters?|m\.s\.?|mba)\b", re.I)
 
+# THE ONE HE IS WAITING FOR: Netflix Software Engineer Intern, Summer 2027, which he has a
+# referral for. This is an ESCALATION on top of `hot`, never a filter - a title that fails to
+# match here still rings as hot, so narrowing it can cost noise but can never cost the alert.
+#
+# "engineer|engineering|developer" is deliberately wider than "software": Netflix has titled
+# this req "Software Engineering Intern" in some years and hung the discipline off the team
+# name in others, and an extra loud banner is cheap against a missed one.
+TARGET_ROLE = re.compile(r"\b(software|swe|engineer|engineering|developer)\b", re.I)
+TARGET_KIND = re.compile(r"\b(intern|interns|internship|co-?op)\b", re.I)
+TARGET_TERM = re.compile(r"\bsummer\s*,?\s*2027\b", re.I)
+# A season that is NOT his. Only used to rule a req out when it names a term and that term is
+# the wrong one - a req naming no season at all still counts, because plenty do not.
+#
+# This must be checked even when the year is right. Matching on a bare "2027" made "Software
+# Engineering Intern, Winter 2027" escalate as the target, because the year matched and the
+# `or` short-circuited before the season was ever read. A Winter req is still something he
+# wants - CLAUDE.md says an off-cycle term is not a knockout - so it still rings as `hot`,
+# three banners. It just is not THE one.
+OTHER_TERM = re.compile(r"\b(fall|autumn|winter|spring)\s*,?\s*20\d\d\b", re.I)
+
+
+def is_target(title):
+    """Netflix SWE Intern, Summer 2027 - the req with the referral behind it."""
+    if not title or GRAD_GATED.search(title) or NOISE.search(title) or SENIOR.search(title):
+        return False
+    if not (TARGET_ROLE.search(title) and TARGET_KIND.search(title)):
+        return False
+    return bool(TARGET_TERM.search(title)) or not OTHER_TERM.search(title)
+
 
 class FetchError(Exception):
     pass
@@ -265,7 +294,7 @@ def banner(body, title="New req", sound="Glass"):
         pass
 
 
-def alarm(lines, repeat=3, gap=18):
+def alarm(lines, repeat=3, gap=18, title="NETFLIX - early-career req is LIVE"):
     """The loud one. A banner nobody was at the desk for is a banner that did not arrive, so a
     hot req rings three times across a minute rather than once.
 
@@ -281,7 +310,7 @@ def alarm(lines, repeat=3, gap=18):
         last = i == max(1, repeat) - 1
         banner("REFERRAL FIRST - have them file it internally, then apply. " + body if last
                else body,
-               title="NETFLIX - early-career req is LIVE", sound="Glass")
+               title=title, sound="Glass")
 
 
 # --------------------------------------------------------------------------- main
@@ -319,7 +348,9 @@ def main():
                  "location": "Los Gatos, CA", "team": "Engineering", "req": "JR00000",
                  "url": "https://explore.jobs.netflix.net/careers", "created": None}]
         print("--test: injecting one fake finding. Nothing real is recorded or suppressed.")
-        alarm([f"{h['company']}: {h['title']}" for h in hits], repeat=2, gap=4)
+        print(f"    is_target: {is_target(hits[0]['title'])}")
+        alarm([f"{h['company']}: {h['title']}" for h in hits], repeat=2, gap=4,
+              title="NETFLIX SWE INTERN SUMMER 2027 IS LIVE")
         if a.github_output and (gh := __import__("os").environ.get("GITHUB_OUTPUT")):
             body = "\n".join(f"- **{f['company']}** - {f['title']}\n  {f['url']}" for f in hits)
             with open(gh, "a") as fh:
@@ -410,8 +441,17 @@ def main():
             fh.write(f"- *(quiet)* {f['company']} - {f['title']}  \n  {f['url']}\n")
 
     netflix_hot = [f for f in hot if f["company"] == "Netflix"]
-    if netflix_hot:
-        alarm([describe(f) for f in netflix_hot])
+    target = [f for f in netflix_hot if is_target(f["title"])]
+    if target:
+        # Five rings across two and a half minutes. This is the req the whole watcher exists
+        # for; everything else can afford to be missed once.
+        alarm([describe(f) for f in target], repeat=5, gap=30,
+              title="NETFLIX SWE INTERN SUMMER 2027 IS LIVE")
+        (LOG.parent / "TARGET-FOUND.txt").write_text(
+            stamp + "\n" + "\n".join(f"{describe(f)}\n{f['url']}" for f in target) + "\n")
+    rest = [f for f in netflix_hot if f not in target]
+    if rest:
+        alarm([describe(f) for f in rest])
     other_hot = [f for f in hot if f["company"] != "Netflix"]
     if other_hot:
         banner("; ".join(describe(f) for f in other_hot), title="New req")
