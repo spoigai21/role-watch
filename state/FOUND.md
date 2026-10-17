@@ -384,3 +384,10 @@
   https://www.metacareers.com/profile/job_details/1659928415915116/
 - *(quiet)* Meta - Product Manager, WhatsApp - India  
   https://www.metacareers.com/profile/job_details/1446008381918730/
+
+## 2026-10-17 03:39
+
+- *(quiet)* Meta - Brand Marketing Manager, Facebook  
+  https://www.metacareers.com/profile/job_details/1403577618658210/
+- *(quiet)* Meta - Business Support Engineer - AdTech  
+  https://www.metacareers.com/profile/job_details/1112920251290763/
