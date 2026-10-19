@@ -400,3 +400,8 @@
   https://www.metacareers.com/profile/job_details/916066364475112/
 - *(quiet)* Meta - Connectivity Engineer - Data Center Design, Engineering, &amp; Construction  
   https://www.metacareers.com/profile/job_details/1437175065054072/
+
+## 2026-10-19 14:02
+
+- *(quiet)* Meta - Public Policy Manager, Philippines  
+  https://www.metacareers.com/profile/job_details/4496585923940057/
