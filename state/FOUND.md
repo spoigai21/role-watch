@@ -391,3 +391,12 @@
   https://www.metacareers.com/profile/job_details/1403577618658210/
 - *(quiet)* Meta - Business Support Engineer - AdTech  
   https://www.metacareers.com/profile/job_details/1112920251290763/
+
+## 2026-10-19 06:48
+
+- *(quiet)* Meta - Partner Engineer  
+  https://www.metacareers.com/profile/job_details/1420192470082565/
+- *(quiet)* Meta - Marketing Manager, Wearables (South Korea)  
+  https://www.metacareers.com/profile/job_details/916066364475112/
+- *(quiet)* Meta - Connectivity Engineer - Data Center Design, Engineering, &amp; Construction  
+  https://www.metacareers.com/profile/job_details/1437175065054072/
