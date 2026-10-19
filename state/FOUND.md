@@ -405,3 +405,44 @@
 
 - *(quiet)* Meta - Public Policy Manager, Philippines  
   https://www.metacareers.com/profile/job_details/4496585923940057/
+
+## 2026-10-19 19:47
+
+- *(quiet)* Netflix - Manager, Finance & Strategy, Experiences  
+  https://explore.jobs.netflix.net/careers/job/790319019747
+- *(quiet)* Netflix - Solutions Engineer 5 - Content Promotion & Distribution  
+  https://explore.jobs.netflix.net/careers/job/790318930709
+- *(quiet)* Meta - Thermal Engineer Intern   
+  https://www.metacareers.com/profile/job_details/1866779221408793/
+- *(quiet)* Meta - Internal Communications Manager, Legal &amp; Regulatory  
+  https://www.metacareers.com/profile/job_details/1414284506912052/
+- *(quiet)* Meta - Marketing Insights Researcher  
+  https://www.metacareers.com/profile/job_details/1087375243684278/
+- *(quiet)* Meta - Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)  
+  https://www.metacareers.com/profile/job_details/4723409617931131/
+- *(quiet)* Meta - Immigration Program Manager (Operations)  
+  https://www.metacareers.com/profile/job_details/3229811433877244/
+- *(quiet)* Meta - Research Scientist Intern, Robotics Hardware (PhD)  
+  https://www.metacareers.com/profile/job_details/2105411693413958/
+- *(quiet)* Meta - Research Scientist, Machine Learning  
+  https://www.metacareers.com/profile/job_details/965295459333070/
+- *(quiet)* Meta - Manager, Regulatory Escalations  
+  https://www.metacareers.com/profile/job_details/1097917699288856/
+- *(quiet)* Meta - Research Scientist Intern, 3D-grounded Generalist Model for Robotics (PhD)  
+  https://www.metacareers.com/profile/job_details/2267351860492630/
+- *(quiet)* Meta - Research Scientist Intern, Audio User Experience (PhD)  
+  https://www.metacareers.com/profile/job_details/1736386761384394/
+- *(quiet)* Meta - Product Manager, Infrastructure Capacity Planning  
+  https://www.metacareers.com/profile/job_details/1842634287090273/
+- *(quiet)* Meta - Regulatory Escalations Manager  
+  https://www.metacareers.com/profile/job_details/2367205237348273/
+- *(quiet)* Meta - Demand Planner, Strategic Analytics  
+  https://www.metacareers.com/profile/job_details/1587121459197847/
+- *(quiet)* Meta - Optical Engineering AI and Data Analytics Intern  
+  https://www.metacareers.com/profile/job_details/1851348099357899/
+- *(quiet)* Meta - Softgoods Product Design Engineering Intern   
+  https://www.metacareers.com/profile/job_details/1111723361506997/
+- *(quiet)* Meta - Facility Technical Manager  
+  https://www.metacareers.com/profile/job_details/1491096652907031/
+- *(quiet)* Meta - Community Engagement Manager  
+  https://www.metacareers.com/profile/job_details/1544779060820466/
