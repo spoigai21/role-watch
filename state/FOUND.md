@@ -446,3 +446,22 @@
   https://www.metacareers.com/profile/job_details/1491096652907031/
 - *(quiet)* Meta - Community Engagement Manager  
   https://www.metacareers.com/profile/job_details/1544779060820466/
+
+## 2026-10-19 23:07
+
+- **ALERT Netflix** - Software Engineer Intern - Summer 2027  
+  https://explore.jobs.netflix.net/careers/job/790318904468
+- *(quiet)* Meta - Research Scientist Intern, On-Device AI Model Optimization (PhD)  
+  https://www.metacareers.com/profile/job_details/4455569504707135/
+- *(quiet)* Meta - Research Scientist Intern, Smart Glasses in Wearables AI (PhD)  
+  https://www.metacareers.com/profile/job_details/1584033410435097/
+- *(quiet)* Meta - Network Engineer, Foundation &amp; Support (Edge/Backbone Infrastructure Design)  
+  https://www.metacareers.com/profile/job_details/1854901739028477/
+- *(quiet)* Meta - Program Manager, Strategic Risk Programs  
+  https://www.metacareers.com/profile/job_details/28741286075523076/
+- *(quiet)* Meta - Electrical Engineer, Power  
+  https://www.metacareers.com/profile/job_details/1644589287379995/
+- *(quiet)* Meta - Finance Associate, x-RL Finance  
+  https://www.metacareers.com/profile/job_details/1828905044780700/
+- *(quiet)* Meta - Program Manager, Product Immersion and Testing  
+  https://www.metacareers.com/profile/job_details/1165042456088759/
