@@ -465,3 +465,14 @@
   https://www.metacareers.com/profile/job_details/1828905044780700/
 - *(quiet)* Meta - Program Manager, Product Immersion and Testing  
   https://www.metacareers.com/profile/job_details/1165042456088759/
+
+## 2026-10-20 01:44
+
+- *(quiet)* Netflix - Senior Product Operations Lead & Program Manager - Content Experience Innovation  
+  https://explore.jobs.netflix.net/careers/job/790319022497
+- *(quiet)* Meta - AI Research Scientist, MRS Knowledge  
+  https://www.metacareers.com/profile/job_details/1710830543977644/
+- *(quiet)* Meta - AI Research Scientist, MRS Knowledge  
+  https://www.metacareers.com/profile/job_details/1813519376505749/
+- *(quiet)* Meta - Marketing Operations Manager  
+  https://www.metacareers.com/profile/job_details/1378567654075838/
