@@ -517,3 +517,42 @@
   https://www.metacareers.com/profile/job_details/1142627778717858/
 - *(quiet)* Meta - Executive Administrative Partner  
   https://www.metacareers.com/profile/job_details/29246294285057047/
+
+## 2026-10-20 20:15
+
+- *(quiet)* Netflix - Senior Manager, Business & Technical Operations - Content & Business Products  
+  https://explore.jobs.netflix.net/careers/job/790318627353
+- *(quiet)* Netflix - Analytics Engineer 5 - Ads Identity & Signals  
+  https://explore.jobs.netflix.net/careers/job/790319029825
+- *(quiet)* Meta - Software Engineer (Technical Leadership) - AI Solutions and Automation + Support  
+  https://www.metacareers.com/profile/job_details/973871862428115/
+- *(quiet)* Meta - Research Scientist Intern, Robotics Foundation Models Post-Training (PhD)  
+  https://www.metacareers.com/profile/job_details/848358355026771/
+- *(quiet)* Meta - Research Scientist Intern, Computational Imaging And Robotics (PhD)  
+  https://www.metacareers.com/profile/job_details/2857194467985784/
+- *(quiet)* Meta - Associate General Counsel, AI Product  
+  https://www.metacareers.com/profile/job_details/1458974916132836/
+- *(quiet)* Meta - Software Engineer, Machine Learning - Central Integrity  
+  https://www.metacareers.com/profile/job_details/1348311400712812/
+- *(quiet)* Meta - Engineering Manager, Machine Learning  
+  https://www.metacareers.com/profile/job_details/1061455070273842/
+- *(quiet)* Meta - Research Scientist Intern, Audio, Numerical Acoustics (PhD)  
+  https://www.metacareers.com/profile/job_details/1642811797633951/
+- *(quiet)* Meta - Senior Brand Designer, Meta Ads  
+  https://www.metacareers.com/profile/job_details/2140440153223142/
+- *(quiet)* Meta - Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)  
+  https://www.metacareers.com/profile/job_details/1476285977740386/
+- *(quiet)* Meta - Enterprise Security Engineer, Intern (Summer 2027)  
+  https://www.metacareers.com/profile/job_details/1079627324896327/
+- *(quiet)* Meta - Detection &amp; Response Security Engineer, Intern (Summer 2027)  
+  https://www.metacareers.com/profile/job_details/1677981003713152/
+- *(quiet)* Meta - Security Engineer Posture Management, Intern (Summer 2027)  
+  https://www.metacareers.com/profile/job_details/1359570553913180/
+- *(quiet)* Meta - Product Security Engineer, Intern (Summer 2027)  
+  https://www.metacareers.com/profile/job_details/2535222523640873/
+- *(quiet)* Meta - Research Scientist Intern, Audio Quality with AI  
+  https://www.metacareers.com/profile/job_details/4556622427930384/
+- *(quiet)* Meta - Public Policy Manager, Strategy and Regulations, AMET (STE Contract - 12 months)  
+  https://www.metacareers.com/profile/job_details/1983165642363104/
+- *(quiet)* Meta - Head of Global Brand Experiences  
+  https://www.metacareers.com/profile/job_details/1520943963130943/
