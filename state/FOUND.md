@@ -483,3 +483,12 @@
   https://explore.jobs.netflix.net/careers/job/790319023304
 - *(quiet)* Meta - Network Engineer, Deployment &amp; Support  
   https://www.metacareers.com/profile/job_details/1639248364381190/
+
+## 2026-10-20 12:08
+
+- *(quiet)* Meta - Lead Counsel, Data Protection  
+  https://www.metacareers.com/profile/job_details/1110973328243864/
+- *(quiet)* Meta - Technical Program Manager, Meta Robotics Studio, APAC  
+  https://www.metacareers.com/profile/job_details/1119125327506950/
+- *(quiet)* Meta - Product Design Engineer, Meta Robotics Studio, APAC  
+  https://www.metacareers.com/profile/job_details/1402013228682688/
