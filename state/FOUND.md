@@ -476,3 +476,10 @@
   https://www.metacareers.com/profile/job_details/1813519376505749/
 - *(quiet)* Meta - Marketing Operations Manager  
   https://www.metacareers.com/profile/job_details/1378567654075838/
+
+## 2026-10-20 06:39
+
+- *(quiet)* Netflix - Marketing Specialist, Consumer Products - Korea (FTC)  
+  https://explore.jobs.netflix.net/careers/job/790319023304
+- *(quiet)* Meta - Network Engineer, Deployment &amp; Support  
+  https://www.metacareers.com/profile/job_details/1639248364381190/
