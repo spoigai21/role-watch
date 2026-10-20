@@ -492,3 +492,28 @@
   https://www.metacareers.com/profile/job_details/1119125327506950/
 - *(quiet)* Meta - Product Design Engineer, Meta Robotics Studio, APAC  
   https://www.metacareers.com/profile/job_details/1402013228682688/
+
+## 2026-10-20 16:56
+
+- *(quiet)* Netflix - Licensing Manager, Consumer Products EMEA  
+  https://explore.jobs.netflix.net/careers/job/790319024513
+- *(quiet)* Meta - Engineering Product Configuration Manager  
+  https://www.metacareers.com/profile/job_details/2158178461579459/
+- *(quiet)* Meta - Research Intern - Self-Improving Agentic Systems and AI Research Agents  
+  https://www.metacareers.com/profile/job_details/994737396214791/
+- *(quiet)* Meta - Design Producer  
+  https://www.metacareers.com/profile/job_details/2197770501148217/
+- *(quiet)* Meta - Design Verification Engineer, Silicon  
+  https://www.metacareers.com/profile/job_details/2103489196952977/
+- *(quiet)* Meta - Client Solutions Manager - France (STE, 6 months)  
+  https://www.metacareers.com/profile/job_details/1796731311636370/
+- *(quiet)* Meta - Content Policy Associate Manager, Actor &amp; Behavioral Policy  
+  https://www.metacareers.com/profile/job_details/1486204010272995/
+- *(quiet)* Meta - Research Scientist - Meta Recommendation Systems (PhD)  
+  https://www.metacareers.com/profile/job_details/2389925061779623/
+- *(quiet)* Meta - DFX Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1798345134744465/
+- *(quiet)* Meta - Product Marketing Lead, Social and AI, Facebook  
+  https://www.metacareers.com/profile/job_details/1142627778717858/
+- *(quiet)* Meta - Executive Administrative Partner  
+  https://www.metacareers.com/profile/job_details/29246294285057047/
