@@ -1,5 +1,5 @@
 {
- "_meta_checked": 1792527358.252897,
+ "_meta_checked": 1792537945.26128,
  "meta:1001245402541256": {
   "title": null
  },
@@ -378,6 +378,9 @@
  "meta:1074311682016184": {
   "title": null
  },
+ "meta:1074436122076930": {
+  "title": "Software Engineer, LLVM Compiler - MTIA"
+ },
  "meta:1074729828277769": {
   "title": null
  },
@@ -717,6 +720,9 @@
  "meta:1123459746795309": {
   "title": "ASIC Engineer Intern, Design Verification"
  },
+ "meta:1123745393434437": {
+  "title": "Software Engineer, Embedded BSP/Kernel (Robotics OS)"
+ },
  "meta:1123905276826454": {
   "title": "Thermal Engineering Intern "
  },
@@ -818,6 +824,9 @@
  },
  "meta:1154738753397824": {
   "title": null
+ },
+ "meta:1163260232775705": {
+  "title": "Product Management, Director"
  },
  "meta:1165042456088759": {
   "title": "Program Manager, Product Immersion and Testing"
@@ -1230,6 +1239,9 @@
  "meta:1401447865502287": {
   "title": "Battery Systems Engineer"
  },
+ "meta:1401543682021600": {
+  "title": "Software Engineer, Machine Learning"
+ },
  "meta:1401559394843193": {
   "title": "Workday Integration Engineer"
  },
@@ -1374,6 +1386,9 @@
  "meta:1427751379499342": {
   "title": "Product Cost Engineer, Capital Equipment &#x2014; Meta Reality Labs Product Operations"
  },
+ "meta:1428978125312655": {
+  "title": "Research Scientist Intern, Multimodal Behavioral AI (PhD)"
+ },
  "meta:1429008335773176": {
   "title": null
  },
@@ -1406,6 +1421,9 @@
  },
  "meta:1436360758394361": {
   "title": null
+ },
+ "meta:1436615821934863": {
+  "title": "Research Scientist Intern, AI-Driven Neural Interfaces (PhD)"
  },
  "meta:1437175065054072": {
   "title": "Connectivity Engineer - Data Center Design, Engineering, &amp; Construction"
@@ -2744,6 +2762,9 @@
  },
  "meta:1858344791964854": {
   "title": "Production Systems Engineer, Hardware Analytics"
+ },
+ "meta:1859464598822161": {
+  "title": "ASIC Engineer, Implementation"
  },
  "meta:1860623898267152": {
   "title": "Director, Executive Development"
@@ -4569,6 +4590,9 @@
  "meta:944334121595970": {
   "title": "Fleet Operations Manager, Data Center Infrastructure"
  },
+ "meta:944630651655421": {
+  "title": "Visiting Researcher, Meta Superintelligence Labs "
+ },
  "meta:945214178025211": {
   "title": null
  },
@@ -5120,5 +5144,8 @@
  },
  "netflix:790319029825": {
   "title": "Analytics Engineer 5 - Ads Identity & Signals"
+ },
+ "netflix:790319032635": {
+  "title": "Game Director, SPIN"
  }
 }

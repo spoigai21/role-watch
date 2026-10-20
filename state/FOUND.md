@@ -556,3 +556,24 @@
   https://www.metacareers.com/profile/job_details/1983165642363104/
 - *(quiet)* Meta - Head of Global Brand Experiences  
   https://www.metacareers.com/profile/job_details/1520943963130943/
+
+## 2026-10-20 23:12
+
+- *(quiet)* Netflix - Game Director, SPIN  
+  https://explore.jobs.netflix.net/careers/job/790319032635
+- *(quiet)* Meta - Software Engineer, Embedded BSP/Kernel (Robotics OS)  
+  https://www.metacareers.com/profile/job_details/1123745393434437/
+- *(quiet)* Meta - Product Management, Director  
+  https://www.metacareers.com/profile/job_details/1163260232775705/
+- *(quiet)* Meta - Software Engineer, LLVM Compiler - MTIA  
+  https://www.metacareers.com/profile/job_details/1074436122076930/
+- *(quiet)* Meta - ASIC Engineer, Implementation  
+  https://www.metacareers.com/profile/job_details/1859464598822161/
+- *(quiet)* Meta - Visiting Researcher, Meta Superintelligence Labs   
+  https://www.metacareers.com/profile/job_details/944630651655421/
+- *(quiet)* Meta - Research Scientist Intern, Multimodal Behavioral AI (PhD)  
+  https://www.metacareers.com/profile/job_details/1428978125312655/
+- *(quiet)* Meta - Research Scientist Intern, AI-Driven Neural Interfaces (PhD)  
+  https://www.metacareers.com/profile/job_details/1436615821934863/
+- *(quiet)* Meta - Software Engineer, Machine Learning  
+  https://www.metacareers.com/profile/job_details/1401543682021600/
