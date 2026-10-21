@@ -608,3 +608,26 @@
   https://www.metacareers.com/profile/job_details/2288012098648243/
 - *(quiet)* Meta - Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)  
   https://www.metacareers.com/profile/job_details/29859210493681744/
+
+## 2026-10-21 17:12
+
+- *(quiet)* Meta - Technology Enablement Program Manager  
+  https://www.metacareers.com/profile/job_details/1048340428177328/
+- *(quiet)* Meta - TPM - SME Onboarding, Engagement and Voice of Customer  
+  https://www.metacareers.com/profile/job_details/1051197994374282/
+- *(quiet)* Meta - Director, RL Retail EMEA Sales  
+  https://www.metacareers.com/profile/job_details/1816403342748612/
+- *(quiet)* Meta - Research Engineer, Agentic Evaluation for Networking and Wireless Systems  
+  https://www.metacareers.com/profile/job_details/1029495006778831/
+- *(quiet)* Meta - Content Policy Manager, Actor and Behavioral Policy  
+  https://www.metacareers.com/profile/job_details/1037545275976350/
+- *(quiet)* Meta - Forward Deployed Engineer, Enterprise AI  
+  https://www.metacareers.com/profile/job_details/942632712213062/
+- *(quiet)* Meta - Product Policy Manager, GenAI  
+  https://www.metacareers.com/profile/job_details/1035889779468751/
+- *(quiet)* Meta - Indirect Tax Manager  
+  https://www.metacareers.com/profile/job_details/1589748088915473/
+- *(quiet)* Meta - Research Scientist Intern, Audio, Numerical Acoustics (PhD)  
+  https://www.metacareers.com/profile/job_details/2188224482038078/
+- *(quiet)* Meta - Software Engineer, Machine Learning  
+  https://www.metacareers.com/profile/job_details/1048049836887307/
