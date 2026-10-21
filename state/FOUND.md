@@ -589,3 +589,22 @@
 
 - *(quiet)* Netflix - HR Business Partner - Philippines  
   https://explore.jobs.netflix.net/careers/job/790319034421
+
+## 2026-10-21 12:13
+
+- *(quiet)* Meta - Market Specialist, Indonesia  
+  https://www.metacareers.com/profile/job_details/2118834242093644/
+- *(quiet)* Meta - Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD)  
+  https://www.metacareers.com/profile/job_details/1420325362923811/
+- *(quiet)* Meta - Research Scientist Intern, Robotics Foundation Models (PhD)  
+  https://www.metacareers.com/profile/job_details/1085375117813817/
+- *(quiet)* Meta - Research Scientist Intern &#x2013; Robotics, World Models &amp; Embodied AI (PhD)  
+  https://www.metacareers.com/profile/job_details/2281070982817094/
+- *(quiet)* Meta - Global Brand Experiences Manager, EMEA  
+  https://www.metacareers.com/profile/job_details/1110477908192983/
+- *(quiet)* Meta - WhatsApp - Software Engineer (Technical Leadership) - iOS  
+  https://www.metacareers.com/profile/job_details/3017015768637502/
+- *(quiet)* Meta - Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)  
+  https://www.metacareers.com/profile/job_details/2288012098648243/
+- *(quiet)* Meta - Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)  
+  https://www.metacareers.com/profile/job_details/29859210493681744/
