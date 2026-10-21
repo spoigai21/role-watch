@@ -660,3 +660,12 @@
   https://www.metacareers.com/profile/job_details/1416707097199386/
 - *(quiet)* Meta - Marketing Science Partner  
   https://www.metacareers.com/profile/job_details/938376309017396/
+
+## 2026-10-21 23:36
+
+- *(quiet)* Meta - Technical Sourcing Manager, DC Power Infrastructure  
+  https://www.metacareers.com/profile/job_details/4538695409740903/
+- *(quiet)* Meta - ASIC Engineer, Infrastructure Silicon Validation  
+  https://www.metacareers.com/profile/job_details/1389772523328596/
+- *(quiet)* Meta - Program Manager, Global Response Operations  
+  https://www.metacareers.com/profile/job_details/28334339542915431/
