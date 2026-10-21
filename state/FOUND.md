@@ -584,3 +584,8 @@
   https://www.metacareers.com/profile/job_details/1510576574212840/
 - *(quiet)* Meta - Motion Designer, CX  
   https://www.metacareers.com/profile/job_details/1760886881800470/
+
+## 2026-10-21 06:30
+
+- *(quiet)* Netflix - HR Business Partner - Philippines  
+  https://explore.jobs.netflix.net/careers/job/790319034421
