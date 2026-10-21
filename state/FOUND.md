@@ -631,3 +631,32 @@
   https://www.metacareers.com/profile/job_details/2188224482038078/
 - *(quiet)* Meta - Software Engineer, Machine Learning  
   https://www.metacareers.com/profile/job_details/1048049836887307/
+
+## 2026-10-21 20:37
+
+- *(quiet)* Meta - Software Engineer - AI Solutions and Automation + Support  
+  https://www.metacareers.com/profile/job_details/1971769233797453/
+- *(quiet)* Meta - Lead Counsel, Monetization   
+  https://www.metacareers.com/profile/job_details/2269224877193553/
+- *(quiet)* Meta - Lease Connectivity Engineer, Data Center Infrastructure  
+  https://www.metacareers.com/profile/job_details/1792578481861391/
+- *(quiet)* Meta - Research Scientist Intern, Foundational Models for Robotics Research (PhD)  
+  https://www.metacareers.com/profile/job_details/1078644001656413/
+- *(quiet)* Meta - Research Scientist Intern, Multimodal Learning for Robotics (PhD)  
+  https://www.metacareers.com/profile/job_details/1656954472496223/
+- *(quiet)* Meta - Research Scientist Intern, Low-Power Scene Reconstruction for AR/VR  
+  https://www.metacareers.com/profile/job_details/1075160338670575/
+- *(quiet)* Meta - Research Scientist Intern, Robot Foundation Models (PhD)  
+  https://www.metacareers.com/profile/job_details/27730225806654441/
+- *(quiet)* Meta - Product Designer, Instagram  
+  https://www.metacareers.com/profile/job_details/4035130996888993/
+- *(quiet)* Meta - Software Engineer, Systems ML  
+  https://www.metacareers.com/profile/job_details/2660908554412579/
+- *(quiet)* Meta - Research Intern, Audio Hardware (PhD)  
+  https://www.metacareers.com/profile/job_details/1445807477756644/
+- *(quiet)* Meta - Software Engineer, Systems ML - Frameworks / Compilers / Kernels | Ing&#xe9;nieur logiciel, Syst&#xe8;mes ML, cadres/Compilateurs/Noyaux  
+  https://www.metacareers.com/profile/job_details/1849835952851802/
+- *(quiet)* Meta - Marketing Science Partner  
+  https://www.metacareers.com/profile/job_details/1416707097199386/
+- *(quiet)* Meta - Marketing Science Partner  
+  https://www.metacareers.com/profile/job_details/938376309017396/
