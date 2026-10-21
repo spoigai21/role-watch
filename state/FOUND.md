@@ -577,3 +577,10 @@
   https://www.metacareers.com/profile/job_details/1436615821934863/
 - *(quiet)* Meta - Software Engineer, Machine Learning  
   https://www.metacareers.com/profile/job_details/1401543682021600/
+
+## 2026-10-21 01:34
+
+- *(quiet)* Meta - Research Scientist Intern, PhD &#x2014; Meta Superintelligence Labs  
+  https://www.metacareers.com/profile/job_details/1510576574212840/
+- *(quiet)* Meta - Motion Designer, CX  
+  https://www.metacareers.com/profile/job_details/1760886881800470/
