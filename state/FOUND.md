@@ -669,3 +669,8 @@
   https://www.metacareers.com/profile/job_details/1389772523328596/
 - *(quiet)* Meta - Program Manager, Global Response Operations  
   https://www.metacareers.com/profile/job_details/28334339542915431/
+
+## 2026-10-22 01:47
+
+- *(quiet)* Meta - Global Security Head of Retail  
+  https://www.metacareers.com/profile/job_details/1783619679346817/
