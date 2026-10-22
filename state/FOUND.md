@@ -712,3 +712,22 @@
   https://www.metacareers.com/profile/job_details/1504698378149747/
 - *(quiet)* Meta - Japan Partner Enablement Manager  
   https://www.metacareers.com/profile/job_details/937627412764350/
+
+## 2026-10-22 17:21
+
+- *(quiet)* Netflix - Recruiting Researcher,  Executive Engagement, EMEA ( 12 months Maternity cover)  
+  https://explore.jobs.netflix.net/careers/job/790319065455
+- *(quiet)* Meta - Software Developer, GO Systems  
+  https://www.metacareers.com/profile/job_details/2234429583792056/
+- *(quiet)* Meta - Research Scientist Intern, AI Alignment  
+  https://www.metacareers.com/profile/job_details/2356892281747003/
+- *(quiet)* Meta - Program Manager, People Risk &amp; Assurance  
+  https://www.metacareers.com/profile/job_details/2489255568234803/
+- *(quiet)* Meta - Network Engineer, Foundation &amp; Support (Edge/Backbone Infrastructure Design)  
+  https://www.metacareers.com/profile/job_details/1839912343809045/
+- *(quiet)* Meta - Payroll Manager   
+  https://www.metacareers.com/profile/job_details/1856531492015351/
+- *(quiet)* Meta - Mechanical Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1600772061108369/
+- *(quiet)* Meta - Research Scientist Intern, Central Applied Science (PhD)  
+  https://www.metacareers.com/profile/job_details/1582569213186235/
