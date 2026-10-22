@@ -1,5 +1,5 @@
 {
- "_meta_checked": 1792701424.947706,
+ "_meta_checked": 1792712057.206521,
  "meta:1001245402541256": {
   "title": null
  },
@@ -146,6 +146,9 @@
  },
  "meta:1039744925604442": {
   "title": null
+ },
+ "meta:1040647122321443": {
+  "title": "ASIC Package Engineer"
  },
  "meta:1041227938458954": {
   "title": null
@@ -524,6 +527,9 @@
  },
  "meta:1087375243684278": {
   "title": "Marketing Insights Researcher"
+ },
+ "meta:1087529654059670": {
+  "title": "Experiential Marketing Lead, Global Experiential and Industry Marketing"
  },
  "meta:1087943157156602": {
   "title": null
@@ -963,6 +969,9 @@
  "meta:1263618622557355": {
   "title": null
  },
+ "meta:1270372441913202": {
+  "title": "Small Business Solutions &amp; Enablement Lead"
+ },
  "meta:1271974094899569": {
   "title": null
  },
@@ -1370,6 +1379,9 @@
  },
  "meta:1413004827478024": {
   "title": null
+ },
+ "meta:1413005267657507": {
+  "title": "Product Experiences Lead"
  },
  "meta:1413018000946940": {
   "title": null
@@ -2394,6 +2406,9 @@
  "meta:1692825178929943": {
   "title": null
  },
+ "meta:1693085435712784": {
+  "title": "Global Supply Chain Operations Manager"
+ },
  "meta:1698258504727763": {
   "title": null
  },
@@ -2691,6 +2706,9 @@
  "meta:1780259309366631": {
   "title": "Software Engineering, Machine Learning"
  },
+ "meta:1781271223164569": {
+  "title": "Global Brand Experiences Lead, Creative Technologist"
+ },
  "meta:1781398486203764": {
   "title": null
  },
@@ -2937,6 +2955,9 @@
  "meta:1883085086000017": {
   "title": "DPU Performance Architect, Infrastructure Silicon"
  },
+ "meta:1886039392386822": {
+  "title": "Research Scientist Intern, FAIR - Multimodal Foundations (PhD)"
+ },
  "meta:1901791787872664": {
   "title": null
  },
@@ -2945,6 +2966,9 @@
  },
  "meta:1912902793454813": {
   "title": null
+ },
+ "meta:1915548039852135": {
+  "title": "Security Engineer Lead, Security Foundations"
  },
  "meta:1918517186200292": {
   "title": "Global Security Core Technology Director"
@@ -4752,6 +4776,9 @@
  "meta:931982199496426": {
   "title": null
  },
+ "meta:932919123033502": {
+  "title": "Research Scientist Intern, Video Recommendations (PhD)"
+ },
  "meta:933303382551089": {
   "title": null
  },
@@ -5405,5 +5432,11 @@
  },
  "netflix:790319072330": {
   "title": "Matte Painting Supervisor - Netflix Animation Studios"
+ },
+ "netflix:790319075412": {
+  "title": "Effects Supervisor - Netflix Animation Studios"
+ },
+ "netflix:790319075873": {
+  "title": "Character Effects (CFX) Supervisor - Netflix Animation Studios"
  }
 }

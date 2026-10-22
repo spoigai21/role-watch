@@ -782,3 +782,28 @@
   https://www.metacareers.com/profile/job_details/2322361288548512/
 - *(quiet)* Meta - Software Engineering Manager, Recommendation Systems  
   https://www.metacareers.com/profile/job_details/2302570910536748/
+
+## 2026-10-22 23:34
+
+- *(quiet)* Netflix - Effects Supervisor - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319075412
+- *(quiet)* Netflix - Character Effects (CFX) Supervisor - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319075873
+- *(quiet)* Meta - ASIC Package Engineer  
+  https://www.metacareers.com/profile/job_details/1040647122321443/
+- *(quiet)* Meta - Experiential Marketing Lead, Global Experiential and Industry Marketing  
+  https://www.metacareers.com/profile/job_details/1087529654059670/
+- *(quiet)* Meta - Research Scientist Intern, Video Recommendations (PhD)  
+  https://www.metacareers.com/profile/job_details/932919123033502/
+- *(quiet)* Meta - Product Experiences Lead  
+  https://www.metacareers.com/profile/job_details/1413005267657507/
+- *(quiet)* Meta - Security Engineer Lead, Security Foundations  
+  https://www.metacareers.com/profile/job_details/1915548039852135/
+- *(quiet)* Meta - Small Business Solutions &amp; Enablement Lead  
+  https://www.metacareers.com/profile/job_details/1270372441913202/
+- *(quiet)* Meta - Global Brand Experiences Lead, Creative Technologist  
+  https://www.metacareers.com/profile/job_details/1781271223164569/
+- *(quiet)* Meta - Global Supply Chain Operations Manager  
+  https://www.metacareers.com/profile/job_details/1693085435712784/
+- *(quiet)* Meta - Research Scientist Intern, FAIR - Multimodal Foundations (PhD)  
+  https://www.metacareers.com/profile/job_details/1886039392386822/
