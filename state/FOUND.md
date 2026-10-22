@@ -674,3 +674,24 @@
 
 - *(quiet)* Meta - Global Security Head of Retail  
   https://www.metacareers.com/profile/job_details/1783619679346817/
+
+## 2026-10-22 06:38
+
+- *(quiet)* Netflix - Director, Privacy Legal  
+  https://explore.jobs.netflix.net/careers/job/790319048039
+- *(quiet)* Meta - Director Software Engineering - Central Integrity  
+  https://www.metacareers.com/profile/job_details/2343600073094333/
+- *(quiet)* Meta - Software Engineer, Systems  
+  https://www.metacareers.com/profile/job_details/1982695235662578/
+- *(quiet)* Meta - Software Engineer, Network Infrastructure  
+  https://www.metacareers.com/profile/job_details/2008871343135115/
+- *(quiet)* Meta - Security Engineer, Trust &amp; Safety - Applied AI  
+  https://www.metacareers.com/profile/job_details/1653640846108359/
+- *(quiet)* Meta - ASIC Engineer, Formal Verification  
+  https://www.metacareers.com/profile/job_details/1606573550460175/
+- *(quiet)* Meta - Security Engineer, Trust &amp; Safety - Applied AI  
+  https://www.metacareers.com/profile/job_details/1145532631488051/
+- *(quiet)* Meta - Privacy Security Engineer, Privacy &amp; Data Protection - Applied AI  
+  https://www.metacareers.com/profile/job_details/2088285795129882/
+- *(quiet)* Meta - Privacy Security Engineer, Privacy &amp; Data Protection - Applied AI  
+  https://www.metacareers.com/profile/job_details/1470255745050402/
