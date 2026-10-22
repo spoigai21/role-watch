@@ -695,3 +695,20 @@
   https://www.metacareers.com/profile/job_details/2088285795129882/
 - *(quiet)* Meta - Privacy Security Engineer, Privacy &amp; Data Protection - Applied AI  
   https://www.metacareers.com/profile/job_details/1470255745050402/
+
+## 2026-10-22 12:22
+
+- *(quiet)* Meta - Business Support Engineer AdTech  
+  https://www.metacareers.com/profile/job_details/1787860132469542/
+- *(quiet)* Meta - Senior Staff Machine Learning Engineer  
+  https://www.metacareers.com/profile/job_details/1600320521294242/
+- *(quiet)* Meta - Application Security Engineer, Privacy  
+  https://www.metacareers.com/profile/job_details/1395995452523453/
+- *(quiet)* Meta - Supplier Development Engineer, Audio   
+  https://www.metacareers.com/profile/job_details/1581950623219271/
+- *(quiet)* Meta - Privacy Security Engineer, Privacy &amp; Data Protection - Applied AI  
+  https://www.metacareers.com/profile/job_details/2889145938130511/
+- *(quiet)* Meta - Software Engineering Manager, Ads Systems  
+  https://www.metacareers.com/profile/job_details/1504698378149747/
+- *(quiet)* Meta - Japan Partner Enablement Manager  
+  https://www.metacareers.com/profile/job_details/937627412764350/
