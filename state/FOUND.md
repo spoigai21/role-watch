@@ -731,3 +731,54 @@
   https://www.metacareers.com/profile/job_details/1600772061108369/
 - *(quiet)* Meta - Research Scientist Intern, Central Applied Science (PhD)  
   https://www.metacareers.com/profile/job_details/1582569213186235/
+
+## 2026-10-22 20:37
+
+- *(quiet)* Netflix - Director, Security & Intelligence - UCAN  
+  https://explore.jobs.netflix.net/careers/job/790319071789
+- *(quiet)* Netflix - Matte Painting Supervisor - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319072330
+- *(quiet)* Meta - Research Scientist Intern, FAIR Chemistry  
+  https://www.metacareers.com/profile/job_details/2162858564439476/
+- *(quiet)* Meta - Connectivity Engineer - Data Center Design, Engineering, &amp; Construction  
+  https://www.metacareers.com/profile/job_details/1620771789592841/
+- *(quiet)* Meta - Program Manager, People Risk &amp; Assurance  
+  https://www.metacareers.com/profile/job_details/1104533588947997/
+- *(quiet)* Meta - AI Research Scientist - FAIR, MSL  
+  https://www.metacareers.com/profile/job_details/2199155494335856/
+- *(quiet)* Meta - Software Engineer - Central Growth  
+  https://www.metacareers.com/profile/job_details/1104320825918317/
+- *(quiet)* Meta - Director Software Engineering - Central Security  
+  https://www.metacareers.com/profile/job_details/1109011065312550/
+- *(quiet)* Meta - Facility Project Manager  
+  https://www.metacareers.com/profile/job_details/964675182893333/
+- *(quiet)* Meta - Director of Engineering, Business Messaging Optimization  
+  https://www.metacareers.com/profile/job_details/2322095718604366/
+- *(quiet)* Meta - Research Scientist Intern, Muse RL and Agents Team (MSc)  
+  https://www.metacareers.com/profile/job_details/1647286810370437/
+- *(quiet)* Meta - Technical Domain Manager - Audio Visual  
+  https://www.metacareers.com/profile/job_details/1443090567764073/
+- *(quiet)* Meta - Data Engineer, Product Analytics  
+  https://www.metacareers.com/profile/job_details/2208515109725973/
+- *(quiet)* Meta - Research Scientist Intern, Feed Recommendations (PhD)  
+  https://www.metacareers.com/profile/job_details/29044546168568671/
+- *(quiet)* Meta - Engineering Manager, OS Frameworks  
+  https://www.metacareers.com/profile/job_details/1262422456956937/
+- *(quiet)* Meta - Associate General Counsel, Commercial  
+  https://www.metacareers.com/profile/job_details/844851005290144/
+- *(quiet)* Meta - Product Design Prototyper, Human Interface  
+  https://www.metacareers.com/profile/job_details/29440839905500455/
+- *(quiet)* Meta - Research Scientist Intern, MSL Agents (PhD)  
+  https://www.metacareers.com/profile/job_details/1136354555738164/
+- *(quiet)* Meta - Research Scientist Intern, World-Model Aware Perception &amp; Communication (PhD)  
+  https://www.metacareers.com/profile/job_details/1097992326377524/
+- *(quiet)* Meta - Research Scientist Intern, FAIR - Physical Engineering AI (PhD)  
+  https://www.metacareers.com/profile/job_details/1081255008061721/
+- *(quiet)* Meta - Research Scientist Intern, FAIR - Video Generation (PhD)  
+  https://www.metacareers.com/profile/job_details/3549654831867862/
+- *(quiet)* Meta -  Research Scientist Intern, FAIR &#x2013; Multi-Agent Systems and Memory (PhD)  
+  https://www.metacareers.com/profile/job_details/2615214025585454/
+- *(quiet)* Meta - Research Scientist Intern, FAIR - Multimodal Foundations (PhD)  
+  https://www.metacareers.com/profile/job_details/2322361288548512/
+- *(quiet)* Meta - Software Engineering Manager, Recommendation Systems  
+  https://www.metacareers.com/profile/job_details/2302570910536748/
