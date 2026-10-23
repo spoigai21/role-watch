@@ -818,3 +818,10 @@
   https://explore.jobs.netflix.net/careers/job/790319076054
 - *(quiet)* Netflix - Administrative Assistant, Nonfiction Business Affairs  
   https://explore.jobs.netflix.net/careers/job/790319076845
+
+## 2026-10-23 06:36
+
+- *(quiet)* Meta - Business Operations Associate, Wearables  
+  https://www.metacareers.com/profile/job_details/1090257880284659/
+- *(quiet)* Meta - Corporate Governance Manager, APAC  
+  https://www.metacareers.com/profile/job_details/29822101514043120/
