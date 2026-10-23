@@ -880,3 +880,20 @@
   https://www.metacareers.com/profile/job_details/1742095083544437/
 - *(quiet)* Meta - Messaging Policy Manager  
   https://www.metacareers.com/profile/job_details/1391862506035254/
+
+## 2026-10-23 23:06
+
+- *(quiet)* Netflix - Director, FP&A, Content  
+  https://explore.jobs.netflix.net/careers/job/790319098004
+- *(quiet)* Meta - Research Scientist Intern, Dexterous Manipulation and Contact-Rich Control (PhD)  
+  https://www.metacareers.com/profile/job_details/2053489871986285/
+- *(quiet)* Meta - AI Systems Engineer, Hardware Architecture  
+  https://www.metacareers.com/profile/job_details/3204744659718122/
+- *(quiet)* Meta - Reality Labs Revenue Operations Lead  
+  https://www.metacareers.com/profile/job_details/971022345526176/
+- *(quiet)* Meta - Software Engineering Manager, AI Kernels &amp; Performance Optimization &#x2014; MTIA Software  
+  https://www.metacareers.com/profile/job_details/2194093991203321/
+- *(quiet)* Meta - Strategic Program Manager  
+  https://www.metacareers.com/profile/job_details/1772099760540623/
+- *(quiet)* Meta - Software Engineering Manager, Systems Machine Learning  
+  https://www.metacareers.com/profile/job_details/4599117440326992/

@@ -1,5 +1,5 @@
 {
- "_meta_checked": 1792786197.715341,
+ "_meta_checked": 1792796801.793594,
  "meta:1001245402541256": {
   "title": null
  },
@@ -2715,6 +2715,9 @@
  "meta:1771434380856457": {
   "title": "Electrical Engineering Intern"
  },
+ "meta:1772099760540623": {
+  "title": "Strategic Program Manager"
+ },
  "meta:1772218837316602": {
   "title": "Director of Engineering, Capacity Management (Ads)"
  },
@@ -3246,6 +3249,9 @@
  "meta:2052496682052214": {
   "title": "Content Strategist, Help Center"
  },
+ "meta:2053489871986285": {
+  "title": "Research Scientist Intern, Dexterous Manipulation and Contact-Rich Control (PhD)"
+ },
  "meta:2053654355382290": {
   "title": null
  },
@@ -3554,6 +3560,9 @@
  },
  "meta:2193656554699291": {
   "title": "Electrical Engineer, Reality Labs Hardware"
+ },
+ "meta:2194093991203321": {
+  "title": "Software Engineering Manager, AI Kernels &amp; Performance Optimization &#x2014; MTIA Software"
  },
  "meta:2195354808028299": {
   "title": null
@@ -4266,6 +4275,9 @@
  "meta:3191026081095193": {
   "title": null
  },
+ "meta:3204744659718122": {
+  "title": "AI Systems Engineer, Hardware Architecture"
+ },
  "meta:3221555971363382": {
   "title": null
  },
@@ -4532,6 +4544,9 @@
  },
  "meta:4596319193960098": {
   "title": "ASIC Engineer, Performance Architecture and Modeling (University Grad)"
+ },
+ "meta:4599117440326992": {
+  "title": "Software Engineering Manager, Systems Machine Learning"
  },
  "meta:4606561916156440": {
   "title": null
@@ -5024,6 +5039,9 @@
  },
  "meta:970149276050954": {
   "title": null
+ },
+ "meta:971022345526176": {
+  "title": "Reality Labs Revenue Operations Lead"
  },
  "meta:971567912651978": {
   "title": null
@@ -5525,5 +5543,8 @@
  },
  "netflix:790319088862": {
   "title": "Software Engineer 4 - TV Product UI"
+ },
+ "netflix:790319098004": {
+  "title": "Director, FP&A, Content"
  }
 }
