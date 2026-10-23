@@ -825,3 +825,14 @@
   https://www.metacareers.com/profile/job_details/1090257880284659/
 - *(quiet)* Meta - Corporate Governance Manager, APAC  
   https://www.metacareers.com/profile/job_details/29822101514043120/
+
+## 2026-10-23 12:01
+
+- *(quiet)* Meta - Partner Data Scientist, Telco Partnerships  
+  https://www.metacareers.com/profile/job_details/2379774046126361/
+- *(quiet)* Meta - Communications Manager, Germany (12 month Short Term Employment)   
+  https://www.metacareers.com/profile/job_details/2133971317241759/
+- *(quiet)* Meta - Physical Design &amp; Signoff CAD Engineer  
+  https://www.metacareers.com/profile/job_details/2325219948229698/
+- *(quiet)* Meta - Data Engineer, Product Analytics  
+  https://www.metacareers.com/profile/job_details/2074854956478353/
