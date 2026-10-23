@@ -853,3 +853,30 @@
   https://www.metacareers.com/profile/job_details/1439369571496509/
 - *(quiet)* Meta - Director, Board Liaison  
   https://www.metacareers.com/profile/job_details/2161583831378405/
+
+## 2026-10-23 20:09
+
+- *(quiet)* Netflix - Partner Operations Manager  
+  https://explore.jobs.netflix.net/careers/job/790319069839
+- *(quiet)* Netflix - Innovation Operations Technical Project Manager  
+  https://explore.jobs.netflix.net/careers/job/790319070057
+- *(quiet)* Meta - Research Scientist Intern, Wearable Sensing &amp; Human Motion Analysis  
+  https://www.metacareers.com/profile/job_details/1137225375529389/
+- *(quiet)* Meta - Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD)  
+  https://www.metacareers.com/profile/job_details/1023154190171838/
+- *(quiet)* Meta - Research Scientist Intern, Meta Recommendation Systems (PhD)  
+  https://www.metacareers.com/profile/job_details/1416549056773684/
+- *(quiet)* Meta - Audit and Compliance Manager  
+  https://www.metacareers.com/profile/job_details/1169426155744434/
+- *(quiet)* Meta - Product Experiences Lead  
+  https://www.metacareers.com/profile/job_details/1450420857223610/
+- *(quiet)* Meta - Research Scientist Intern, AI Core Machine Learning (PhD)  
+  https://www.metacareers.com/profile/job_details/1648122343381284/
+- *(quiet)* Meta - Software Engineer - Central Integrity  
+  https://www.metacareers.com/profile/job_details/1428064568756569/
+- *(quiet)* Meta - Distinguished Software Engineer, Recommendation Systems (AI/ML)  
+  https://www.metacareers.com/profile/job_details/2138780437002628/
+- *(quiet)* Meta - Business Development Manager, AI Partnerships  
+  https://www.metacareers.com/profile/job_details/1742095083544437/
+- *(quiet)* Meta - Messaging Policy Manager  
+  https://www.metacareers.com/profile/job_details/1391862506035254/

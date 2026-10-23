@@ -1,5 +1,5 @@
 {
- "_meta_checked": 1792774540.620002,
+ "_meta_checked": 1792786197.715341,
  "meta:1001245402541256": {
   "title": null
  },
@@ -74,6 +74,9 @@
  },
  "meta:1023092976990066": {
   "title": null
+ },
+ "meta:1023154190171838": {
+  "title": "Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD)"
  },
  "meta:1023297133814750": {
   "title": null
@@ -834,6 +837,9 @@
  "meta:1136608158836536": {
   "title": "Display Panel Design Intern "
  },
+ "meta:1137225375529389": {
+  "title": "Research Scientist Intern, Wearable Sensing &amp; Human Motion Analysis"
+ },
  "meta:1138304848625338": {
   "title": null
  },
@@ -893,6 +899,9 @@
  },
  "meta:1165549049490227": {
   "title": "WhatsApp - Software Engineer (Technical Leadership) - Android"
+ },
+ "meta:1169426155744434": {
+  "title": "Audit and Compliance Manager"
  },
  "meta:1176947364994563": {
   "title": "AI Research Scientist"
@@ -1260,6 +1269,9 @@
  "meta:1391589155890491": {
   "title": null
  },
+ "meta:1391862506035254": {
+  "title": "Messaging Policy Manager"
+ },
  "meta:1393717199006353": {
   "title": "Privacy Engineer, Red Team"
  },
@@ -1401,6 +1413,9 @@
  "meta:1414284506912052": {
   "title": "Internal Communications Manager, Legal &amp; Regulatory"
  },
+ "meta:1416549056773684": {
+  "title": "Research Scientist Intern, Meta Recommendation Systems (PhD)"
+ },
  "meta:1416707097199386": {
   "title": "Marketing Science Partner"
  },
@@ -1469,6 +1484,9 @@
  },
  "meta:1427751379499342": {
   "title": "Product Cost Engineer, Capital Equipment &#x2014; Meta Reality Labs Product Operations"
+ },
+ "meta:1428064568756569": {
+  "title": "Software Engineer - Central Integrity"
  },
  "meta:1428978125312655": {
   "title": "Research Scientist Intern, Multimodal Behavioral AI (PhD)"
@@ -1556,6 +1574,9 @@
  },
  "meta:1446008381918730": {
   "title": "Product Manager, WhatsApp - India"
+ },
+ "meta:1450420857223610": {
+  "title": "Product Experiences Lead"
  },
  "meta:1453290079211931": {
   "title": null
@@ -2280,6 +2301,9 @@
  "meta:1647308343713350": {
   "title": null
  },
+ "meta:1648122343381284": {
+  "title": "Research Scientist Intern, AI Core Machine Learning (PhD)"
+ },
  "meta:1648224786656870": {
   "title": "Research Scientist, CBRNE AI Safety"
  },
@@ -2570,6 +2594,9 @@
  },
  "meta:1741405140270153": {
   "title": "Hardware Engineer, AI Accelerator Module Design"
+ },
+ "meta:1742095083544437": {
+  "title": "Business Development Manager, AI Partnerships"
  },
  "meta:1742722760127197": {
   "title": null
@@ -3413,6 +3440,9 @@
  },
  "meta:2136998990191804": {
   "title": null
+ },
+ "meta:2138780437002628": {
+  "title": "Distinguished Software Engineer, Recommendation Systems (AI/ML)"
  },
  "meta:2139598663338287": {
   "title": "Risk Manager, Regulatory Response"
@@ -5459,6 +5489,12 @@
  },
  "netflix:790319065455": {
   "title": "Recruiting Researcher,  Executive Engagement, EMEA ( 12 months Maternity cover)"
+ },
+ "netflix:790319069839": {
+  "title": "Partner Operations Manager"
+ },
+ "netflix:790319070057": {
+  "title": "Innovation Operations Technical Project Manager"
  },
  "netflix:790319071789": {
   "title": "Director, Security & Intelligence - UCAN"
