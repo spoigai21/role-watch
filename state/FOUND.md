@@ -836,3 +836,20 @@
   https://www.metacareers.com/profile/job_details/2325219948229698/
 - *(quiet)* Meta - Data Engineer, Product Analytics  
   https://www.metacareers.com/profile/job_details/2074854956478353/
+
+## 2026-10-23 16:55
+
+- *(quiet)* Netflix - Manager, Publicity - Brand Slate & Live UK  
+  https://explore.jobs.netflix.net/careers/job/790319082269
+- *(quiet)* Netflix - Software Engineer 4 - TV Product UI  
+  https://explore.jobs.netflix.net/careers/job/790319088862
+- *(quiet)* Meta - Research Scientist, CBRNE AI Safety  
+  https://www.metacareers.com/profile/job_details/1648224786656870/
+- *(quiet)* Meta - Research Scientist Intern, Computational Photography (PhD)  
+  https://www.metacareers.com/profile/job_details/1943752136600713/
+- *(quiet)* Meta - Social Manager, Meta VR  
+  https://www.metacareers.com/profile/job_details/1348278863891930/
+- *(quiet)* Meta - Program Manager, Product Data Operations, Family of Apps  
+  https://www.metacareers.com/profile/job_details/1439369571496509/
+- *(quiet)* Meta - Director, Board Liaison  
+  https://www.metacareers.com/profile/job_details/2161583831378405/
