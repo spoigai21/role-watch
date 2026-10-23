@@ -807,3 +807,14 @@
   https://www.metacareers.com/profile/job_details/1693085435712784/
 - *(quiet)* Meta - Research Scientist Intern, FAIR - Multimodal Foundations (PhD)  
   https://www.metacareers.com/profile/job_details/1886039392386822/
+
+## 2026-10-23 01:51
+
+- *(quiet)* Netflix - Matte Painting Supervisor - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319075119
+- *(quiet)* Netflix - Effects Supervisor - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319075410
+- *(quiet)* Netflix - Character Effects (CFX) Supervisor - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319076054
+- *(quiet)* Netflix - Administrative Assistant, Nonfiction Business Affairs  
+  https://explore.jobs.netflix.net/careers/job/790319076845
