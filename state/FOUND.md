@@ -897,3 +897,10 @@
   https://www.metacareers.com/profile/job_details/1772099760540623/
 - *(quiet)* Meta - Software Engineering Manager, Systems Machine Learning  
   https://www.metacareers.com/profile/job_details/4599117440326992/
+
+## 2026-10-24 01:31
+
+- *(quiet)* Netflix - Administrative Assistant - Business & Legal Affairs (Stand-Up Comedy)  
+  https://explore.jobs.netflix.net/careers/job/790319092739
+- *(quiet)* Meta - Research Scientist Intern, Policy Learning for Robotics (PhD)  
+  https://www.metacareers.com/profile/job_details/2554989011673624/
