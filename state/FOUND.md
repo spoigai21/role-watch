@@ -916,3 +916,8 @@
 
 - *(quiet)* Meta - Leased Facility Engineer  
   https://www.metacareers.com/profile/job_details/1344893947581851/
+
+## 2026-10-24 21:54
+
+- *(quiet)* Meta - Research Scientist Intern, Neuro-AI - Brain &amp; AI Team (PhD)  
+  https://www.metacareers.com/profile/job_details/1463189352436520/
