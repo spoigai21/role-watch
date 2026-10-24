@@ -911,3 +911,8 @@
   https://www.metacareers.com/profile/job_details/1464655882214150/
 - *(quiet)* Meta - Research Scientist Intern - Content Seal - FAIR  
   https://www.metacareers.com/profile/job_details/1775227420261809/
+
+## 2026-10-24 17:33
+
+- *(quiet)* Meta - Leased Facility Engineer  
+  https://www.metacareers.com/profile/job_details/1344893947581851/
