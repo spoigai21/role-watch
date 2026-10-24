@@ -904,3 +904,10 @@
   https://explore.jobs.netflix.net/careers/job/790319092739
 - *(quiet)* Meta - Research Scientist Intern, Policy Learning for Robotics (PhD)  
   https://www.metacareers.com/profile/job_details/2554989011673624/
+
+## 2026-10-24 11:17
+
+- *(quiet)* Meta - Research Scientist Intern - Omnilingual - FAIR  
+  https://www.metacareers.com/profile/job_details/1464655882214150/
+- *(quiet)* Meta - Research Scientist Intern - Content Seal - FAIR  
+  https://www.metacareers.com/profile/job_details/1775227420261809/
