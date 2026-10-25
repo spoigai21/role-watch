@@ -921,3 +921,8 @@
 
 - *(quiet)* Meta - Research Scientist Intern, Neuro-AI - Brain &amp; AI Team (PhD)  
   https://www.metacareers.com/profile/job_details/1463189352436520/
+
+## 2026-10-25 06:57
+
+- *(quiet)* Netflix - Production Coordinator - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319111804
