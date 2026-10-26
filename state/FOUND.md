@@ -950,3 +950,46 @@
   https://www.metacareers.com/profile/job_details/2361252611303303/
 - *(quiet)* Meta - Client Partner, Digital Native Disruptors  
   https://www.metacareers.com/profile/job_details/1116076430869196/
+
+## 2026-10-26 19:35
+
+- *(quiet)* Netflix - Manager, Finance & Strategy - Economist  
+  https://explore.jobs.netflix.net/careers/job/790319131222
+- *(quiet)* Meta - Applied Research Scientist  
+  https://www.metacareers.com/profile/job_details/1817278782937025/
+- *(quiet)* Meta - Research Scientist Intern, Generative Recommendation Systems (PhD)  
+  https://www.metacareers.com/profile/job_details/3265378000517806/
+- *(quiet)* Meta - Director, Business Development &amp; Strategic Alliances  
+  https://www.metacareers.com/profile/job_details/1583033776429868/
+- *(quiet)* Meta - Content Policy Manager, Actor Behavioral Policy  
+  https://www.metacareers.com/profile/job_details/1425422129734488/
+- *(quiet)* Meta - Research Scientist Intern,  Generative AI &amp; Computational Photography (PhD)  
+  https://www.metacareers.com/profile/job_details/1163507972671947/
+- *(quiet)* Meta - Business Analytics Intern (2027), Reality Labs Devices Operations  
+  https://www.metacareers.com/profile/job_details/1653804269586821/
+- *(quiet)* Meta - Research Scientist Intern, Robotics  
+  https://www.metacareers.com/profile/job_details/1471718241508516/
+- *(quiet)* Meta - Technical Program Manager - Financial Integrity  
+  https://www.metacareers.com/profile/job_details/1805753520566863/
+- *(quiet)* Meta - Technical Program Manager Intern, Reality Labs &#x2014; 2027  
+  https://www.metacareers.com/profile/job_details/1649069223327170/
+- *(quiet)* Meta - Systems Analyst, Access and Compromise Integrity  
+  https://www.metacareers.com/profile/job_details/1367959535215289/
+- *(quiet)* Meta - Software Engineer, Systems (Games and Interactive Experiences)  
+  https://www.metacareers.com/profile/job_details/2046742375993684/
+- *(quiet)* Meta - Product Manager  
+  https://www.metacareers.com/profile/job_details/1106171345544959/
+- *(quiet)* Meta - Software Engineer, Audio Applied Scientist  
+  https://www.metacareers.com/profile/job_details/26979898531683542/
+- *(quiet)* Meta - Software Engineer, Systems  
+  https://www.metacareers.com/profile/job_details/28272496039096158/
+- *(quiet)* Meta - Technical Program Manager, Infrastructure Data Centers  
+  https://www.metacareers.com/profile/job_details/1086046660881083/
+- *(quiet)* Meta - Battery Engineering Intern, Cell Engineering (PhD)  
+  https://www.metacareers.com/profile/job_details/938682979075854/
+- *(quiet)* Meta - Product Analyst, Global Product Quality  
+  https://www.metacareers.com/profile/job_details/1847850842915059/
+- *(quiet)* Meta - Program Manager, IP Operations  
+  https://www.metacareers.com/profile/job_details/1111200048171500/
+- *(quiet)* Meta - Research Intern, Embedded AI on Wearables (PhD)  
+  https://www.metacareers.com/profile/job_details/4070678619908522/
