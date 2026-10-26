@@ -993,3 +993,30 @@
   https://www.metacareers.com/profile/job_details/1111200048171500/
 - *(quiet)* Meta - Research Intern, Embedded AI on Wearables (PhD)  
   https://www.metacareers.com/profile/job_details/4070678619908522/
+
+## 2026-10-26 23:17
+
+- *(quiet)* Meta - Research Scientist Intern, Search (PhD)  
+  https://www.metacareers.com/profile/job_details/2171476533578976/
+- *(quiet)* Meta - Product Cost Engineer  
+  https://www.metacareers.com/profile/job_details/2754451818285838/
+- *(quiet)* Meta - MOFE Manufacturing Readiness  
+  https://www.metacareers.com/profile/job_details/1341427111271636/
+- *(quiet)* Meta - MOFE Deployment  
+  https://www.metacareers.com/profile/job_details/1766747367945068/
+- *(quiet)* Meta - Lead Counsel, AI Partnerships  
+  https://www.metacareers.com/profile/job_details/1761712661799965/
+- *(quiet)* Meta - Research Scientist Intern, Efficient World Foundation Models (PhD)  
+  https://www.metacareers.com/profile/job_details/1423049949381658/
+- *(quiet)* Meta - Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD)  
+  https://www.metacareers.com/profile/job_details/1831104024740439/
+- *(quiet)* Meta - Research Scientist Intern, AI Core Machine Learning (PhD)  
+  https://www.metacareers.com/profile/job_details/1418948513778654/
+- *(quiet)* Meta - Software Engineer, Systems (Games and Interactive Experiences)  
+  https://www.metacareers.com/profile/job_details/989949360104790/
+- *(quiet)* Meta - Research Scientist Intern, Audio AI (PhD)  
+  https://www.metacareers.com/profile/job_details/1160814043168431/
+- *(quiet)* Meta - Energy Accounting Manager  
+  https://www.metacareers.com/profile/job_details/1805880680562213/
+- *(quiet)* Meta - Research Scientist Intern, Generative AI (PhD) (multiple locations)  
+  https://www.metacareers.com/profile/job_details/1694337262064234/

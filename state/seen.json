@@ -1,5 +1,5 @@
 {
- "_meta_checked": 1793043315.688521,
+ "_meta_checked": 1793056679.877696,
  "meta:1001245402541256": {
   "title": null
  },
@@ -903,6 +903,9 @@
  "meta:1154738753397824": {
   "title": null
  },
+ "meta:1160814043168431": {
+  "title": "Research Scientist Intern, Audio AI (PhD)"
+ },
  "meta:1163260232775705": {
   "title": "Product Management, Director"
  },
@@ -1091,6 +1094,9 @@
  },
  "meta:1334478348668120": {
   "title": null
+ },
+ "meta:1341427111271636": {
+  "title": "MOFE Manufacturing Readiness"
  },
  "meta:1343564164433660": {
   "title": null
@@ -1461,6 +1467,9 @@
  "meta:1418925379595142": {
   "title": "Manager, Energy Analytics"
  },
+ "meta:1418948513778654": {
+  "title": "Research Scientist Intern, AI Core Machine Learning (PhD)"
+ },
  "meta:1419173033108804": {
   "title": null
  },
@@ -1484,6 +1493,9 @@
  },
  "meta:1422886576374694": {
   "title": null
+ },
+ "meta:1423049949381658": {
+  "title": "Research Scientist Intern, Efficient World Foundation Models (PhD)"
  },
  "meta:1423159169992675": {
   "title": "Production Systems Engineering Intern"
@@ -2499,6 +2511,9 @@
  "meta:1693085435712784": {
   "title": "Global Supply Chain Operations Manager"
  },
+ "meta:1694337262064234": {
+  "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)"
+ },
  "meta:1698258504727763": {
   "title": null
  },
@@ -2736,6 +2751,9 @@
  "meta:1761498865053027": {
   "title": null
  },
+ "meta:1761712661799965": {
+  "title": "Lead Counsel, AI Partnerships"
+ },
  "meta:1762220261898157": {
   "title": null
  },
@@ -2747,6 +2765,9 @@
  },
  "meta:1765096791303185": {
   "title": "Software Engineer (Technical Leadership)"
+ },
+ "meta:1766747367945068": {
+  "title": "MOFE Deployment"
  },
  "meta:1767013281213658": {
   "title": "Technical Lead, Camera IQ Assessment and Design"
@@ -2910,6 +2931,9 @@
  "meta:1805753520566863": {
   "title": "Technical Program Manager - Financial Integrity"
  },
+ "meta:1805880680562213": {
+  "title": "Energy Accounting Manager"
+ },
  "meta:1807649336905495": {
   "title": null
  },
@@ -2972,6 +2996,9 @@
  },
  "meta:1830178504817387": {
   "title": "People Service Delivery Lead"
+ },
+ "meta:1831104024740439": {
+  "title": "Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD)"
  },
  "meta:1831636447841270": {
   "title": null
@@ -3591,6 +3618,9 @@
  "meta:2171001020966168": {
   "title": "Network Hardware Engineer"
  },
+ "meta:2171476533578976": {
+  "title": "Research Scientist Intern, Search (PhD)"
+ },
  "meta:2172897796938988": {
   "title": "Computer Vision Research Scientist"
  },
@@ -4133,6 +4163,9 @@
  },
  "meta:27533437029609442": {
   "title": null
+ },
+ "meta:2754451818285838": {
+  "title": "Product Cost Engineer"
  },
  "meta:2755821418213781": {
   "title": "ASIC Design Verification Engineer, DFT"
@@ -5171,6 +5204,9 @@
  },
  "meta:989132117436241": {
   "title": null
+ },
+ "meta:989949360104790": {
+  "title": "Software Engineer, Systems (Games and Interactive Experiences)"
  },
  "meta:990953733995858": {
   "title": null
