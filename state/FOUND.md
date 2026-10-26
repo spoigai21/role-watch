@@ -933,3 +933,20 @@
   https://www.metacareers.com/profile/job_details/1617184846179840/
 - *(quiet)* Meta - Public Policy Associate Manager, Indonesia  
   https://www.metacareers.com/profile/job_details/1608429160748675/
+
+## 2026-10-26 13:45
+
+- *(quiet)* Netflix - Manager, Partnerships Packaging & Solutions, EMEA  
+  https://explore.jobs.netflix.net/careers/job/790319128577
+- *(quiet)* Netflix - Social Marketing Manager, Spain & Portugal  
+  https://explore.jobs.netflix.net/careers/job/790319128749
+- *(quiet)* Netflix - Country Strategic Planning Manager - Spain, Italy, Turkey  
+  https://explore.jobs.netflix.net/careers/job/790319129286
+- *(quiet)* Meta - Public Policy Manager, Germany, Austria, Switzerland (12 Months Contract )   
+  https://www.metacareers.com/profile/job_details/1372117524747926/
+- *(quiet)* Meta - Account Manager, Israel  
+  https://www.metacareers.com/profile/job_details/1410337391217369/
+- *(quiet)* Meta - Signals Intelligence Specialist  
+  https://www.metacareers.com/profile/job_details/2361252611303303/
+- *(quiet)* Meta - Client Partner, Digital Native Disruptors  
+  https://www.metacareers.com/profile/job_details/1116076430869196/
