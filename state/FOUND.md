@@ -926,3 +926,10 @@
 
 - *(quiet)* Netflix - Production Coordinator - Netflix Animation Studios  
   https://explore.jobs.netflix.net/careers/job/790319111804
+
+## 2026-10-26 06:55
+
+- *(quiet)* Meta - Software Engineer - XF APAC Products  
+  https://www.metacareers.com/profile/job_details/1617184846179840/
+- *(quiet)* Meta - Public Policy Associate Manager, Indonesia  
+  https://www.metacareers.com/profile/job_details/1608429160748675/
