@@ -279,6 +279,22 @@ def main():
         except Exception as exc:                      # a dead endpoint must not kill the others
             errors.append(f"{name}: {type(exc).__name__}: {exc}")
             continue
+
+        # A source that answers with nothing is INDISTINGUISHABLE from a source with no matching
+        # jobs, and that is the dangerous failure: the run prints "0 new matches" and looks clean.
+        # Seen for real on 2026-10-26 06:17 UTC, when Oracle returned an empty body and the run
+        # logged "scanned 400 new matches 0" as though all three sources had answered.
+        # So: an empty answer is an ERROR, and a big drop against the last good count is a warning.
+        counts = seen.setdefault("_counts", {})
+        prev = counts.get(name)
+        if not jobs:
+            errors.append(f"{name}: returned 0 reqs - endpoint down or shape changed"
+                          + (f" (last good: {prev})" if prev else ""))
+        elif prev and len(jobs) * 2 < prev:
+            errors.append(f"{name}: only {len(jobs)} reqs, last good {prev} - partial response?")
+        if jobs:
+            counts[name] = len(jobs)
+
         scanned += len(jobs)
         bucket = seen.setdefault(name, {})
         for job in jobs:
@@ -307,6 +323,14 @@ def main():
         with open(FLAG, "w") as fh:
             fh.write(f"{now()}\n" + "\n".join(
                 f"{j['company']}: {j['title']} -> {j.get('url')}" for j in found) + "\n")
+
+    if errors:
+        # Record them. A silent failure that is only ever printed to a log nobody reads is the
+        # same bug one layer up, so a TOTAL outage - every source down - also rings.
+        log([f"- **{now()}** — SOURCE TROUBLE: {e}" for e in errors])
+        if len(errors) >= len(SOURCES) and not args.quiet:
+            banner("No source answered. The watch is blind until this clears: "
+                   + "; ".join(errors), title="APPLY WATCH - all sources down")
 
     save_seen(seen)
     print(f"{now()}  scanned {scanned}  new matches {len(found)}"

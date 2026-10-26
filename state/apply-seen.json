@@ -194,6 +194,7 @@
  },
  "Oracle": {
   "305357": "Strategic Implementation Owner - Oracle Health",
+  "313133": "Sales Pipeline",
   "320967": "Oracle Health Senior Organizational Change Consultant",
   "330218": "Senior Site Reliability Developer- Oracle Health",
   "330949": "Director, Compliance & Property Management (Shackelford County, TX)",
@@ -276,7 +277,9 @@
   "341644": "Arquiteto (a) de Solu\u00e7\u00f5es Cloud",
   "341842": "Principal Network Developer",
   "341858": "Principal Network Engineer",
+  "341986": "Senior Network Developer",
   "342043": "Platform Software Engineer - Agentic AI Project",
+  "342332": "Senior Core Infrastructure Engineer",
   "342425": "Sr. Principal Controls Engineer- Data Center Design and Innovation",
   "342438": "Lead Data Center Support Services Technician- Night Shift",
   "342693": "Principal Software Engineer, Core Infrastructure",
@@ -295,7 +298,9 @@
   "342867": "Senior Core Infrastructure Engineer",
   "342868": "Senior Core Infrastructure Engineer",
   "342895": "Senior Software Engineer, Core Infrastructure",
+  "342929": "Senior Core Infrastructure Engineer",
   "342932": "Senior Core Infrastructure Engineer",
+  "342933": "Lead Principal Core Infrastructure Engineer",
   "342950": "Senior Principal Energy Manager APAC",
   "342961": "Senior Core Infrastructure Engineer",
   "342973": "Senior Core Infrastructure Engineer",
@@ -312,6 +317,7 @@
   "343555": "Manufacturing Process Engineer",
   "343810": "Senior Software Engineer, Core Infrastructure",
   "343811": "Senior Software Engineer, Core Infrastructure",
+  "344194": "Principal Core Infrastructure Engineer",
   "344227": "Senior Software Engineer, Search Platform",
   "344251": "Senior Manager, Core Infrastructure Engineering",
   "344311": "Program Manager, Oracle Health Support Operations",
@@ -505,6 +511,7 @@
   "347618": "Principal Data Center Facilities Engineer",
   "347622": "Principal Machine Learning Engineer",
   "347624": "Product Marketing Analyst 5",
+  "347625": "Principal Application Software Engineer",
   "347626": "Principal Platform Software Engineer",
   "347627": "Director, Platform Software Engineering",
   "347628": "Senior Support Engineer-Support (SuiteCloud) - Q2FY27",
@@ -514,6 +521,7 @@
   "347636": "Lead Principal Software Engineer, Core Infrastructure",
   "347642": "Lead Principal Product Manager",
   "347643": "Lead Principal Platform Software Engineer",
+  "347645": "Senior Platform Software Engineer",
   "347647": "Lead Principal Platform Software Engineer",
   "347648": "Principal Applied Scientist",
   "347650": "Senior Platform Software Engineer",
@@ -601,6 +609,7 @@
   "347902": "Principal Platform Software Engineer- Oracle Health",
   "347904": "Principal Financial Systems Analyst",
   "347910": "Account Executive - Mid Market",
+  "347914": "Principal Network Developer",
   "347915": "Director, Data Center Support Services",
   "347916": "Principal Network Engineer",
   "347917": "Lead Principal Core Infrastructure Engineer",
@@ -1004,5 +1013,10 @@
   "R0047306": "Quality Engineer, Level 4",
   "R0047307": "Executive Protection Specialist",
   "R0047308": "Creative Lead, SPECS, Social"
+ },
+ "_counts": {
+  "Airbnb": 191,
+  "Oracle": 600,
+  "Snap": 209
  }
 }
