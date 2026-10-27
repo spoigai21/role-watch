@@ -1037,3 +1037,12 @@
   https://www.metacareers.com/profile/job_details/1106356978473637/
 - *(quiet)* Meta - Research Scientist Intern, Foundation Model Optimization (PhD)  
   https://www.metacareers.com/profile/job_details/1435245618154892/
+
+## 2026-10-27 07:44
+
+- *(quiet)* Netflix - HR Associate - Japan  
+  https://explore.jobs.netflix.net/careers/job/790319155818
+- *(quiet)* Netflix - Technical Director Core Assets  
+  https://explore.jobs.netflix.net/careers/job/790319148878
+- *(quiet)* Meta - Manufacturing Design Engineer - Mechanical  
+  https://www.metacareers.com/profile/job_details/1382110947061175/
