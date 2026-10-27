@@ -1020,3 +1020,20 @@
   https://www.metacareers.com/profile/job_details/1805880680562213/
 - *(quiet)* Meta - Research Scientist Intern, Generative AI (PhD) (multiple locations)  
   https://www.metacareers.com/profile/job_details/1694337262064234/
+
+## 2026-10-27 02:08
+
+- *(quiet)* Netflix - Software Engineer 5 - Device Certification Infrastructure  
+  https://explore.jobs.netflix.net/careers/job/790319146642
+- *(quiet)* Netflix - Counsel/Manager, Business & Legal Affairs - Original Stand-Up, Sketch &  Comedy Formats  
+  https://explore.jobs.netflix.net/careers/job/790319147092
+- *(quiet)* Netflix - Administrative Assistant, Series Business & Legal Affairs  
+  https://explore.jobs.netflix.net/careers/job/790319100447
+- *(quiet)* Meta - Failure Analysis Engineer  
+  https://www.metacareers.com/profile/job_details/1095563319757160/
+- *(quiet)* Meta - Product Designer  
+  https://www.metacareers.com/profile/job_details/1794592705158849/
+- *(quiet)* Meta - Silicon Packaging Engineer  
+  https://www.metacareers.com/profile/job_details/1106356978473637/
+- *(quiet)* Meta - Research Scientist Intern, Foundation Model Optimization (PhD)  
+  https://www.metacareers.com/profile/job_details/1435245618154892/
