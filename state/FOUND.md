@@ -1053,3 +1053,32 @@
   https://explore.jobs.netflix.net/careers/job/790319161027
 - *(quiet)* Netflix - Coordinator, Production Management - India  
   https://explore.jobs.netflix.net/careers/job/790319163062
+
+## 2026-10-27 18:56
+
+- *(quiet)* Netflix - Customer Service Analytics & Insights Analyst  
+  https://explore.jobs.netflix.net/careers/job/790319182712
+- *(quiet)* Netflix - Senior Manager, Ads Policy - EMEA  
+  https://explore.jobs.netflix.net/careers/job/790319180187
+- *(quiet)* Meta - Research Scientist Intern, Ranking &amp; Recommendations (PhD)  
+  https://www.metacareers.com/profile/job_details/1625515955324134/
+- *(quiet)* Meta - Research Scientist Intern, FAIR - Video Generation Self-Improvement (PhD)  
+  https://www.metacareers.com/profile/job_details/29358420983776961/
+- *(quiet)* Meta - Wireless Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1881250979530334/
+- *(quiet)* Meta - Research Scientist, Computer Vision (PhD)  
+  https://www.metacareers.com/profile/job_details/3727662564049855/
+- *(quiet)* Meta - Technical Program Manager  
+  https://www.metacareers.com/profile/job_details/4472428649687872/
+- *(quiet)* Meta - Manager, Network Deployment &amp; Support  
+  https://www.metacareers.com/profile/job_details/2229851370925442/
+- *(quiet)* Meta - Research Scientist Intern, AI Research - Speech &amp; Audio (PhD)  
+  https://www.metacareers.com/profile/job_details/1567168005156007/
+- *(quiet)* Meta - Software Engineer, Machine Learning  
+  https://www.metacareers.com/profile/job_details/1387663399913249/
+- *(quiet)* Meta - Research Scientist Intern, AI Research - Speech &amp; Audio (PhD)  
+  https://www.metacareers.com/profile/job_details/1811645993254851/
+- *(quiet)* Meta - ASIC Engineer, Physical Design CAD  
+  https://www.metacareers.com/profile/job_details/1439637241488486/
+- *(quiet)* Meta - Commercial Sourcing Manager, Power and Cooling Infrastructure Equipment  
+  https://www.metacareers.com/profile/job_details/1608191560214439/
