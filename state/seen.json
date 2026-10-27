@@ -1,5 +1,5 @@
 {
- "_meta_checked": 1793127360.703609,
+ "_meta_checked": 1793141266.484275,
  "meta:1001245402541256": {
   "title": null
  },
@@ -20,6 +20,9 @@
  },
  "meta:1007145815659976": {
   "title": null
+ },
+ "meta:1007889151685275": {
+  "title": "Network Strategy &amp; Data Analytics Lead"
  },
  "meta:1008587122164422": {
   "title": null
@@ -780,6 +783,9 @@
  "meta:1119125327506950": {
   "title": "Technical Program Manager, Meta Robotics Studio, APAC"
  },
+ "meta:1119533327598761": {
+  "title": "Network Development Manager"
+ },
  "meta:1120725274248208": {
   "title": "Environmental, Health &amp; Safety Lead"
  },
@@ -858,6 +864,9 @@
  "meta:1137225375529389": {
   "title": "Research Scientist Intern, Wearable Sensing &amp; Human Motion Analysis"
  },
+ "meta:1137758352116726": {
+  "title": "Supply Chain Capacity Engineer "
+ },
  "meta:1138304848625338": {
   "title": null
  },
@@ -926,6 +935,9 @@
  },
  "meta:1169426155744434": {
   "title": "Audit and Compliance Manager"
+ },
+ "meta:1174205791946130": {
+  "title": "Network Fiber Delivery Manager [Americas]"
  },
  "meta:1176947364994563": {
   "title": "AI Research Scientist"
@@ -2139,6 +2151,9 @@
  "meta:1590348436203666": {
   "title": null
  },
+ "meta:1590981789387161": {
+  "title": "Director, Product Design"
+ },
  "meta:1591327145455216": {
   "title": null
  },
@@ -2592,6 +2607,9 @@
  "meta:1713687503089589": {
   "title": null
  },
+ "meta:1714201770266311": {
+  "title": "Product Design Engineering Intern &#x2014; AI Glasses"
+ },
  "meta:1714532399603592": {
   "title": null
  },
@@ -2624,6 +2642,9 @@
  },
  "meta:1721414708926696": {
   "title": "Software Engineer, Embedded Systems"
+ },
+ "meta:1722686882157341": {
+  "title": "Software Engineer (Technical Leadership) - Central Security"
  },
  "meta:1725888355192236": {
   "title": null
@@ -2732,6 +2753,9 @@
  },
  "meta:1749597859496184": {
   "title": null
+ },
+ "meta:1751935042548465": {
+  "title": "Research Scientist Intern, User Modeling and Reinforcement Learning (PhD)"
  },
  "meta:1752013789155321": {
   "title": null
@@ -2897,6 +2921,9 @@
  },
  "meta:1789094262286710": {
   "title": "Community Engagement Manager"
+ },
+ "meta:1789380188995838": {
+  "title": "Research Scientist Intern, Computer Vision - Video Intelligence (PhD)"
  },
  "meta:1790162922007235": {
   "title": null
@@ -3951,6 +3978,9 @@
  "meta:2367510457392197": {
   "title": "Manufacturing Operations Manager - Reality Labs"
  },
+ "meta:2368433610564528": {
+  "title": "Research Scientist Intern - Neural Representations Compression"
+ },
  "meta:2373766839819792": {
   "title": "Software Engineer, Systems"
  },
@@ -4520,6 +4550,9 @@
  },
  "meta:3631359983891800": {
   "title": "Strategic Program Manager, Global Business Group"
+ },
+ "meta:3637028099797898": {
+  "title": "Prototyping Engineer - CNC Machinist"
  },
  "meta:3638157606325591": {
   "title": null
@@ -5250,6 +5283,9 @@
  "meta:983697370981438": {
   "title": null
  },
+ "meta:984204394727196": {
+  "title": "Research Scientist Intern, Youth Safety (PhD)"
+ },
  "meta:989132117436241": {
   "title": null
  },
@@ -5312,6 +5348,9 @@
  },
  "netflix:790316561602": {
   "title": "Head of Environments - Netflix Animation Studios"
+ },
+ "netflix:790316811164": {
+  "title": "Staff/ Principal Software Engineer (L6/L7): AI Platform Model Serving"
  },
  "netflix:790317012038": {
   "title": "Member of Technical Staff, Agentic Systems - Games"
@@ -5765,5 +5804,8 @@
  },
  "netflix:790319182712": {
   "title": "Customer Service Analytics & Insights Analyst"
+ },
+ "netflix:790319186617": {
+  "title": "Machine Learning Engineer (L4/L5) - Studio Media Algorithms"
  }
 }

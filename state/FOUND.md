@@ -1082,3 +1082,34 @@
   https://www.metacareers.com/profile/job_details/1439637241488486/
 - *(quiet)* Meta - Commercial Sourcing Manager, Power and Cooling Infrastructure Equipment  
   https://www.metacareers.com/profile/job_details/1608191560214439/
+
+## 2026-10-27 22:47
+
+- *(quiet)* Netflix - Staff/ Principal Software Engineer (L6/L7): AI Platform Model Serving  
+  https://explore.jobs.netflix.net/careers/job/790316811164
+- *(quiet)* Netflix - Machine Learning Engineer (L4/L5) - Studio Media Algorithms  
+  https://explore.jobs.netflix.net/careers/job/790319186617
+- *(quiet)* Meta - Network Fiber Delivery Manager [Americas]  
+  https://www.metacareers.com/profile/job_details/1174205791946130/
+- *(quiet)* Meta - Network Development Manager  
+  https://www.metacareers.com/profile/job_details/1119533327598761/
+- *(quiet)* Meta - Network Strategy &amp; Data Analytics Lead  
+  https://www.metacareers.com/profile/job_details/1007889151685275/
+- *(quiet)* Meta - Software Engineer (Technical Leadership) - Central Security  
+  https://www.metacareers.com/profile/job_details/1722686882157341/
+- *(quiet)* Meta - Prototyping Engineer - CNC Machinist  
+  https://www.metacareers.com/profile/job_details/3637028099797898/
+- *(quiet)* Meta - Director, Product Design  
+  https://www.metacareers.com/profile/job_details/1590981789387161/
+- *(quiet)* Meta - Research Scientist Intern, User Modeling and Reinforcement Learning (PhD)  
+  https://www.metacareers.com/profile/job_details/1751935042548465/
+- *(quiet)* Meta - Research Scientist Intern - Neural Representations Compression  
+  https://www.metacareers.com/profile/job_details/2368433610564528/
+- *(quiet)* Meta - Research Scientist Intern, Computer Vision - Video Intelligence (PhD)  
+  https://www.metacareers.com/profile/job_details/1789380188995838/
+- *(quiet)* Meta - Research Scientist Intern, Youth Safety (PhD)  
+  https://www.metacareers.com/profile/job_details/984204394727196/
+- *(quiet)* Meta - Supply Chain Capacity Engineer   
+  https://www.metacareers.com/profile/job_details/1137758352116726/
+- *(quiet)* Meta - Product Design Engineering Intern &#x2014; AI Glasses  
+  https://www.metacareers.com/profile/job_details/1714201770266311/
