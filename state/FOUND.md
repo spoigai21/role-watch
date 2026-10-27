@@ -1046,3 +1046,10 @@
   https://explore.jobs.netflix.net/careers/job/790319148878
 - *(quiet)* Meta - Manufacturing Design Engineer - Mechanical  
   https://www.metacareers.com/profile/job_details/1382110947061175/
+
+## 2026-10-27 13:37
+
+- *(quiet)* Netflix - Merchandiser (CEE), Product Merchandising  
+  https://explore.jobs.netflix.net/careers/job/790319161027
+- *(quiet)* Netflix - Coordinator, Production Management - India  
+  https://explore.jobs.netflix.net/careers/job/790319163062
