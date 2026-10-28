@@ -1158,3 +1158,32 @@
   https://www.metacareers.com/profile/job_details/1412172437306781/
 - *(quiet)* Meta - Public Policy Manager Germany, Austria, Switzerland (17 Month STE Contract)  
   https://www.metacareers.com/profile/job_details/1110698515131392/
+
+## 2026-10-28 19:41
+
+- *(quiet)* Netflix - Senior Creative Technologist, Games GenAI  
+  https://explore.jobs.netflix.net/careers/job/790319210998
+- *(quiet)* Netflix - Administrative Assistant, Experience Design  
+  https://explore.jobs.netflix.net/careers/job/790319212246
+- *(quiet)* Meta - Software Engineer - Central Integrity  
+  https://www.metacareers.com/profile/job_details/3661368204023469/
+- *(quiet)* Meta - Finance Manager, Infrastructure Supply Chain  
+  https://www.metacareers.com/profile/job_details/4119589831516361/
+- *(quiet)* Meta - Audit and Compliance Manager  
+  https://www.metacareers.com/profile/job_details/28780356001614726/
+- *(quiet)* Meta - Technical Program Manager Intern, Global Supply Management &#x2014; Reality Labs (2027)  
+  https://www.metacareers.com/profile/job_details/3333103890230916/
+- *(quiet)* Meta - Energy Analytics Manager, Clean Energy  
+  https://www.metacareers.com/profile/job_details/1531892228645100/
+- *(quiet)* Meta - Program Manager, Hardware Vendor Management  
+  https://www.metacareers.com/profile/job_details/2223162934916610/
+- *(quiet)* Meta - Program Manager Software and 3P AI  
+  https://www.metacareers.com/profile/job_details/2092854164702280/
+- *(quiet)* Meta - Client Partner  
+  https://www.metacareers.com/profile/job_details/1505309724221503/
+- *(quiet)* Meta - Software Engineer, Machine Learning  
+  https://www.metacareers.com/profile/job_details/1505899738040251/
+- *(quiet)* Meta - Research Engineer, AI | Ing&#xe9;nieur de recherche en IA  
+  https://www.metacareers.com/profile/job_details/1804936350708881/
+- *(quiet)* Meta - People Service Delivery Lead  
+  https://www.metacareers.com/profile/job_details/1082243527906084/

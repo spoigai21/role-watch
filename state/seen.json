@@ -1,5 +1,5 @@
 {
- "_meta_checked": 1793197350.143347,
+ "_meta_checked": 1793216475.890575,
  "meta:1001245402541256": {
   "title": null
  },
@@ -473,6 +473,9 @@
  },
  "meta:1082218741109383": {
   "title": "Data Engineer, Analytics | Ing&#xe9;nieur de donn&#xe9;es, analytique"
+ },
+ "meta:1082243527906084": {
+  "title": "People Service Delivery Lead"
  },
  "meta:1082435264177795": {
   "title": null
@@ -1857,6 +1860,12 @@
  "meta:1504698378149747": {
   "title": "Software Engineering Manager, Ads Systems"
  },
+ "meta:1505309724221503": {
+  "title": "Client Partner"
+ },
+ "meta:1505899738040251": {
+  "title": "Software Engineer, Machine Learning"
+ },
  "meta:1506995541446632": {
   "title": null
  },
@@ -1934,6 +1943,9 @@
  },
  "meta:1531341668630704": {
   "title": null
+ },
+ "meta:1531892228645100": {
+  "title": "Energy Analytics Manager, Clean Energy"
  },
  "meta:1532194795262097": {
   "title": null
@@ -3003,6 +3015,9 @@
  "meta:1804279557551601": {
   "title": null
  },
+ "meta:1804936350708881": {
+  "title": "Research Engineer, AI | Ing&#xe9;nieur de recherche en IA"
+ },
  "meta:1805253617176190": {
   "title": "Program Manager, Strategic Initiatives "
  },
@@ -3516,6 +3531,9 @@
  "meta:2092291905494339": {
   "title": null
  },
+ "meta:2092854164702280": {
+  "title": "Program Manager Software and 3P AI"
+ },
  "meta:2095549101093469": {
   "title": "Leadership Development Designer &amp; Business Partner"
  },
@@ -3806,6 +3824,9 @@
  },
  "meta:2220955188760683": {
   "title": null
+ },
+ "meta:2223162934916610": {
+  "title": "Program Manager, Hardware Vendor Management"
  },
  "meta:2226980898156342": {
   "title": null
@@ -4395,6 +4416,9 @@
  "meta:28775553698748427": {
   "title": null
  },
+ "meta:28780356001614726": {
+  "title": "Audit and Compliance Manager"
+ },
  "meta:2879720939075016": {
   "title": null
  },
@@ -4530,6 +4554,9 @@
  "meta:3332062426981365": {
   "title": null
  },
+ "meta:3333103890230916": {
+  "title": "Technical Program Manager Intern, Global Supply Management &#x2014; Reality Labs (2027)"
+ },
  "meta:3364701000388712": {
   "title": "Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)"
  },
@@ -4595,6 +4622,9 @@
  },
  "meta:3638157606325591": {
   "title": null
+ },
+ "meta:3661368204023469": {
+  "title": "Software Engineer - Central Integrity"
  },
  "meta:3662984760522531": {
   "title": "Product Risk Program Manager"
@@ -4667,6 +4697,9 @@
  },
  "meta:4094243844043267": {
   "title": null
+ },
+ "meta:4119589831516361": {
+  "title": "Finance Manager, Infrastructure Supply Chain"
  },
  "meta:4157999457837332": {
   "title": null
@@ -5861,5 +5894,11 @@
  },
  "netflix:790319203470": {
   "title": "Manager, Marketing Partnerships - UK (FTC)"
+ },
+ "netflix:790319210998": {
+  "title": "Senior Creative Technologist, Games GenAI"
+ },
+ "netflix:790319212246": {
+  "title": "Administrative Assistant, Experience Design"
  }
 }
