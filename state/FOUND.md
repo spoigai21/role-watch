@@ -1187,3 +1187,18 @@
   https://www.metacareers.com/profile/job_details/1804936350708881/
 - *(quiet)* Meta - People Service Delivery Lead  
   https://www.metacareers.com/profile/job_details/1082243527906084/
+
+## 2026-10-28 23:32
+
+- *(quiet)* Meta - Director Software Engineering - Central Integrity  
+  https://www.metacareers.com/profile/job_details/1143943474645049/
+- *(quiet)* Meta - Project Manager, Organic Content Integrity Operations - Speech Problems  
+  https://www.metacareers.com/profile/job_details/1400453972255145/
+- *(quiet)* Meta - Regional EHS Specialist  
+  https://www.metacareers.com/profile/job_details/1824968818657639/
+- *(quiet)* Meta - Network Development Manager  
+  https://www.metacareers.com/profile/job_details/1872280647276301/
+- *(quiet)* Meta - NPI Program Manager  
+  https://www.metacareers.com/profile/job_details/977462358770993/
+- *(quiet)* Meta - Corporate Development Deal Lead  
+  https://www.metacareers.com/profile/job_details/3272811716246648/
