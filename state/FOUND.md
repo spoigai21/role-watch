@@ -1128,3 +1128,18 @@
   https://www.metacareers.com/profile/job_details/1426965155339653/
 - *(quiet)* Meta - Consumer Product Marketing Lead, Video  
   https://www.metacareers.com/profile/job_details/1829813064725578/
+
+## 2026-10-28 07:31
+
+- *(quiet)* Meta - Software Engineer, Infrastructure - Central Security  
+  https://www.metacareers.com/profile/job_details/1116099024681849/
+- *(quiet)* Meta - ASIC Verification Engineer, Networking  
+  https://www.metacareers.com/profile/job_details/1987641745525671/
+- *(quiet)* Meta - Business Development Manager, AI Partnerships  
+  https://www.metacareers.com/profile/job_details/1148982971493133/
+- *(quiet)* Meta - Security Engineer - Client Security  
+  https://www.metacareers.com/profile/job_details/991877626535287/
+- *(quiet)* Meta - Vice President, Communications &#x2014; Instagram, Threads, &amp; Edits  
+  https://www.metacareers.com/profile/job_details/2570506886761944/
+- *(quiet)* Meta - ASIC Engineer Intern, Physical Design  
+  https://www.metacareers.com/profile/job_details/1823027662342331/
