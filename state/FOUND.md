@@ -1143,3 +1143,18 @@
   https://www.metacareers.com/profile/job_details/2570506886761944/
 - *(quiet)* Meta - ASIC Engineer Intern, Physical Design  
   https://www.metacareers.com/profile/job_details/1823027662342331/
+
+## 2026-10-28 14:22
+
+- *(quiet)* Netflix - Manager, Marketing Partnerships - UK (FTC)  
+  https://explore.jobs.netflix.net/careers/job/790319203470
+- *(quiet)* Netflix - Senior Ads Measurement Partner  
+  https://explore.jobs.netflix.net/careers/job/790319198334
+- *(quiet)* Netflix - Senior Manager, Consumer Products Title Planning - APAC  
+  https://explore.jobs.netflix.net/careers/job/790319198549
+- *(quiet)* Netflix - Procure-to-Pay (P2P) Specialist  
+  https://explore.jobs.netflix.net/careers/job/790319199087
+- *(quiet)* Meta - Research Scientist  
+  https://www.metacareers.com/profile/job_details/1412172437306781/
+- *(quiet)* Meta - Public Policy Manager Germany, Austria, Switzerland (17 Month STE Contract)  
+  https://www.metacareers.com/profile/job_details/1110698515131392/
