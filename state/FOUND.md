@@ -1113,3 +1113,18 @@
   https://www.metacareers.com/profile/job_details/1137758352116726/
 - *(quiet)* Meta - Product Design Engineering Intern &#x2014; AI Glasses  
   https://www.metacareers.com/profile/job_details/1714201770266311/
+
+## 2026-10-28 01:48
+
+- *(quiet)* Meta - Research Scientist Intern, Ads Recommendations (PhD)  
+  https://www.metacareers.com/profile/job_details/1691709792593561/
+- *(quiet)* Meta - Software Engineer, AI for Incident Response (Technical Leadership)  
+  https://www.metacareers.com/profile/job_details/2647828669010630/
+- *(quiet)* Meta - Software Engineer, Machine Learning - AI Solutions and Automation + Support  
+  https://www.metacareers.com/profile/job_details/1391474166393379/
+- *(quiet)* Meta - Software Engineer (Technical Leadership) - AI Solutions and Automation + Support  
+  https://www.metacareers.com/profile/job_details/2186387558897325/
+- *(quiet)* Meta - Product Manager  
+  https://www.metacareers.com/profile/job_details/1426965155339653/
+- *(quiet)* Meta - Consumer Product Marketing Lead, Video  
+  https://www.metacareers.com/profile/job_details/1829813064725578/
