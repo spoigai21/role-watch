@@ -1215,3 +1215,8 @@
   https://www.metacareers.com/profile/job_details/1562937885878755/
 - *(quiet)* Meta - Global Response Operations, Protect Analyst  
   https://www.metacareers.com/profile/job_details/1057844897284785/
+
+## 2026-10-29 08:55
+
+- *(quiet)* Meta - Marketing Manager, Wearables (APAC)  
+  https://www.metacareers.com/profile/job_details/2398415237313595/
