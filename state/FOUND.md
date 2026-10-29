@@ -1231,3 +1231,56 @@
   https://www.metacareers.com/profile/job_details/1143849258615388/
 - *(quiet)* Meta - Software Engineer (Leadership) - Infrastructure  
   https://www.metacareers.com/profile/job_details/743426334702725/
+
+## 2026-10-29 20:39
+
+- *(quiet)* Netflix - Engineering Manager - Promotional Artwork Engineering  
+  https://explore.jobs.netflix.net/careers/job/790319239100
+- *(quiet)* Netflix - Marketing Operations Manager - UCAN (Live)  
+  https://explore.jobs.netflix.net/careers/job/790319242363
+- *(quiet)* Netflix - Manager, Logistics - Fort Monmouth  
+  https://explore.jobs.netflix.net/careers/job/790319216247
+- *(quiet)* Netflix - Manager, Studio Admin - Fort Monmouth  
+  https://explore.jobs.netflix.net/careers/job/790319216248
+- *(quiet)* Netflix - Specialist, Site and Services - Fort Monmouth  
+  https://explore.jobs.netflix.net/careers/job/790319216289
+- *(quiet)* Netflix - Coordinator, Site and Services - Fort Monmouth  
+  https://explore.jobs.netflix.net/careers/job/790319216290
+- *(quiet)* Netflix - Coordinator, Client Services - Fort Monmouth  
+  https://explore.jobs.netflix.net/careers/job/790319216322
+- *(quiet)* Netflix - Specialist, Studio Safety - Fort Monmouth  
+  https://explore.jobs.netflix.net/careers/job/790319216323
+- *(quiet)* Meta - Lead Counsel, IP Content &amp; Product  
+  https://www.metacareers.com/profile/job_details/2307343643334046/
+- *(quiet)* Meta - Capacity Delivery Lead  
+  https://www.metacareers.com/profile/job_details/1325405242950963/
+- *(quiet)* Meta - Research Scientist Intern, AI Core Machine Learning (PhD)  
+  https://www.metacareers.com/profile/job_details/969100159096154/
+- *(quiet)* Meta - Finance Manager, Infrastructure Deals  
+  https://www.metacareers.com/profile/job_details/1801046997775116/
+- *(quiet)* Meta - Account Executive, Model AI API  
+  https://www.metacareers.com/profile/job_details/1179617661387917/
+- *(quiet)* Meta - Hardware Systems Architect, AI Hardware Products  
+  https://www.metacareers.com/profile/job_details/3759843327504708/
+- *(quiet)* Meta - Research Scientist Intern, Integrity (Trust and Safety) AI (PhD)  
+  https://www.metacareers.com/profile/job_details/1105933535765181/
+- *(quiet)* Meta - Finance Associate, Reality Labs  
+  https://www.metacareers.com/profile/job_details/935521119427537/
+- *(quiet)* Meta - Applied AI Architect, Meta Enterprise Platform  
+  https://www.metacareers.com/profile/job_details/1121828427300243/
+- *(quiet)* Meta - Research Scientist Intern, AI Infra (PhD)  
+  https://www.metacareers.com/profile/job_details/4603165899971826/
+- *(quiet)* Meta - Research Scientist Intern, Integrity AI (PhD)  
+  https://www.metacareers.com/profile/job_details/1134052755889538/
+- *(quiet)* Meta - Network Engineer, Deployment &amp; Support  
+  https://www.metacareers.com/profile/job_details/2258969471352940/
+- *(quiet)* Meta - Research Scientist Intern, Scam and Trust (PhD)  
+  https://www.metacareers.com/profile/job_details/2355649268510104/
+- *(quiet)* Meta - Research Engineer - AI Safety Systems and Guardrails  
+  https://www.metacareers.com/profile/job_details/2609404716185600/
+- *(quiet)* Meta - Research Scientist Intern, Muse RL and Agents Team (PhD)  
+  https://www.metacareers.com/profile/job_details/2082008865811696/
+- *(quiet)* Meta - Program Manager. International Payments Testing  
+  https://www.metacareers.com/profile/job_details/4599557040258021/
+- *(quiet)* Meta - Global Solutions Partner, London  
+  https://www.metacareers.com/profile/job_details/40103781942546472/
