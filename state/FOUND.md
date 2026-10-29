@@ -1220,3 +1220,14 @@
 
 - *(quiet)* Meta - Marketing Manager, Wearables (APAC)  
   https://www.metacareers.com/profile/job_details/2398415237313595/
+
+## 2026-10-29 15:46
+
+- *(quiet)* Netflix - Senior Ads Measurement Partner  
+  https://explore.jobs.netflix.net/careers/job/790319229344
+- *(quiet)* Netflix - Manager - Measurement Science & Analytics  
+  https://explore.jobs.netflix.net/careers/job/790319235151
+- *(quiet)* Meta - Product Manager, Enterprise Solutions  
+  https://www.metacareers.com/profile/job_details/1143849258615388/
+- *(quiet)* Meta - Software Engineer (Leadership) - Infrastructure  
+  https://www.metacareers.com/profile/job_details/743426334702725/
