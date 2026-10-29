@@ -1202,3 +1202,16 @@
   https://www.metacareers.com/profile/job_details/977462358770993/
 - *(quiet)* Meta - Corporate Development Deal Lead  
   https://www.metacareers.com/profile/job_details/3272811716246648/
+
+## 2026-10-29 02:44
+
+- *(quiet)* Meta - Software Development Engineer in Test  
+  https://www.metacareers.com/profile/job_details/1461053675924234/
+- *(quiet)* Meta - Technical Program Manager, Infrastructure Software Systems  
+  https://www.metacareers.com/profile/job_details/1642605520645636/
+- *(quiet)* Meta - ML Innovation for Products, PhD Research Intern  
+  https://www.metacareers.com/profile/job_details/1060093353751700/
+- *(quiet)* Meta - Senior Director, Data Science - Security Analytics  
+  https://www.metacareers.com/profile/job_details/1562937885878755/
+- *(quiet)* Meta - Global Response Operations, Protect Analyst  
+  https://www.metacareers.com/profile/job_details/1057844897284785/
