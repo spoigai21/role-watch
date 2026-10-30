@@ -1314,3 +1314,18 @@
   https://www.metacareers.com/profile/job_details/1127102149763705/
 - *(quiet)* Meta - Research Scientist Intern, Agent for Recommendation (PhD)  
   https://www.metacareers.com/profile/job_details/1713161050367751/
+
+## 2026-10-30 12:40
+
+- *(quiet)* Netflix - Talent Mobility Partner, APAC  
+  https://explore.jobs.netflix.net/careers/job/790319253437
+- *(quiet)* Netflix - Workplace Experience Coordinator (11 Month FTC)  
+  https://explore.jobs.netflix.net/careers/job/790319255269
+- *(quiet)* Netflix - Marketing Production Manager, Nordics (FTC)  
+  https://explore.jobs.netflix.net/careers/job/790319255623
+- *(quiet)* Meta - Client Solutions Manager, Technology  
+  https://www.metacareers.com/profile/job_details/1434081845568332/
+- *(quiet)* Meta - Executive Administrative Partner  
+  https://www.metacareers.com/profile/job_details/923023527415422/
+- *(quiet)* Meta - Investigations Analyst - Threats  
+  https://www.metacareers.com/profile/job_details/1143380384715543/
