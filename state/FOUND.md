@@ -1348,3 +1348,32 @@
   https://www.metacareers.com/profile/job_details/2176752336579715/
 - *(quiet)* Meta - Research Scientist Intern, Photorealistic Telepresence (PhD)  
   https://www.metacareers.com/profile/job_details/1358944629494375/
+
+## 2026-10-30 22:17
+
+- *(quiet)* Netflix - Stage Specialist - Fort Monmouth  
+  https://explore.jobs.netflix.net/careers/job/790319259450
+- *(quiet)* Netflix - Coordinator, Logistics - Fort Monmouth  
+  https://explore.jobs.netflix.net/careers/job/790319259458
+- *(quiet)* Netflix - Product Solutions Lead, Ads Platform  
+  https://explore.jobs.netflix.net/careers/job/790319262079
+- *(quiet)* Netflix - Sr. Account Manager (US - Havas/Dentsu)  
+  https://explore.jobs.netflix.net/careers/job/790319262115
+- *(quiet)* Meta - Production Engineer, Network AI Lead  
+  https://www.metacareers.com/profile/job_details/1395012562712304/
+- *(quiet)* Meta - Partner Manager, Government, Politics, Advocacy and Compliance  
+  https://www.metacareers.com/profile/job_details/1767903448137144/
+- *(quiet)* Meta - Research Scientist Intern, Computer Vision - Video Intelligence (PhD)  
+  https://www.metacareers.com/profile/job_details/1126899676481179/
+- *(quiet)* Meta - Technical Program Manager, Infrastructure Data Centers | Gestionnaire de programme technique, centres de donn&#xe9;es d&#039;infrastructure  
+  https://www.metacareers.com/profile/job_details/29305125179104964/
+- *(quiet)* Meta - Network Engineer, Foundation &amp; Support (Edge and Network Services Product Lifecycle Support)  
+  https://www.metacareers.com/profile/job_details/1845015506680516/
+- *(quiet)* Meta - Business Lead, Enterprise Products  
+  https://www.metacareers.com/profile/job_details/4573655272892048/
+- *(quiet)* Meta - Research Scientist Intern, Photorealistic Telepresence (PhD)  
+  https://www.metacareers.com/profile/job_details/957720287051540/
+- *(quiet)* Meta - Technical Program Manager, Expert Engagement and Voice of Customer (AI)  
+  https://www.metacareers.com/profile/job_details/4646669022284767/
+- *(quiet)* Meta - Automation Program Manager, Legal and Compliance Operations  
+  https://www.metacareers.com/profile/job_details/1094628856764257/
