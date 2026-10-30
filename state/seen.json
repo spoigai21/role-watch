@@ -1,5 +1,5 @@
 {
- "_meta_checked": 1793306396.565133,
+ "_meta_checked": 1793319644.802847,
  "meta:1001245402541256": {
   "title": null
  },
@@ -3177,6 +3177,9 @@
  "meta:1846133356754334": {
   "title": null
  },
+ "meta:1847186939636437": {
+  "title": "Research Scientist Intern, AI Core Machine Learning (PhD)"
+ },
  "meta:1847850842915059": {
   "title": "Product Analyst, Global Product Quality"
  },
@@ -3209,6 +3212,9 @@
  },
  "meta:1865758441490305": {
   "title": null
+ },
+ "meta:1866647961019013": {
+  "title": "Finance Associate, Reality Labs"
  },
  "meta:1866761794487684": {
   "title": "Research Scientist Intern, AI &amp; Compute Foundation - MTIA SW (PhD)"
@@ -4020,6 +4026,9 @@
  "meta:2309543522914406": {
   "title": "Signal Integrity / Power Integrity Engineer "
  },
+ "meta:2310355666487379": {
+  "title": "Applied AI Architect, Meta Enterprise Platform (London)"
+ },
  "meta:2316600655751692": {
   "title": null
  },
@@ -4350,6 +4359,9 @@
  "meta:2711793419173868": {
   "title": null
  },
+ "meta:27256481520713890": {
+  "title": "Research Scientist, World Modelling | Chercheur scientifique, mod&#xe9;lisation du monde"
+ },
  "meta:27362141263462210": {
   "title": null
  },
@@ -4562,6 +4574,9 @@
  },
  "meta:300760325782735": {
   "title": null
+ },
+ "meta:3010192069330658": {
+  "title": "Solutions Architect - (12 Month Contract)"
  },
  "meta:3017015768637502": {
   "title": "WhatsApp - Software Engineer (Technical Leadership) - iOS"
@@ -6023,5 +6038,8 @@
  },
  "netflix:790319242363": {
   "title": "Marketing Operations Manager - UCAN (Live)"
+ },
+ "netflix:790319246162": {
+  "title": "Product Manager, Ads Creative"
  }
 }

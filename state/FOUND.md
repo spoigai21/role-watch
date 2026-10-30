@@ -1284,3 +1284,18 @@
   https://www.metacareers.com/profile/job_details/4599557040258021/
 - *(quiet)* Meta - Global Solutions Partner, London  
   https://www.metacareers.com/profile/job_details/40103781942546472/
+
+## 2026-10-30 00:20
+
+- *(quiet)* Netflix - Product Manager, Ads Creative  
+  https://explore.jobs.netflix.net/careers/job/790319246162
+- *(quiet)* Meta - Research Scientist, World Modelling | Chercheur scientifique, mod&#xe9;lisation du monde  
+  https://www.metacareers.com/profile/job_details/27256481520713890/
+- *(quiet)* Meta - Finance Associate, Reality Labs  
+  https://www.metacareers.com/profile/job_details/1866647961019013/
+- *(quiet)* Meta - Research Scientist Intern, AI Core Machine Learning (PhD)  
+  https://www.metacareers.com/profile/job_details/1847186939636437/
+- *(quiet)* Meta - Applied AI Architect, Meta Enterprise Platform (London)  
+  https://www.metacareers.com/profile/job_details/2310355666487379/
+- *(quiet)* Meta - Solutions Architect - (12 Month Contract)  
+  https://www.metacareers.com/profile/job_details/3010192069330658/
