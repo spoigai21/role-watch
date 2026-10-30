@@ -1329,3 +1329,22 @@
   https://www.metacareers.com/profile/job_details/923023527415422/
 - *(quiet)* Meta - Investigations Analyst - Threats  
   https://www.metacareers.com/profile/job_details/1143380384715543/
+
+## 2026-10-30 18:12
+
+- *(quiet)* Meta - Research Scientist Intern, MSL - Agentic Post-Training (PhD)  
+  https://www.metacareers.com/profile/job_details/1155292783739299/
+- *(quiet)* Meta - AI Research Scientist, Language - Generative AI  
+  https://www.metacareers.com/profile/job_details/1014936436926274/
+- *(quiet)* Meta - Business Integrity Project Manager, WhatsApp Integrity Operations  
+  https://www.metacareers.com/profile/job_details/1587047606069954/
+- *(quiet)* Meta - Security Engineering Manager, Anti-Scraping  
+  https://www.metacareers.com/profile/job_details/1602407174411266/
+- *(quiet)* Meta - US Immigration Program Manager (Strategy &amp; Operations)  
+  https://www.metacareers.com/profile/job_details/4779539398942214/
+- *(quiet)* Meta - Data Scientist, Product Analytics  
+  https://www.metacareers.com/profile/job_details/29581947484724918/
+- *(quiet)* Meta - Business Development Manager  
+  https://www.metacareers.com/profile/job_details/2176752336579715/
+- *(quiet)* Meta - Research Scientist Intern, Photorealistic Telepresence (PhD)  
+  https://www.metacareers.com/profile/job_details/1358944629494375/
