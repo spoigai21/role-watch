@@ -1299,3 +1299,18 @@
   https://www.metacareers.com/profile/job_details/2310355666487379/
 - *(quiet)* Meta - Solutions Architect - (12 Month Contract)  
   https://www.metacareers.com/profile/job_details/3010192069330658/
+
+## 2026-10-30 06:01
+
+- *(quiet)* Netflix - Technical Director Performance  
+  https://explore.jobs.netflix.net/careers/job/790319249128
+- *(quiet)* Meta - Account Executive, Model AI API (London)  
+  https://www.metacareers.com/profile/job_details/1310610557806641/
+- *(quiet)* Meta - AI Research Scientist, Multimodal Perception  
+  https://www.metacareers.com/profile/job_details/4689387038007574/
+- *(quiet)* Meta - Product Marketing Manager, AI Growth Enterprise Products  
+  https://www.metacareers.com/profile/job_details/1821743802191103/
+- *(quiet)* Meta - Research Scientist Intern, Generative AI (PhD)  
+  https://www.metacareers.com/profile/job_details/1127102149763705/
+- *(quiet)* Meta - Research Scientist Intern, Agent for Recommendation (PhD)  
+  https://www.metacareers.com/profile/job_details/1713161050367751/
