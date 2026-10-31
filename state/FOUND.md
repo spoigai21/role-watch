@@ -1377,3 +1377,12 @@
   https://www.metacareers.com/profile/job_details/4646669022284767/
 - *(quiet)* Meta - Automation Program Manager, Legal and Compliance Operations  
   https://www.metacareers.com/profile/job_details/1094628856764257/
+
+## 2026-10-31 01:37
+
+- *(quiet)* Netflix - Senior Manager, Internal Communications  
+  https://explore.jobs.netflix.net/careers/job/790319262364
+- *(quiet)* Meta - Finance and Business Operations Manager, Marketing  
+  https://www.metacareers.com/profile/job_details/1924686602020983/
+- *(quiet)* Meta - Research Scientist Intern, Video RecSys (PhD)  
+  https://www.metacareers.com/profile/job_details/1553890293163197/
