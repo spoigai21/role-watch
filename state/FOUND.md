@@ -1386,3 +1386,16 @@
   https://www.metacareers.com/profile/job_details/1924686602020983/
 - *(quiet)* Meta - Research Scientist Intern, Video RecSys (PhD)  
   https://www.metacareers.com/profile/job_details/1553890293163197/
+
+## 2026-10-31 17:57
+
+- *(quiet)* Meta - Account Executive, Model AI API (Singapore)  
+  https://www.metacareers.com/profile/job_details/1435849028131194/
+- *(quiet)* Meta - Applied AI Architect, Meta Enterprise Platform (Singapore)  
+  https://www.metacareers.com/profile/job_details/1678750017179659/
+- *(quiet)* Meta - Applied AI Architect, Meta Enterprise Platform (India)  
+  https://www.metacareers.com/profile/job_details/2543470749484713/
+- *(quiet)* Meta - Machine Learning Engineer  
+  https://www.metacareers.com/profile/job_details/1056369097009090/
+- *(quiet)* Meta - Software Engineer, Systems  
+  https://www.metacareers.com/profile/job_details/1551507749512061/
