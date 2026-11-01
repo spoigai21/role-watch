@@ -1399,3 +1399,10 @@
   https://www.metacareers.com/profile/job_details/1056369097009090/
 - *(quiet)* Meta - Software Engineer, Systems  
   https://www.metacareers.com/profile/job_details/1551507749512061/
+
+## 2026-11-01 17:07
+
+- *(quiet)* Meta - Software Engineer, Product  
+  https://www.metacareers.com/profile/job_details/1411303244365622/
+- *(quiet)* Meta - Technical Solutions Consultant, Meta Business Agent  
+  https://www.metacareers.com/profile/job_details/1438523398456873/
