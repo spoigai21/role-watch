@@ -1411,3 +1411,18 @@
 
 - *(quiet)* Meta - Investigations Analyst - Threats  
   https://www.metacareers.com/profile/job_details/1400500856481807/
+
+## 2026-11-02 16:35
+
+- *(quiet)* Netflix - Associate Counsel, Litigation & Regulatory - India  
+  https://explore.jobs.netflix.net/careers/job/790319289797
+- *(quiet)* Meta - Account Executive, Model AI API (India)  
+  https://www.metacareers.com/profile/job_details/2364064461015378/
+- *(quiet)* Meta - AI Research Scientist, Visual Coding - MSL FAIR  
+  https://www.metacareers.com/profile/job_details/2922422108141088/
+- *(quiet)* Meta - Research Scientist Intern, AI Core Machine Learning (MSc)  
+  https://www.metacareers.com/profile/job_details/1126525590244595/
+- *(quiet)* Meta - Software Engineer, Product Engineering  
+  https://www.metacareers.com/profile/job_details/1761926741754475/
+- *(quiet)* Meta - Business Support Engineer - Meta Business Agents  
+  https://www.metacareers.com/profile/job_details/1355424656494960/
