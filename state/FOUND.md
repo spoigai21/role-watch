@@ -1406,3 +1406,8 @@
   https://www.metacareers.com/profile/job_details/1411303244365622/
 - *(quiet)* Meta - Technical Solutions Consultant, Meta Business Agent  
   https://www.metacareers.com/profile/job_details/1438523398456873/
+
+## 2026-11-02 06:46
+
+- *(quiet)* Meta - Investigations Analyst - Threats  
+  https://www.metacareers.com/profile/job_details/1400500856481807/
