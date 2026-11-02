@@ -1426,3 +1426,48 @@
   https://www.metacareers.com/profile/job_details/1761926741754475/
 - *(quiet)* Meta - Business Support Engineer - Meta Business Agents  
   https://www.metacareers.com/profile/job_details/1355424656494960/
+
+## 2026-11-02 23:39
+
+- *(quiet)* Netflix - Software Engineer 5 - Android (DVX Mobile Core)  
+  https://explore.jobs.netflix.net/careers/job/790319260802
+- *(quiet)* Meta - Research Scientist Intern, Robotic Control Policy (PhD)  
+  https://www.metacareers.com/profile/job_details/1872420890835857/
+- *(quiet)* Meta - SoC Physical Design Engineer  
+  https://www.metacareers.com/profile/job_details/1454908439920048/
+- *(quiet)* Meta - Program Manager, Product Data Operations (Reality Labs)  
+  https://www.metacareers.com/profile/job_details/2014611459221950/
+- *(quiet)* Meta - Director, Policy Communications &#x2014; WhatsApp  
+  https://www.metacareers.com/profile/job_details/1631234121812991/
+- *(quiet)* Meta - Business Engineer  
+  https://www.metacareers.com/profile/job_details/1650197326550719/
+- *(quiet)* Meta - Systems Engineer, Data Systems  
+  https://www.metacareers.com/profile/job_details/1377431597800315/
+- *(quiet)* Meta - Integrations Program Manager  
+  https://www.metacareers.com/profile/job_details/2396241814242935/
+- *(quiet)* Meta - Global Security Head of Retail  
+  https://www.metacareers.com/profile/job_details/1609995150178094/
+- *(quiet)* Meta - Associate General Counsel, People, Planet, Device Compliance  
+  https://www.metacareers.com/profile/job_details/2563072897549072/
+- *(quiet)* Meta - Security Strategist  
+  https://www.metacareers.com/profile/job_details/2067240330602365/
+- *(quiet)* Meta - Product Content Engineer - Content Strategist  
+  https://www.metacareers.com/profile/job_details/29499686146294937/
+- *(quiet)* Meta - Commercial Sourcing Manager, Network Systems &amp; Optics  
+  https://www.metacareers.com/profile/job_details/1709679880753176/
+- *(quiet)* Meta - Research Scientist Intern PhD, PAR Safety Evals and Red Teaming  
+  https://www.metacareers.com/profile/job_details/1272664685039241/
+- *(quiet)* Meta - Software Engineer - Network Switching  
+  https://www.metacareers.com/profile/job_details/1667165678411134/
+- *(quiet)* Meta - Data Center Technician  
+  https://www.metacareers.com/profile/job_details/2087120945504482/
+- *(quiet)* Meta - Data Center Lead  
+  https://www.metacareers.com/profile/job_details/1111221755150271/
+- *(quiet)* Meta - Research Scientist Intern, Interactive Physics Simulation for Robotics (PhD)  
+  https://www.metacareers.com/profile/job_details/1143164681833409/
+- *(quiet)* Meta - Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)  
+  https://www.metacareers.com/profile/job_details/1886852912490515/
+- *(quiet)* Meta - Community Lead-Muse  
+  https://www.metacareers.com/profile/job_details/1090859523835250/
+- *(quiet)* Meta - Research Scientist Intern, FAIR - World Model Foundations (PhD) | Stagiaire chercheur&#xb7;se scientifique, FAIR - World Model Foundations (Doctorat)  
+  https://www.metacareers.com/profile/job_details/1406585275871250/
