@@ -1495,3 +1495,26 @@
   https://www.metacareers.com/profile/job_details/1825246575283935/
 - *(quiet)* Meta - Agency Partner  
   https://www.metacareers.com/profile/job_details/1779320183157967/
+
+## 2026-11-03 18:40
+
+- *(quiet)* Netflix - Software Development Engineer in Test 5, TV & Web Player - Developer Experience & Release Quality  
+  https://explore.jobs.netflix.net/careers/job/790319328210
+- *(quiet)* Netflix - Technical Program Manager 5 - Enterprise Business Products  
+  https://explore.jobs.netflix.net/careers/job/790319328319
+- *(quiet)* Meta - Silicon Architect, Subsystem Architecture  
+  https://www.metacareers.com/profile/job_details/1513715310594346/
+- *(quiet)* Meta - Research Scientist Intern, Humanoid Control &amp; Dexterous Manipulation (PhD)  
+  https://www.metacareers.com/profile/job_details/1832390484751700/
+- *(quiet)* Meta - Program Manager, Applied AI Engineering  
+  https://www.metacareers.com/profile/job_details/1629897601848643/
+- *(quiet)* Meta - Application Manager, Planning  
+  https://www.metacareers.com/profile/job_details/2293091124595363/
+- *(quiet)* Meta - Design Project Lead, Data Center Design and Construction  
+  https://www.metacareers.com/profile/job_details/1657750192469340/
+- *(quiet)* Meta - Lead Counsel, Special Investigations  
+  https://www.metacareers.com/profile/job_details/2699292077171782/
+- *(quiet)* Meta - Software Engineer, AI/ML  
+  https://www.metacareers.com/profile/job_details/1422856403367294/
+- *(quiet)* Meta - Research Scientist Intern, FM Quality ML (PhD)  
+  https://www.metacareers.com/profile/job_details/1125383989877928/
