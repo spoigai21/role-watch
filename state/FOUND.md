@@ -1482,3 +1482,16 @@
   https://www.metacareers.com/profile/job_details/969721062271014/
 - *(quiet)* Meta - Research Scientist Intern PhD, PAR Safety Evals and Red Teaming  
   https://www.metacareers.com/profile/job_details/1903232531024141/
+
+## 2026-11-03 11:47
+
+- *(quiet)* Netflix - Security Software Engineer 5  
+  https://explore.jobs.netflix.net/careers/job/790319315370
+- *(quiet)* Meta - Data Scientist, Product Analytics  
+  https://www.metacareers.com/profile/job_details/4502174973433397/
+- *(quiet)* Meta - Incident Response Team Analyst, Law Enforcement Operations  
+  https://www.metacareers.com/profile/job_details/1369273645104510/
+- *(quiet)* Meta - Agency Solutions Manager, STE (18 months)  
+  https://www.metacareers.com/profile/job_details/1825246575283935/
+- *(quiet)* Meta - Agency Partner  
+  https://www.metacareers.com/profile/job_details/1779320183157967/
