@@ -1518,3 +1518,46 @@
   https://www.metacareers.com/profile/job_details/1422856403367294/
 - *(quiet)* Meta - Research Scientist Intern, FM Quality ML (PhD)  
   https://www.metacareers.com/profile/job_details/1125383989877928/
+
+## 2026-11-03 23:39
+
+- *(quiet)* Netflix - Senior Research Manager - Innovation & Scale  
+  https://explore.jobs.netflix.net/careers/job/790319330280
+- *(quiet)* Netflix - Senior Manager, Employee Onboarding  
+  https://explore.jobs.netflix.net/careers/job/790319263071
+- *(quiet)* Netflix - Client Security & Protocols Engineering Manager  
+  https://explore.jobs.netflix.net/careers/job/790319214370
+- *(quiet)* Netflix - Sr. Client Partner (US - WPP)  
+  https://explore.jobs.netflix.net/careers/job/790319182757
+- *(quiet)* Netflix - Sr Tax Analyst, LATAM  
+  https://explore.jobs.netflix.net/careers/job/790319143063
+- *(quiet)* Netflix - Talent M&A Specialist  
+  https://explore.jobs.netflix.net/careers/job/790319075097
+- *(quiet)* Meta - Product Content Engineer - Content Strategist  
+  https://www.metacareers.com/profile/job_details/1885704782791100/
+- *(quiet)* Meta - Research Scientist Intern, GenAI Safety (PhD)  
+  https://www.metacareers.com/profile/job_details/993713283787464/
+- *(quiet)* Meta - Technical Program Manager Intern, Manufacturing Operations (Reality Labs)&#x2014; 2027  
+  https://www.metacareers.com/profile/job_details/998000219329039/
+- *(quiet)* Meta - Data Scientist, Product Analytics  
+  https://www.metacareers.com/profile/job_details/2191798685107693/
+- *(quiet)* Meta - ASIC Engineering Intern, Formal Verification  
+  https://www.metacareers.com/profile/job_details/1450222650641899/
+- *(quiet)* Meta - Security Engineer, Incident Response  
+  https://www.metacareers.com/profile/job_details/1894142558234102/
+- *(quiet)* Meta - Product Communications Manager, WhatsApp  
+  https://www.metacareers.com/profile/job_details/1123118747349983/
+- *(quiet)* Meta - Software Engineer, Machine Learning - Central Integrity  
+  https://www.metacareers.com/profile/job_details/1410855758779120/
+- *(quiet)* Meta - Data Center Strategy &amp; Planning Manager  
+  https://www.metacareers.com/profile/job_details/1667236961501633/
+- *(quiet)* Meta - Manager, US Indirect Tax &#x2013; Infrastructure  
+  https://www.metacareers.com/profile/job_details/1069403289487370/
+- *(quiet)* Meta - Design Verification Engineer - Accelerators  
+  https://www.metacareers.com/profile/job_details/2130589567542509/
+- *(quiet)* Meta - Research Scientist Intern, Ads Quality (PhD)  
+  https://www.metacareers.com/profile/job_details/1838454487574865/
+- *(quiet)* Meta - Solutions Architect  
+  https://www.metacareers.com/profile/job_details/956650147239189/
+- *(quiet)* Meta - Technical Program Manager, FAIR (AI Research)   
+  https://www.metacareers.com/profile/job_details/1632974211940516/
