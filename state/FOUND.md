@@ -1471,3 +1471,14 @@
   https://www.metacareers.com/profile/job_details/1090859523835250/
 - *(quiet)* Meta - Research Scientist Intern, FAIR - World Model Foundations (PhD) | Stagiaire chercheur&#xb7;se scientifique, FAIR - World Model Foundations (Doctorat)  
   https://www.metacareers.com/profile/job_details/1406585275871250/
+
+## 2026-11-03 04:01
+
+- *(quiet)* Meta - Client Solutions Manager, e-Commerce Marketplaces  
+  https://www.metacareers.com/profile/job_details/942076052079965/
+- *(quiet)* Meta - AI Research Scientist - MSL  
+  https://www.metacareers.com/profile/job_details/899348339326560/
+- *(quiet)* Meta - Network Production Engineer, Network.AI  
+  https://www.metacareers.com/profile/job_details/969721062271014/
+- *(quiet)* Meta - Research Scientist Intern PhD, PAR Safety Evals and Red Teaming  
+  https://www.metacareers.com/profile/job_details/1903232531024141/
