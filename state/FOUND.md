@@ -1612,3 +1612,52 @@
   https://www.metacareers.com/profile/job_details/1168280828888590/
 - *(quiet)* Meta - Creative Strategist, Central and Eastern Europe (Warsaw)  
   https://www.metacareers.com/profile/job_details/1613521679618882/
+
+## 2026-11-04 23:48
+
+- *(quiet)* Netflix - Senior Technical Artist  
+  https://explore.jobs.netflix.net/careers/job/790319354369
+- *(quiet)* Netflix - Senior Games Product Manager  
+  https://explore.jobs.netflix.net/careers/job/790319356564
+- *(quiet)* Meta - Research Scientist Intern -GenAI, VLM, FlowMatching, Spatial Understanding (PhD)  
+  https://www.metacareers.com/profile/job_details/1165781989214784/
+- *(quiet)* Meta - Senior Program Manager, In-Market Testing &amp; Insights  
+  https://www.metacareers.com/profile/job_details/2590217344790436/
+- *(quiet)* Meta - Software Engineer, AI Co-design  
+  https://www.metacareers.com/profile/job_details/2254903598386697/
+- *(quiet)* Meta - AI Research Scientist, SysML  
+  https://www.metacareers.com/profile/job_details/1168687122556258/
+- *(quiet)* Meta - Research Scientist Intern, Monetization Ranking &amp; AI Foundations (PhD)    
+  https://www.metacareers.com/profile/job_details/1920724172670221/
+- *(quiet)* Meta - Agency Solutions Manager  
+  https://www.metacareers.com/profile/job_details/3112302295640810/
+- *(quiet)* Meta - Associate General Counsel, Product (WhatsApp)  
+  https://www.metacareers.com/profile/job_details/1426019295845080/
+- *(quiet)* Meta - Net Zero Manager, Supplier Clean Energy  
+  https://www.metacareers.com/profile/job_details/1671011604365053/
+- *(quiet)* Meta - Client Partner  
+  https://www.metacareers.com/profile/job_details/1587422396483656/
+- *(quiet)* Meta - Research Scientist Intern, Generative AI (PhD) (multiple locations)  
+  https://www.metacareers.com/profile/job_details/1139996808441103/
+- *(quiet)* Meta - Commercial Sourcing Manager, Memory and Storage  
+  https://www.metacareers.com/profile/job_details/1796916691599191/
+- *(quiet)* Meta - Staff Research Scientist - ML Innovation for Products  
+  https://www.metacareers.com/profile/job_details/2954160674971049/
+- *(quiet)* Meta - Research Scientist Intern, Spatial Reasoning &amp; Localization (PhD)  
+  https://www.metacareers.com/profile/job_details/1218542847568705/
+- *(quiet)* Meta - Visiting Researcher, Neural 3D Modeling (PhD)  
+  https://www.metacareers.com/profile/job_details/1307367704824524/
+- *(quiet)* Meta - Linguistic Engineer  
+  https://www.metacareers.com/profile/job_details/1463644225718832/
+- *(quiet)* Meta - Hardware Systems Architecture Intern, Performance &amp; Workload Analysis  
+  https://www.metacareers.com/profile/job_details/1296272445973940/
+- *(quiet)* Meta - Product Quality Engineer  
+  https://www.metacareers.com/profile/job_details/1033375473118189/
+- *(quiet)* Meta - Infrastructure Security Monitoring Engineer  
+  https://www.metacareers.com/profile/job_details/1876410956875760/
+- *(quiet)* Meta - QA Engineering Lead, Product Quality Assurance  
+  https://www.metacareers.com/profile/job_details/2991644074541419/
+- *(quiet)* Meta - Marketing Strategy, Planning, and Operations Manager, Reality Labs  
+  https://www.metacareers.com/profile/job_details/1443535437197189/
+- *(quiet)* Meta - ASIC EDA Infrastructure Engineer Intern  
+  https://www.metacareers.com/profile/job_details/1883872846321140/
