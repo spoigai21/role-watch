@@ -1561,3 +1561,18 @@
   https://www.metacareers.com/profile/job_details/956650147239189/
 - *(quiet)* Meta - Technical Program Manager, FAIR (AI Research)   
   https://www.metacareers.com/profile/job_details/1632974211940516/
+
+## 2026-11-04 03:14
+
+- *(quiet)* Meta - Research Scientist Intern, Computer Vision - Video Intelligence (PhD)  
+  https://www.metacareers.com/profile/job_details/2302997017210194/
+- *(quiet)* Meta - Research Scientist Intern, Generative Recommendation (PhD)  
+  https://www.metacareers.com/profile/job_details/4579367992208460/
+- *(quiet)* Meta - Compliance Assurance Program Manager  
+  https://www.metacareers.com/profile/job_details/1647878316984281/
+- *(quiet)* Meta - Network Development Manager [Americas]  
+  https://www.metacareers.com/profile/job_details/1460352459305384/
+- *(quiet)* Meta - Regulatory Non-Financial Reporting Manager  
+  https://www.metacareers.com/profile/job_details/1445092670383137/
+- *(quiet)* Meta - Content Engineer  
+  https://www.metacareers.com/profile/job_details/1093572366619918/
