@@ -1589,3 +1589,26 @@
   https://www.metacareers.com/profile/job_details/2029922021601418/
 - *(quiet)* Meta - Client Solutions Manager  
   https://www.metacareers.com/profile/job_details/1870994043764817/
+
+## 2026-11-04 18:23
+
+- *(quiet)* Netflix - Sales Solutions Specialist (EMEA - Emerging Business)  
+  https://explore.jobs.netflix.net/careers/job/790319339401
+- *(quiet)* Meta - Research Scientist Intern, Generative AI &amp; Computational Photography (PhD)  
+  https://www.metacareers.com/profile/job_details/2572072169967580/
+- *(quiet)* Meta - Network Engineer, Data Center Field Operations  
+  https://www.metacareers.com/profile/job_details/1125933666493700/
+- *(quiet)* Meta - Research Scientist Intern, Generative AI &amp; Computational Photography (PhD)  
+  https://www.metacareers.com/profile/job_details/2862704290847533/
+- *(quiet)* Meta - Silicon Package Engineer  
+  https://www.metacareers.com/profile/job_details/1276843437932538/
+- *(quiet)* Meta - Administrative Partner and Office Manager  
+  https://www.metacareers.com/profile/job_details/1940857936876816/
+- *(quiet)* Meta - Research Scientist Intern, AI Maps (PhD)  
+  https://www.metacareers.com/profile/job_details/2439439363131036/
+- *(quiet)* Meta - Software Engineer (Machine Learning, Technical Leadership) - Meta Business Agent  
+  https://www.metacareers.com/profile/job_details/1783127039407619/
+- *(quiet)* Meta - Strategic Partner Manager, Ads Partnerships  
+  https://www.metacareers.com/profile/job_details/1168280828888590/
+- *(quiet)* Meta - Creative Strategist, Central and Eastern Europe (Warsaw)  
+  https://www.metacareers.com/profile/job_details/1613521679618882/
