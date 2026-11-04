@@ -1576,3 +1576,16 @@
   https://www.metacareers.com/profile/job_details/1445092670383137/
 - *(quiet)* Meta - Content Engineer  
   https://www.metacareers.com/profile/job_details/1093572366619918/
+
+## 2026-11-04 10:56
+
+- *(quiet)* Netflix - Engineering Manager, Online Serving and Inference, AI Platform  
+  https://explore.jobs.netflix.net/careers/job/790319332361
+- *(quiet)* Meta - Client Partner, Digital Native Disruptors  
+  https://www.metacareers.com/profile/job_details/1794108428561527/
+- *(quiet)* Meta - Research Engineer, Monetization AI  
+  https://www.metacareers.com/profile/job_details/2242253133243336/
+- *(quiet)* Meta - Finance Associate, G&amp;A   
+  https://www.metacareers.com/profile/job_details/2029922021601418/
+- *(quiet)* Meta - Client Solutions Manager  
+  https://www.metacareers.com/profile/job_details/1870994043764817/
