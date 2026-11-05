@@ -1677,3 +1677,20 @@
 
 - *(quiet)* Meta - ASIC Design Verification Engineer  
   https://www.metacareers.com/profile/job_details/1825002068624801/
+
+## 2026-11-05 18:56
+
+- *(quiet)* Netflix - Associate, Contingent Talent Services  
+  https://explore.jobs.netflix.net/careers/job/790319365302
+- *(quiet)* Netflix - Senior Software Engineer (L5), N-Tech Software Engineering  
+  https://explore.jobs.netflix.net/careers/job/790319372667
+- *(quiet)* Meta - Executive Administrative Partner  
+  https://www.metacareers.com/profile/job_details/1473357794740616/
+- *(quiet)* Meta - SEC Reporting Manager  
+  https://www.metacareers.com/profile/job_details/1461164175486256/
+- *(quiet)* Meta - Product Data Operations Program Manager  
+  https://www.metacareers.com/profile/job_details/1813633366239623/
+- *(quiet)* Meta - Tax Controversy Attorney  
+  https://www.metacareers.com/profile/job_details/3209970585860415/
+- *(quiet)* Meta - Labor Strategy and Delivery Lead, Data Center Construction  
+  https://www.metacareers.com/profile/job_details/1139887762235474/
