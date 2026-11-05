@@ -1672,3 +1672,8 @@
   https://www.metacareers.com/profile/job_details/2111078129773109/
 - *(quiet)* Meta - Architect: Building, Site &amp; Sustainability Engineering Team  
   https://www.metacareers.com/profile/job_details/2157719081820509/
+
+## 2026-11-05 11:36
+
+- *(quiet)* Meta - ASIC Design Verification Engineer  
+  https://www.metacareers.com/profile/job_details/1825002068624801/
