@@ -1694,3 +1694,32 @@
   https://www.metacareers.com/profile/job_details/3209970585860415/
 - *(quiet)* Meta - Labor Strategy and Delivery Lead, Data Center Construction  
   https://www.metacareers.com/profile/job_details/1139887762235474/
+
+## 2026-11-05 23:55
+
+- *(quiet)* Netflix - Sales Solutions Lead (UCAN - Tech Integrations)  
+  https://explore.jobs.netflix.net/careers/job/790319373407
+- *(quiet)* Meta - Integrated Marketing Manager, Public Affairs Marketing  
+  https://www.metacareers.com/profile/job_details/1784709659480153/
+- *(quiet)* Meta - Public Policy Associate Manager, North Cone  
+  https://www.metacareers.com/profile/job_details/2366873583849459/
+- *(quiet)* Meta - Marketing Intelligence and Strategy Manager  
+  https://www.metacareers.com/profile/job_details/1795189504939531/
+- *(quiet)* Meta - Construction Manager, Retail  
+  https://www.metacareers.com/profile/job_details/1474530098076727/
+- *(quiet)* Meta - Partner Engineer, Payments &amp; Financial Technologies  
+  https://www.metacareers.com/profile/job_details/1360872392639317/
+- *(quiet)* Meta - Data Platform and Agentic Governance Lead, HR Technology   
+  https://www.metacareers.com/profile/job_details/2153360122218717/
+- *(quiet)* Meta - Producer, Sound &amp; Voice  
+  https://www.metacareers.com/profile/job_details/1130559729904037/
+- *(quiet)* Meta - Principal Portfolio Manager, Infrastructure Development  
+  https://www.metacareers.com/profile/job_details/1656970702686685/
+- *(quiet)* Meta - Software Engineer - Backend, Standalone Apps Team  
+  https://www.metacareers.com/profile/job_details/1154573427521292/
+- *(quiet)* Meta - Budget &amp; Finance Ops Specialist, PDO  
+  https://www.metacareers.com/profile/job_details/1084618017800458/
+- *(quiet)* Meta - Hardware Thermal Engineer, Infrastructure  
+  https://www.metacareers.com/profile/job_details/2162194194667254/
+- *(quiet)* Meta - Corporate Development Integration Manager  
+  https://www.metacareers.com/profile/job_details/870265539483095/
