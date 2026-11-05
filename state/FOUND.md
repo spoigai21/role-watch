@@ -1661,3 +1661,14 @@
   https://www.metacareers.com/profile/job_details/1443535437197189/
 - *(quiet)* Meta - ASIC EDA Infrastructure Engineer Intern  
   https://www.metacareers.com/profile/job_details/1883872846321140/
+
+## 2026-11-05 03:46
+
+- *(quiet)* Meta - Software Engineer - Android (Technical Leadership)  
+  https://www.metacareers.com/profile/job_details/3277714732426155/
+- *(quiet)* Meta - Communications Manager, Long Form Editorial   
+  https://www.metacareers.com/profile/job_details/1153809617594028/
+- *(quiet)* Meta - Research Scientist Intern, Foundation Model Optimization (PhD)  
+  https://www.metacareers.com/profile/job_details/2111078129773109/
+- *(quiet)* Meta - Architect: Building, Site &amp; Sustainability Engineering Team  
+  https://www.metacareers.com/profile/job_details/2157719081820509/
