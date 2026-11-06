@@ -1761,3 +1761,22 @@
   https://www.metacareers.com/profile/job_details/1019023187115447/
 - *(quiet)* Meta - Associate General Counsel, Political Activities  
   https://www.metacareers.com/profile/job_details/1142055551808399/
+
+## 2026-11-06 19:31
+
+- *(quiet)* Meta - Research Scientist Intern, Synthetic Data for Computer Use Agents (PhD)  
+  https://www.metacareers.com/profile/job_details/1667187061776108/
+- *(quiet)* Meta -  Research Scientist Intern, AI Systems and Infrastructure (PhD)  
+  https://www.metacareers.com/profile/job_details/1750797606003820/
+- *(quiet)* Meta - Research Program Manager  
+  https://www.metacareers.com/profile/job_details/1620694283187908/
+- *(quiet)* Meta - Global Process Owner, Accounts Receivable  
+  https://www.metacareers.com/profile/job_details/2730294454052389/
+- *(quiet)* Meta - Administrative Partner and Office Manager  
+  https://www.metacareers.com/profile/job_details/1380502893960627/
+- *(quiet)* Meta - Integrated Marketing Director, Public Affairs Marketing  
+  https://www.metacareers.com/profile/job_details/1731411307953304/
+- *(quiet)* Meta - Research Scientist Intern, Optical System Design (PhD)  
+  https://www.metacareers.com/profile/job_details/1895256495232542/
+- *(quiet)* Meta - Associate General Counsel, Political Activities  
+  https://www.metacareers.com/profile/job_details/1130109702899979/
