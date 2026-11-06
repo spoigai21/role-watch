@@ -1780,3 +1780,36 @@
   https://www.metacareers.com/profile/job_details/1895256495232542/
 - *(quiet)* Meta - Associate General Counsel, Political Activities  
   https://www.metacareers.com/profile/job_details/1130109702899979/
+
+## 2026-11-06 23:47
+
+- *(quiet)* Netflix - Software Engineer in Test 5 - Android Player  
+  https://explore.jobs.netflix.net/careers/job/790319386317
+- *(quiet)* Netflix - Software Engineer 5 - TV & Web Player  
+  https://explore.jobs.netflix.net/careers/job/790319328688
+- *(quiet)* Netflix - Software Engineer 4 - TV & Web Player  
+  https://explore.jobs.netflix.net/careers/job/790319328735
+- *(quiet)* Netflix - Engineering Manager - Android Player  
+  https://explore.jobs.netflix.net/careers/job/790319241993
+- *(quiet)* Meta - Community Engagement Manager  
+  https://www.metacareers.com/profile/job_details/2877522235965538/
+- *(quiet)* Meta - Research Scientist Intern, Generative AI &amp; 3D Generation (PhD)  
+  https://www.metacareers.com/profile/job_details/1406087328180524/
+- *(quiet)* Meta - Interaction/UX Sound Designer - FoA  
+  https://www.metacareers.com/profile/job_details/1130353949391150/
+- *(quiet)* Meta - Data Center Facility Operations Area Director  
+  https://www.metacareers.com/profile/job_details/893926973732328/
+- *(quiet)* Meta - Network Planner, Network Infrastructure  
+  https://www.metacareers.com/profile/job_details/29110992718519555/
+- *(quiet)* Meta - Research Scientist Intern, Robotics Foundation Models, Agentic RL (PhD)   
+  https://www.metacareers.com/profile/job_details/1414987577372371/
+- *(quiet)* Meta - Battery Algorithms Engineering Intern  
+  https://www.metacareers.com/profile/job_details/1161973130109332/
+- *(quiet)* Meta - Visiting Researcher, Release to Production  
+  https://www.metacareers.com/profile/job_details/2130868564194467/
+- *(quiet)* Meta - Research Scientist Intern, AI Agents and Machine Learning (PhD)  
+  https://www.metacareers.com/profile/job_details/1826604892017856/
+- *(quiet)* Meta - Software Engineer, PyTorch | Ing&#xe9;nieur logiciel, PyTorch  
+  https://www.metacareers.com/profile/job_details/1111777265060830/
+- *(quiet)* Meta - Solutions Architect  
+  https://www.metacareers.com/profile/job_details/1382585507071398/

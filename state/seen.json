@@ -1,5 +1,5 @@
 {
- "_meta_checked": 1793993485.84701,
+ "_meta_checked": 1794008838.538163,
  "meta:1001245402541256": {
   "title": null
  },
@@ -771,6 +771,9 @@
  "meta:1111723361506997": {
   "title": "Softgoods Product Design Engineering Intern "
  },
+ "meta:1111777265060830": {
+  "title": "Software Engineer, PyTorch | Ing&#xe9;nieur logiciel, PyTorch"
+ },
  "meta:1111817095123690": {
   "title": null
  },
@@ -918,6 +921,9 @@
  "meta:1130197019529011": {
   "title": "Data Engineer, Product Analytics"
  },
+ "meta:1130353949391150": {
+  "title": "Interaction/UX Sound Designer - FoA"
+ },
  "meta:1130559729904037": {
   "title": "Producer, Sound &amp; Voice"
  },
@@ -1040,6 +1046,9 @@
  },
  "meta:1160814043168431": {
   "title": "Research Scientist Intern, Audio AI (PhD)"
+ },
+ "meta:1161973130109332": {
+  "title": "Battery Algorithms Engineering Intern"
  },
  "meta:1163260232775705": {
   "title": "Product Management, Director"
@@ -1449,6 +1458,9 @@
  "meta:1382338574054675": {
   "title": null
  },
+ "meta:1382585507071398": {
+  "title": "Solutions Architect"
+ },
  "meta:1382643023235986": {
   "title": null
  },
@@ -1611,6 +1623,9 @@
  "meta:1406063418333628": {
   "title": "HRBP, Ads Ranking AI Relevance"
  },
+ "meta:1406087328180524": {
+  "title": "Research Scientist Intern, Generative AI &amp; 3D Generation (PhD)"
+ },
  "meta:1406585275871250": {
   "title": "Research Scientist Intern, FAIR - World Model Foundations (PhD) | Stagiaire chercheur&#xb7;se scientifique, FAIR - World Model Foundations (Doctorat)"
  },
@@ -1667,6 +1682,9 @@
  },
  "meta:1414284506912052": {
   "title": "Internal Communications Manager, Legal &amp; Regulatory"
+ },
+ "meta:1414987577372371": {
+  "title": "Research Scientist Intern, Robotics Foundation Models, Agentic RL (PhD) "
  },
  "meta:1416549056773684": {
   "title": "Research Scientist Intern, Meta Recommendation Systems (PhD)"
@@ -3444,6 +3462,9 @@
  "meta:1826062781882324": {
   "title": "Hardware Engineer, PCB Layout"
  },
+ "meta:1826604892017856": {
+  "title": "Research Scientist Intern, AI Agents and Machine Learning (PhD)"
+ },
  "meta:1828905044780700": {
   "title": "Finance Associate, x-RL Finance"
  },
@@ -4067,6 +4088,9 @@
  },
  "meta:2130589567542509": {
   "title": "Design Verification Engineer - Accelerators"
+ },
+ "meta:2130868564194467": {
+  "title": "Visiting Researcher, Release to Production"
  },
  "meta:2132579020955273": {
   "title": "Contract Manufacturing Manager "
@@ -4938,6 +4962,9 @@
  "meta:2875661036168140": {
   "title": "Network Quantitative Engineer"
  },
+ "meta:2877522235965538": {
+  "title": "Community Engagement Manager"
+ },
  "meta:28775553698748427": {
   "title": null
  },
@@ -4979,6 +5006,9 @@
  },
  "meta:29044546168568671": {
   "title": "Research Scientist Intern, Feed Recommendations (PhD)"
+ },
+ "meta:29110992718519555": {
+  "title": "Network Planner, Network Infrastructure"
  },
  "meta:29216393121298039": {
   "title": "Hardware Engineer Intern, Camera &amp; Sensing Architecture"
@@ -5624,6 +5654,9 @@
  },
  "meta:893690770143024": {
   "title": null
+ },
+ "meta:893926973732328": {
+  "title": "Data Center Facility Operations Area Director"
  },
  "meta:894810333681895": {
   "title": "Program Manager, Public Affairs &#x2014; AI Campaign"
@@ -6570,6 +6603,9 @@
  "netflix:790319239100": {
   "title": "Engineering Manager - Promotional Artwork Engineering"
  },
+ "netflix:790319241993": {
+  "title": "Engineering Manager - Android Player"
+ },
  "netflix:790319242363": {
   "title": "Marketing Operations Manager - UCAN (Live)"
  },
@@ -6621,6 +6657,12 @@
  "netflix:790319328319": {
   "title": "Technical Program Manager 5 - Enterprise Business Products"
  },
+ "netflix:790319328688": {
+  "title": "Software Engineer 5 - TV & Web Player"
+ },
+ "netflix:790319328735": {
+  "title": "Software Engineer 4 - TV & Web Player"
+ },
  "netflix:790319330280": {
   "title": "Senior Research Manager - Innovation & Scale"
  },
@@ -6650,5 +6692,8 @@
  },
  "netflix:790319377698": {
   "title": "Senior Manager - Member Foundations & Innovation DE"
+ },
+ "netflix:790319386317": {
+  "title": "Software Engineer in Test 5 - Android Player"
  }
 }
