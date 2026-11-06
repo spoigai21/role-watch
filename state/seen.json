@@ -1,5 +1,5 @@
 {
- "_meta_checked": 1793922927.364143,
+ "_meta_checked": 1793939153.896736,
  "meta:1001245402541256": {
   "title": null
  },
@@ -627,6 +627,9 @@
  "meta:1095563319757160": {
   "title": "Failure Analysis Engineer"
  },
+ "meta:1095940806376464": {
+  "title": "Software Engineer, Core OS Capabilities"
+ },
  "meta:1096046982813396": {
   "title": null
  },
@@ -831,6 +834,9 @@
  "meta:1119533327598761": {
   "title": "Network Development Manager"
  },
+ "meta:1119822984105122": {
+  "title": "HR Director, Insights"
+ },
  "meta:1120725274248208": {
   "title": "Environmental, Health &amp; Safety Lead"
  },
@@ -917,6 +923,9 @@
  },
  "meta:1134052755889538": {
   "title": "Research Scientist Intern, Integrity AI (PhD)"
+ },
+ "meta:1134731036124414": {
+  "title": "QA Engineering Lead (AI)"
  },
  "meta:1134883748976209": {
   "title": "Signal Integrity Intern"
@@ -1037,6 +1046,9 @@
  },
  "meta:1165781989214784": {
   "title": "Research Scientist Intern -GenAI, VLM, FlowMatching, Spatial Understanding (PhD)"
+ },
+ "meta:1166186462784340": {
+  "title": "Electrical Engineer, Power"
  },
  "meta:1168280828888590": {
   "title": "Strategic Partner Manager, Ads Partnerships"
@@ -2751,6 +2763,9 @@
  "meta:1659928415915116": {
   "title": "Product Manager, WhatsApp - Brazil "
  },
+ "meta:1660129028990068": {
+  "title": "HR Director, Central Products"
+ },
  "meta:1661314105605589": {
   "title": "WhatsApp - Software Engineer (Technical Leadership) - Product Generalist"
  },
@@ -4428,6 +4443,9 @@
  "meta:2349920039081618": {
   "title": "Business Engineer"
  },
+ "meta:2350629199088420": {
+  "title": "QA Engineering Lead (AI)"
+ },
  "meta:2353582282118556": {
   "title": null
  },
@@ -4472,6 +4490,9 @@
  },
  "meta:2374839409720164": {
   "title": "Research Scientist Intern, Wireless Research (PhD)"
+ },
+ "meta:2377208383017779": {
+  "title": "Administrative Partner and Office Manager"
  },
  "meta:2379774046126361": {
   "title": "Partner Data Scientist, Telco Partnerships"
@@ -4712,6 +4733,9 @@
  },
  "meta:2689975688126702": {
   "title": "Research Scientist, Infrastructure Modeling and Reliability"
+ },
+ "meta:2695148704269845": {
+  "title": "Administrative Partner and Office Manager"
  },
  "meta:2697455420705628": {
   "title": "Product Manager, Growth Platforms"
@@ -6578,5 +6602,11 @@
  },
  "netflix:790319373407": {
   "title": "Sales Solutions Lead (UCAN - Tech Integrations)"
+ },
+ "netflix:790319376549": {
+  "title": "Production Supervisor - Netflix Animation Studios"
+ },
+ "netflix:790319377698": {
+  "title": "Senior Manager - Member Foundations & Innovation DE"
  }
 }

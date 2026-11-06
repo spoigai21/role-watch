@@ -1723,3 +1723,26 @@
   https://www.metacareers.com/profile/job_details/2162194194667254/
 - *(quiet)* Meta - Corporate Development Integration Manager  
   https://www.metacareers.com/profile/job_details/870265539483095/
+
+## 2026-11-06 04:25
+
+- *(quiet)* Netflix - Production Supervisor - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319376549
+- *(quiet)* Netflix - Senior Manager - Member Foundations & Innovation DE  
+  https://explore.jobs.netflix.net/careers/job/790319377698
+- *(quiet)* Meta - Administrative Partner and Office Manager  
+  https://www.metacareers.com/profile/job_details/2377208383017779/
+- *(quiet)* Meta - Electrical Engineer, Power  
+  https://www.metacareers.com/profile/job_details/1166186462784340/
+- *(quiet)* Meta - Software Engineer, Core OS Capabilities  
+  https://www.metacareers.com/profile/job_details/1095940806376464/
+- *(quiet)* Meta - Administrative Partner and Office Manager  
+  https://www.metacareers.com/profile/job_details/2695148704269845/
+- *(quiet)* Meta - HR Director, Central Products  
+  https://www.metacareers.com/profile/job_details/1660129028990068/
+- *(quiet)* Meta - HR Director, Insights  
+  https://www.metacareers.com/profile/job_details/1119822984105122/
+- *(quiet)* Meta - QA Engineering Lead (AI)  
+  https://www.metacareers.com/profile/job_details/1134731036124414/
+- *(quiet)* Meta - QA Engineering Lead (AI)  
+  https://www.metacareers.com/profile/job_details/2350629199088420/
