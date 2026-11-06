@@ -1746,3 +1746,18 @@
   https://www.metacareers.com/profile/job_details/1134731036124414/
 - *(quiet)* Meta - QA Engineering Lead (AI)  
   https://www.metacareers.com/profile/job_details/2350629199088420/
+
+## 2026-11-06 12:19
+
+- *(quiet)* Meta - Software Engineer - Traffic Efficiency  
+  https://www.metacareers.com/profile/job_details/1477630144221735/
+- *(quiet)* Meta - Software Engineer - Traffic Capacity &amp; Performance  
+  https://www.metacareers.com/profile/job_details/1440766381530344/
+- *(quiet)* Meta - Electrical Engineer, Power  
+  https://www.metacareers.com/profile/job_details/2090372815699174/
+- *(quiet)* Meta - Software Engineer - Android (Technical Leadership)  
+  https://www.metacareers.com/profile/job_details/964439272759912/
+- *(quiet)* Meta - Network Implementation Engineer  
+  https://www.metacareers.com/profile/job_details/1019023187115447/
+- *(quiet)* Meta - Associate General Counsel, Political Activities  
+  https://www.metacareers.com/profile/job_details/1142055551808399/
