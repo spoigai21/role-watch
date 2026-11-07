@@ -1813,3 +1813,18 @@
   https://www.metacareers.com/profile/job_details/1111777265060830/
 - *(quiet)* Meta - Solutions Architect  
   https://www.metacareers.com/profile/job_details/1382585507071398/
+
+## 2026-11-07 03:15
+
+- *(quiet)* Netflix - Research Engineer 6 - TL, Messaging Algorithms  
+  https://explore.jobs.netflix.net/careers/job/790319389829
+- *(quiet)* Meta - Director, Product Management - Verification  
+  https://www.metacareers.com/profile/job_details/1073659205651442/
+- *(quiet)* Meta - Finance Associate, Reality Labs  
+  https://www.metacareers.com/profile/job_details/1336781331805171/
+- *(quiet)* Meta - AI Sound Design Lead  
+  https://www.metacareers.com/profile/job_details/1604453944751764/
+- *(quiet)* Meta - Software Engineer, Video SWE  
+  https://www.metacareers.com/profile/job_details/1125673470059368/
+- *(quiet)* Meta - Incident Response Team Lead  
+  https://www.metacareers.com/profile/job_details/3012938132389686/
