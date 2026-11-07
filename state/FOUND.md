@@ -1828,3 +1828,8 @@
   https://www.metacareers.com/profile/job_details/1125673470059368/
 - *(quiet)* Meta - Incident Response Team Lead  
   https://www.metacareers.com/profile/job_details/3012938132389686/
+
+## 2026-11-07 10:14
+
+- *(quiet)* Meta - Research Scientist Intern, Muse Post-Training &amp; Flywheel (PhD)  
+  https://www.metacareers.com/profile/job_details/1457417369832343/
