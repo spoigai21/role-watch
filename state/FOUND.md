@@ -1833,3 +1833,12 @@
 
 - *(quiet)* Meta - Research Scientist Intern, Muse Post-Training &amp; Flywheel (PhD)  
   https://www.metacareers.com/profile/job_details/1457417369832343/
+
+## 2026-11-07 20:24
+
+- *(quiet)* Meta - Software Engineer, Machine Learning (Technical Leadership) - Ads Products  
+  https://www.metacareers.com/profile/job_details/1161077809777327/
+- *(quiet)* Meta - Software Engineer, Machine Learning - Ads Products  
+  https://www.metacareers.com/profile/job_details/1769429977466758/
+- *(quiet)* Meta - Software Engineer, Product - Ads Products  
+  https://www.metacareers.com/profile/job_details/4456053234655827/
