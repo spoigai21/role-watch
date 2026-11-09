@@ -1847,3 +1847,48 @@
 
 - *(quiet)* Netflix - Lead Merchandiser - EMEA  
   https://explore.jobs.netflix.net/careers/job/790319316454
+
+## 2026-11-09 21:28
+
+- *(quiet)* Netflix - Associate, Content & Business Products and Delivery F&S - Customer Service  
+  https://explore.jobs.netflix.net/careers/job/790319418775
+- *(quiet)* Netflix - Associate, Content & Business Products and Delivery F&S - Studio  
+  https://explore.jobs.netflix.net/careers/job/790319418868
+- *(quiet)* Netflix - Administrative Assistant, Creative Talent Engagement & Development (CTED)  
+  https://explore.jobs.netflix.net/careers/job/790319422052
+- *(quiet)* Netflix - Senior Manager, Ads Policy - EMEA  
+  https://explore.jobs.netflix.net/careers/job/790319414625
+- *(quiet)* Meta - AI Research Scientist, Multi-Agent Memory - FAIR, MSL  
+  https://www.metacareers.com/profile/job_details/969739795749328/
+- *(quiet)* Meta - Strategic Sourcing Manager Intern &#x2014; Reality Labs Hardware (2027)  
+  https://www.metacareers.com/profile/job_details/1632929388311563/
+- *(quiet)* Meta - Fleet Operations Manager, Data Center Infrastructure  
+  https://www.metacareers.com/profile/job_details/1078260851861948/
+- *(quiet)* Meta - Program Manager, Global Partners  
+  https://www.metacareers.com/profile/job_details/949977044529772/
+- *(quiet)* Meta - Hardware Data Engineer - Meta Robotics Studio  
+  https://www.metacareers.com/profile/job_details/1095477260156217/
+- *(quiet)* Meta - Software Engineer, Infrastructure - Ads Infra and Ranking  
+  https://www.metacareers.com/profile/job_details/1001507553013147/
+- *(quiet)* Meta - Software Engineer, Infrastructure - Ads Infra and Ranking  
+  https://www.metacareers.com/profile/job_details/1805076500545259/
+- *(quiet)* Meta - Software Engineer, Machine Learning - Ads Infra and Ranking  
+  https://www.metacareers.com/profile/job_details/1828281961786935/
+- *(quiet)* Meta - Research Scientist Intern, Computational Photography &amp; Computer Vision (PhD)  
+  https://www.metacareers.com/profile/job_details/1670489511324528/
+- *(quiet)* Meta - International Product Marketing Manager, LATAM  
+  https://www.metacareers.com/profile/job_details/2017902568727867/
+- *(quiet)* Meta - Director &amp; Associate General Counsel, International Regulatory Engagement   
+  https://www.metacareers.com/profile/job_details/1027757380349917/
+- *(quiet)* Meta - Design Project Lead, Data Center Design and Construction  
+  https://www.metacareers.com/profile/job_details/1672589297827250/
+- *(quiet)* Meta - Market Specialist, Market Operations, Turkiye  
+  https://www.metacareers.com/profile/job_details/1120059380830218/
+- *(quiet)* Meta - Reality Labs Product Data Operations Program Manager - AI Data and Evaluation  
+  https://www.metacareers.com/profile/job_details/1640423194446306/
+- *(quiet)* Meta - Marketing Science Partner - Mid Market NA  
+  https://www.metacareers.com/profile/job_details/1378929740786168/
+- *(quiet)* Meta - Associate General Counsel, International Regulatory Engagement (APAC)  
+  https://www.metacareers.com/profile/job_details/1706268124430881/
+- *(quiet)* Meta - Data Center Strategy &amp; Planning Manager  
+  https://www.metacareers.com/profile/job_details/2034556683904635/
