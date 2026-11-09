@@ -1842,3 +1842,8 @@
   https://www.metacareers.com/profile/job_details/1769429977466758/
 - *(quiet)* Meta - Software Engineer, Product - Ads Products  
   https://www.metacareers.com/profile/job_details/4456053234655827/
+
+## 2026-11-09 11:18
+
+- *(quiet)* Netflix - Lead Merchandiser - EMEA  
+  https://explore.jobs.netflix.net/careers/job/790319316454
