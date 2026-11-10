@@ -1892,3 +1892,36 @@
   https://www.metacareers.com/profile/job_details/1706268124430881/
 - *(quiet)* Meta - Data Center Strategy &amp; Planning Manager  
   https://www.metacareers.com/profile/job_details/2034556683904635/
+
+## 2026-11-10 03:43
+
+- *(quiet)* Netflix - Solutions Design Manager, HR Systems  
+  https://explore.jobs.netflix.net/careers/job/790319416441
+- *(quiet)* Netflix - Senior Manager, Games Content Acquisition & Licensing  
+  https://explore.jobs.netflix.net/careers/job/790319425306
+- *(quiet)* Netflix - Technical Director PaFX (Houdini) - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319425212
+- *(quiet)* Netflix - Senior Manager, Data Systems, AIMS  
+  https://explore.jobs.netflix.net/careers/job/790319425242
+- *(quiet)* Netflix - Specialist, Communications - Advertising & Corporate  
+  https://explore.jobs.netflix.net/careers/job/790319425266
+- *(quiet)* Netflix - Contracts Manager, Procurement Legal  
+  https://explore.jobs.netflix.net/careers/job/790319425305
+- *(quiet)* Netflix - Technical Director Pre Production  
+  https://explore.jobs.netflix.net/careers/job/790319330420
+- *(quiet)* Netflix - Associate, Corporate FP&A  
+  https://explore.jobs.netflix.net/careers/job/790319298965
+- *(quiet)* Netflix - Manager, Corporate FP&A  
+  https://explore.jobs.netflix.net/careers/job/790319299025
+- *(quiet)* Meta - Research Scientist Intern,  AI Core Machine Learning (PhD)  
+  https://www.metacareers.com/profile/job_details/2432079507324778/
+- *(quiet)* Meta - Robotics Engineer, Logistics Automation  
+  https://www.metacareers.com/profile/job_details/3557491641077012/
+- *(quiet)* Meta - Machine Learning, Recommendation Systems (Ads Infra and Ranking)  
+  https://www.metacareers.com/profile/job_details/1687433556104400/
+- *(quiet)* Meta - Director, Network Site Investments  
+  https://www.metacareers.com/profile/job_details/1467640208651964/
+- *(quiet)* Meta - Network Site Investments Manager  
+  https://www.metacareers.com/profile/job_details/1863525258169409/
+- *(quiet)* Meta - Public Affairs Marketing Manager  
+  https://www.metacareers.com/profile/job_details/1314884960730724/

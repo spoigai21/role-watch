@@ -1,5 +1,5 @@
 {
- "_meta_checked": 1794259724.915495,
+ "_meta_checked": 1794282189.089113,
  "meta:1001245402541256": {
   "title": null
  },
@@ -1272,6 +1272,9 @@
  "meta:1313515540769118": {
   "title": null
  },
+ "meta:1314884960730724": {
+  "title": "Public Affairs Marketing Manager"
+ },
  "meta:1317988116797859": {
   "title": null
  },
@@ -2018,6 +2021,9 @@
  },
  "meta:1467085388659048": {
   "title": "Security Detection Engineer, Insider Trust"
+ },
+ "meta:1467640208651964": {
+  "title": "Director, Network Site Investments"
  },
  "meta:1469752631642156": {
   "title": "DPU IO Architect, Infrastructure Silicon "
@@ -2940,6 +2946,9 @@
  "meta:1685872255913876": {
   "title": "Data Center Production Operations Engineer"
  },
+ "meta:1687433556104400": {
+  "title": "Machine Learning, Recommendation Systems (Ads Infra and Ranking)"
+ },
  "meta:1690022942358388": {
   "title": null
  },
@@ -3608,6 +3617,9 @@
  },
  "meta:1860623898267152": {
   "title": "Director, Executive Development"
+ },
+ "meta:1863525258169409": {
+  "title": "Network Site Investments Manager"
  },
  "meta:1863890048102334": {
   "title": "Environmental Analyst"
@@ -4650,6 +4662,9 @@
  "meta:2427518974400386": {
   "title": null
  },
+ "meta:2432079507324778": {
+  "title": "Research Scientist Intern,  AI Core Machine Learning (PhD)"
+ },
  "meta:2432994397235709": {
   "title": "Technical Domain Manager"
  },
@@ -5252,6 +5267,9 @@
  },
  "meta:3549654831867862": {
   "title": "Research Scientist Intern, FAIR - Video Generation (PhD)"
+ },
+ "meta:3557491641077012": {
+  "title": "Robotics Engineer, Logistics Automation"
  },
  "meta:3573883172774134": {
   "title": null
@@ -6726,6 +6744,12 @@
  "netflix:790319289797": {
   "title": "Associate Counsel, Litigation & Regulatory - India"
  },
+ "netflix:790319298965": {
+  "title": "Associate, Corporate FP&A"
+ },
+ "netflix:790319299025": {
+  "title": "Manager, Corporate FP&A"
+ },
  "netflix:790319315370": {
   "title": "Security Software Engineer 5"
  },
@@ -6746,6 +6770,9 @@
  },
  "netflix:790319330280": {
   "title": "Senior Research Manager - Innovation & Scale"
+ },
+ "netflix:790319330420": {
+  "title": "Technical Director Pre Production"
  },
  "netflix:790319332361": {
   "title": "Engineering Manager, Online Serving and Inference, AI Platform"
@@ -6783,6 +6810,9 @@
  "netflix:790319414625": {
   "title": "Senior Manager, Ads Policy - EMEA"
  },
+ "netflix:790319416441": {
+  "title": "Solutions Design Manager, HR Systems"
+ },
  "netflix:790319418775": {
   "title": "Associate, Content & Business Products and Delivery F&S - Customer Service"
  },
@@ -6791,5 +6821,20 @@
  },
  "netflix:790319422052": {
   "title": "Administrative Assistant, Creative Talent Engagement & Development (CTED)"
+ },
+ "netflix:790319425212": {
+  "title": "Technical Director PaFX (Houdini) - Netflix Animation Studios"
+ },
+ "netflix:790319425242": {
+  "title": "Senior Manager, Data Systems, AIMS"
+ },
+ "netflix:790319425266": {
+  "title": "Specialist, Communications - Advertising & Corporate"
+ },
+ "netflix:790319425305": {
+  "title": "Contracts Manager, Procurement Legal"
+ },
+ "netflix:790319425306": {
+  "title": "Senior Manager, Games Content Acquisition & Licensing"
  }
 }
