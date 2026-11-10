@@ -1948,3 +1948,28 @@
   https://www.metacareers.com/profile/job_details/1176937274687383/
 - *(quiet)* Meta - Supply Chain Analyst, Planning &amp; Systems  
   https://www.metacareers.com/profile/job_details/1101124769420821/
+
+## 2026-11-10 18:53
+
+- *(quiet)* Netflix - Comms Manager, CEE  
+  https://explore.jobs.netflix.net/careers/job/790319435305
+- *(quiet)* Netflix - Manager, Engineering - Talent Tech Engineering  
+  https://explore.jobs.netflix.net/careers/job/790319442242
+- *(quiet)* Meta - Research Scientist Intern, Audio Systems (PhD)  
+  https://www.metacareers.com/profile/job_details/1100150399514897/
+- *(quiet)* Meta - Director - Data Scientist  
+  https://www.metacareers.com/profile/job_details/1159789876480295/
+- *(quiet)* Meta - Public Policy Manager  
+  https://www.metacareers.com/profile/job_details/1525003659724611/
+- *(quiet)* Meta - Research Intern &#x2014; Neural Network Training and Hardware&#x2013;Software Co-Design  
+  https://www.metacareers.com/profile/job_details/1560905132724186/
+- *(quiet)* Meta - Software Engineer, Product - Central Integrity  
+  https://www.metacareers.com/profile/job_details/1486459170212644/
+- *(quiet)* Meta - Software Engineer, Systems  
+  https://www.metacareers.com/profile/job_details/1426787916328283/
+- *(quiet)* Meta - Manager, Network Deployment &amp; Support  
+  https://www.metacareers.com/profile/job_details/28510310425331245/
+- *(quiet)* Meta - Controls Subject Matter Expert  
+  https://www.metacareers.com/profile/job_details/1173461138453246/
+- *(quiet)* Meta - Talent Intelligence Researcher, APAC  
+  https://www.metacareers.com/profile/job_details/1151356350748440/
