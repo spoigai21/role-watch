@@ -1925,3 +1925,26 @@
   https://www.metacareers.com/profile/job_details/1863525258169409/
 - *(quiet)* Meta - Public Affairs Marketing Manager  
   https://www.metacareers.com/profile/job_details/1314884960730724/
+
+## 2026-11-10 11:48
+
+- *(quiet)* Netflix - Executive Coach - APAC  
+  https://explore.jobs.netflix.net/careers/job/790319429186
+- *(quiet)* Netflix - Marketing Manager  - Scaled Channels (Ads Marketing)  
+  https://explore.jobs.netflix.net/careers/job/790319431097
+- *(quiet)* Netflix - Marketing Manager, South East Asia - (Ads Marketing)  
+  https://explore.jobs.netflix.net/careers/job/790319431251
+- *(quiet)* Meta - Research Scientist - Monetization GenAI  
+  https://www.metacareers.com/profile/job_details/2082583159046883/
+- *(quiet)* Meta - Network Development Manager, Network Investments  
+  https://www.metacareers.com/profile/job_details/2578515725953331/
+- *(quiet)* Meta - Hardware Engineering Program Manager, Meta Robotics  
+  https://www.metacareers.com/profile/job_details/1656035835574649/
+- *(quiet)* Meta - Operational Excellence Manager  
+  https://www.metacareers.com/profile/job_details/1093979446929992/
+- *(quiet)* Meta - DFX Manufacturing Engineer (APAC)  
+  https://www.metacareers.com/profile/job_details/1351310146958505/
+- *(quiet)* Meta - Program Manager, Creative X  
+  https://www.metacareers.com/profile/job_details/1176937274687383/
+- *(quiet)* Meta - Supply Chain Analyst, Planning &amp; Systems  
+  https://www.metacareers.com/profile/job_details/1101124769420821/
