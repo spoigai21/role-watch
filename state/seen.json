@@ -1,5 +1,5 @@
 {
- "_meta_checked": 1794336804.307299,
+ "_meta_checked": 1794354409.966502,
  "meta:1001245402541256": {
   "title": null
  },
@@ -648,6 +648,9 @@
  "meta:1095563319757160": {
   "title": "Failure Analysis Engineer"
  },
+ "meta:1095695516417829": {
+  "title": "Designer"
+ },
  "meta:1095940806376464": {
   "title": "Software Engineer, Core OS Capabilities"
  },
@@ -939,6 +942,9 @@
  "meta:1127328276315177": {
   "title": "Contract Manufacturing Sourcing Manager, Reality Labs"
  },
+ "meta:1127721013487398": {
+  "title": "Director, HR Business Operations "
+ },
  "meta:1128496099859192": {
   "title": "Materials Engineer Intern- Surface Finishing, Coating (PhD)"
  },
@@ -1007,6 +1013,9 @@
  },
  "meta:1139996808441103": {
   "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)"
+ },
+ "meta:1140029915668368": {
+  "title": "Analytics Business Partner"
  },
  "meta:1140635698290634": {
   "title": null
@@ -1958,6 +1967,9 @@
  },
  "meta:1453290079211931": {
   "title": null
+ },
+ "meta:1453693130163133": {
+  "title": "Administrative Specialist"
  },
  "meta:1454834049803298": {
   "title": "Business Operations, Infrastructure"
@@ -2979,6 +2991,9 @@
  "meta:1681481656247916": {
   "title": null
  },
+ "meta:1682442843486539": {
+  "title": "Software Engineering Manager, Ads Infra Ranking"
+ },
  "meta:1683903403071591": {
   "title": "DFX Engineering Intern"
  },
@@ -3692,6 +3707,9 @@
  },
  "meta:1873038390772808": {
   "title": "AI Research Scientist, AI Safety and Security"
+ },
+ "meta:1876180463556414": {
+  "title": "Market Specialist, Global Response Operations ( Portuguese Speaking )"
  },
  "meta:1876410956875760": {
   "title": "Infrastructure Security Monitoring Engineer"
@@ -4467,6 +4485,9 @@
  "meta:2245964885941213": {
   "title": null
  },
+ "meta:2247602232819555": {
+  "title": "Finance &amp; Business Operations Manager, WhatsApp"
+ },
  "meta:2247983762446649": {
   "title": "ASIC Engineer, Foundry and IP"
  },
@@ -4907,6 +4928,9 @@
  },
  "meta:2642803532856407": {
   "title": null
+ },
+ "meta:2647717112305510": {
+  "title": "Program Manager, Controls Management"
  },
  "meta:2647828669010630": {
   "title": "Software Engineer, AI for Incident Response (Technical Leadership)"
@@ -5592,6 +5616,9 @@
  "meta:4669809629922768": {
   "title": "Security Engineer - Applied AI"
  },
+ "meta:4674005499510950": {
+  "title": "Machine Learning ASIC Power Architect"
+ },
  "meta:4678223845723060": {
   "title": "Content Designer"
  },
@@ -6117,6 +6144,9 @@
  "meta:971022345526176": {
   "title": "Reality Labs Revenue Operations Lead"
  },
+ "meta:971086452342966": {
+  "title": "Wireless Network Engineer - Enterprise Infrastructure"
+ },
  "meta:971567912651978": {
   "title": null
  },
@@ -6140,6 +6170,9 @@
  },
  "meta:979367111616403": {
   "title": null
+ },
+ "meta:979819728444416": {
+  "title": "Software Engineer, Product - Ads Infra and Ranking"
  },
  "meta:980665651060694": {
   "title": "Manufacturing Research Engineer"
@@ -6191,6 +6224,9 @@
  },
  "meta:996188146810500": {
   "title": null
+ },
+ "meta:997597222780035": {
+  "title": "Research Scientist Intern, Foundation Model Optimization (PhD)"
  },
  "meta:997853356497054": {
   "title": null
@@ -6807,6 +6843,9 @@
  "netflix:790319328210": {
   "title": "Software Development Engineer in Test 5, TV & Web Player - Developer Experience & Release Quality"
  },
+ "netflix:790319328317": {
+  "title": "Co-Head of Character Animation - Netflix Animation Studios"
+ },
  "netflix:790319328319": {
   "title": "Technical Program Manager 5 - Enterprise Business Products"
  },
@@ -6899,5 +6938,14 @@
  },
  "netflix:790319442242": {
   "title": "Manager, Engineering - Talent Tech Engineering"
+ },
+ "netflix:790319443773": {
+  "title": "Crowd/Fix Animator - Netflix Animation Studios"
+ },
+ "netflix:790319444236": {
+  "title": "Director, Production Management - Film"
+ },
+ "netflix:790319445079": {
+  "title": "Global Product Marketing Manager, Programmatic & Delivery \u2013 Ads"
  }
 }

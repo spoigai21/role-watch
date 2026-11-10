@@ -1973,3 +1973,38 @@
   https://www.metacareers.com/profile/job_details/1173461138453246/
 - *(quiet)* Meta - Talent Intelligence Researcher, APAC  
   https://www.metacareers.com/profile/job_details/1151356350748440/
+
+## 2026-11-10 23:46
+
+- *(quiet)* Netflix - Co-Head of Character Animation - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319328317
+- *(quiet)* Netflix - Crowd/Fix Animator - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319443773
+- *(quiet)* Netflix - Director, Production Management - Film  
+  https://explore.jobs.netflix.net/careers/job/790319444236
+- *(quiet)* Netflix - Global Product Marketing Manager, Programmatic & Delivery – Ads  
+  https://explore.jobs.netflix.net/careers/job/790319445079
+- *(quiet)* Meta - Designer  
+  https://www.metacareers.com/profile/job_details/1095695516417829/
+- *(quiet)* Meta - Program Manager, Controls Management  
+  https://www.metacareers.com/profile/job_details/2647717112305510/
+- *(quiet)* Meta - Software Engineer, Product - Ads Infra and Ranking  
+  https://www.metacareers.com/profile/job_details/979819728444416/
+- *(quiet)* Meta - Analytics Business Partner  
+  https://www.metacareers.com/profile/job_details/1140029915668368/
+- *(quiet)* Meta - Market Specialist, Global Response Operations ( Portuguese Speaking )  
+  https://www.metacareers.com/profile/job_details/1876180463556414/
+- *(quiet)* Meta - Wireless Network Engineer - Enterprise Infrastructure  
+  https://www.metacareers.com/profile/job_details/971086452342966/
+- *(quiet)* Meta - Administrative Specialist  
+  https://www.metacareers.com/profile/job_details/1453693130163133/
+- *(quiet)* Meta - Machine Learning ASIC Power Architect  
+  https://www.metacareers.com/profile/job_details/4674005499510950/
+- *(quiet)* Meta - Director, HR Business Operations   
+  https://www.metacareers.com/profile/job_details/1127721013487398/
+- *(quiet)* Meta - Finance &amp; Business Operations Manager, WhatsApp  
+  https://www.metacareers.com/profile/job_details/2247602232819555/
+- *(quiet)* Meta - Research Scientist Intern, Foundation Model Optimization (PhD)  
+  https://www.metacareers.com/profile/job_details/997597222780035/
+- *(quiet)* Meta - Software Engineering Manager, Ads Infra Ranking  
+  https://www.metacareers.com/profile/job_details/1682442843486539/
