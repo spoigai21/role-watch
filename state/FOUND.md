@@ -2036,3 +2036,22 @@
   https://explore.jobs.netflix.net/careers/job/790319451294
 - *(quiet)* Meta - Mechanical Subject Matter Expert, Data Center Critical Facilities  
   https://www.metacareers.com/profile/job_details/1485225680155300/
+
+## 2026-11-11 18:06
+
+- *(quiet)* Meta - Data Center Production Operations Engineer  
+  https://www.metacareers.com/profile/job_details/2177928996478378/
+- *(quiet)* Meta - Partner Engineer  
+  https://www.metacareers.com/profile/job_details/1153892830625320/
+- *(quiet)* Meta - Head of Quality Assurance  
+  https://www.metacareers.com/profile/job_details/1626162088969308/
+- *(quiet)* Meta - Product Manager - Risk  
+  https://www.metacareers.com/profile/job_details/2379936819077487/
+- *(quiet)* Meta - Research Scientist Intern, LLM Memory and Skills (PhD)  
+  https://www.metacareers.com/profile/job_details/1676116714093186/
+- *(quiet)* Meta - Software Engineer, Infrastructure, Applied AI  
+  https://www.metacareers.com/profile/job_details/1001990358961953/
+- *(quiet)* Meta - Payroll Analyst, Mobility Payroll Program and Operations  
+  https://www.metacareers.com/profile/job_details/1817149119485247/
+- *(quiet)* Meta - Software Engineer, Product, Applied AI  
+  https://www.metacareers.com/profile/job_details/1110879381568123/
