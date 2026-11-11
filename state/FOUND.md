@@ -2027,3 +2027,12 @@
   https://www.metacareers.com/profile/job_details/1776942236719867/
 - *(quiet)* Meta - Product Content Engineer  
   https://www.metacareers.com/profile/job_details/1649999653299640/
+
+## 2026-11-11 10:46
+
+- *(quiet)* Netflix - Workplace Specialist, Eyeline Hyderabad  
+  https://explore.jobs.netflix.net/careers/job/790319450010
+- *(quiet)* Netflix - Manager, Marketing Production - Japan  
+  https://explore.jobs.netflix.net/careers/job/790319451294
+- *(quiet)* Meta - Mechanical Subject Matter Expert, Data Center Critical Facilities  
+  https://www.metacareers.com/profile/job_details/1485225680155300/
