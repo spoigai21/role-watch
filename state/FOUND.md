@@ -2008,3 +2008,22 @@
   https://www.metacareers.com/profile/job_details/997597222780035/
 - *(quiet)* Meta - Software Engineering Manager, Ads Infra Ranking  
   https://www.metacareers.com/profile/job_details/1682442843486539/
+
+## 2026-11-11 03:06
+
+- *(quiet)* Netflix - Crowd/Fix Animator - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319444238
+- *(quiet)* Meta - LINCS Security Engineer  
+  https://www.metacareers.com/profile/job_details/2110367506251350/
+- *(quiet)* Meta - Research Scientist Intern, MSL - Multimodal Interaction and Generation (PhD)  
+  https://www.metacareers.com/profile/job_details/1875991733421297/
+- *(quiet)* Meta - HR Business Partner   
+  https://www.metacareers.com/profile/job_details/1123262887278541/
+- *(quiet)* Meta - HR Business Partner  
+  https://www.metacareers.com/profile/job_details/3047161778949393/
+- *(quiet)* Meta - Production Network Engineer, Design  
+  https://www.metacareers.com/profile/job_details/894171713782134/
+- *(quiet)* Meta - Product Quality Engineer, MTIA  
+  https://www.metacareers.com/profile/job_details/1776942236719867/
+- *(quiet)* Meta - Product Content Engineer  
+  https://www.metacareers.com/profile/job_details/1649999653299640/
