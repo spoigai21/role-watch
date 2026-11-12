@@ -2107,3 +2107,18 @@
   https://www.metacareers.com/profile/job_details/1618107042649941/
 - *(quiet)* Meta - Global Supply Chain Manager, ODM Network Switches Infrastructure Supply Chain  
   https://www.metacareers.com/profile/job_details/2567900767053390/
+
+## 2026-11-12 16:12
+
+- *(quiet)* Netflix - Senior Manager, Ads Channel & Partnerships, APAC  
+  https://explore.jobs.netflix.net/careers/job/790319473848
+- *(quiet)* Netflix - Manager, Engineering - Digital Productions Engineering  
+  https://explore.jobs.netflix.net/careers/job/790319474502
+- *(quiet)* Meta - Software Engineer, Systems  
+  https://www.metacareers.com/profile/job_details/2244175443030969/
+- *(quiet)* Meta - Software Engineer, Machine Learning, Applied AI   
+  https://www.metacareers.com/profile/job_details/1804119604135160/
+- *(quiet)* Meta - Senior Software Specialist - AI/ML - Ads  
+  https://www.metacareers.com/profile/job_details/991172566845301/
+- *(quiet)* Meta - Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)  
+  https://www.metacareers.com/profile/job_details/1382697917119311/
