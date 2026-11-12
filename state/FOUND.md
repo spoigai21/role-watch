@@ -2098,3 +2098,12 @@
   https://www.metacareers.com/profile/job_details/1487028006662011/
 - *(quiet)* Meta - Server Demand Planner, Engineering  
   https://www.metacareers.com/profile/job_details/2411435136055341/
+
+## 2026-11-12 07:38
+
+- *(quiet)* Meta - Producer - Creative X  
+  https://www.metacareers.com/profile/job_details/1150634837877433/
+- *(quiet)* Meta - Network Implementation Engineer - Fiber Delivery  
+  https://www.metacareers.com/profile/job_details/1618107042649941/
+- *(quiet)* Meta - Global Supply Chain Manager, ODM Network Switches Infrastructure Supply Chain  
+  https://www.metacareers.com/profile/job_details/2567900767053390/
