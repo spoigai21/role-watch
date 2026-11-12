@@ -2122,3 +2122,44 @@
   https://www.metacareers.com/profile/job_details/991172566845301/
 - *(quiet)* Meta - Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)  
   https://www.metacareers.com/profile/job_details/1382697917119311/
+
+## 2026-11-12 22:14
+
+- *(quiet)* Netflix - Game Reliability Manager  
+  https://explore.jobs.netflix.net/careers/job/790319483034
+- *(quiet)* Netflix - Manager, Audience Strategy - Publishing  
+  https://explore.jobs.netflix.net/careers/job/790319479285
+- *(quiet)* Netflix - Machine Learning Scientist 5 - Bidding & Pacing  
+  https://explore.jobs.netflix.net/careers/job/790319479902
+- *(quiet)* Netflix - Strategy MBA Internship, Summer 2027  
+  https://explore.jobs.netflix.net/careers/job/790319427586
+- *(quiet)* Meta - Technical Program Manager, Security  
+  https://www.metacareers.com/profile/job_details/1136637545945716/
+- *(quiet)* Meta - CAD and Methodology Engineer, Silicon  
+  https://www.metacareers.com/profile/job_details/2051551862208705/
+- *(quiet)* Meta - Retail Operations Manager  
+  https://www.metacareers.com/profile/job_details/996383829599423/
+- *(quiet)* Meta - Employment Investigator, NORAM (Short-Term Employment)  
+  https://www.metacareers.com/profile/job_details/1147351651317271/
+- *(quiet)* Meta - Technical Program Manager - AI Infrastructure   
+  https://www.metacareers.com/profile/job_details/1041312565573464/
+- *(quiet)* Meta - Commercial Sourcing Manager, CPU  
+  https://www.metacareers.com/profile/job_details/1137236809036629/
+- *(quiet)* Meta - Software Engineer, Agent Transformation Accelerator XFN (Technical Leadership)  
+  https://www.metacareers.com/profile/job_details/1476374641074357/
+- *(quiet)* Meta - AI Engineer, Specialist - VR - (Technical Leadership)  
+  https://www.metacareers.com/profile/job_details/1172768971855228/
+- *(quiet)* Meta - Executive Recruiting Partner  
+  https://www.metacareers.com/profile/job_details/2194663121400231/
+- *(quiet)* Meta - Program Manager, Emerging Technical Talent Strategy  
+  https://www.metacareers.com/profile/job_details/1851134056233013/
+- *(quiet)* Meta - Technical Program Manager - Wearables Experiences  
+  https://www.metacareers.com/profile/job_details/1691722179032422/
+- *(quiet)* Meta - Program Manager, Product Immersion &amp; Testing  
+  https://www.metacareers.com/profile/job_details/1146115005014501/
+- *(quiet)* Meta - UX Research Scientist Intern, Contextual AI (PhD)  
+  https://www.metacareers.com/profile/job_details/1447131743482590/
+- *(quiet)* Meta - Production Engineer  
+  https://www.metacareers.com/profile/job_details/2450572595421422/
+- *(quiet)* Meta - Business Development Manager, Monetization  
+  https://www.metacareers.com/profile/job_details/2875011329549610/

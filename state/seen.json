@@ -1,5 +1,5 @@
 {
- "_meta_checked": 1794499956.305426,
+ "_meta_checked": 1794521644.578061,
  "meta:1001245402541256": {
   "title": null
  },
@@ -176,6 +176,9 @@
  },
  "meta:1041227938458954": {
   "title": null
+ },
+ "meta:1041312565573464": {
+  "title": "Technical Program Manager - AI Infrastructure "
  },
  "meta:1041877494912459": {
   "title": "Technical Program Manager, Business Engineering"
@@ -1002,8 +1005,14 @@
  "meta:1136608158836536": {
   "title": "Display Panel Design Intern "
  },
+ "meta:1136637545945716": {
+  "title": "Technical Program Manager, Security"
+ },
  "meta:1137225375529389": {
   "title": "Research Scientist Intern, Wearable Sensing &amp; Human Motion Analysis"
+ },
+ "meta:1137236809036629": {
+  "title": "Commercial Sourcing Manager, CPU"
  },
  "meta:1137758352116726": {
   "title": "Supply Chain Capacity Engineer "
@@ -1077,6 +1086,12 @@
  "meta:1145532631488051": {
   "title": "Security Engineer, Trust &amp; Safety - Applied AI"
  },
+ "meta:1146115005014501": {
+  "title": "Program Manager, Product Immersion &amp; Testing"
+ },
+ "meta:1147351651317271": {
+  "title": "Employment Investigator, NORAM (Short-Term Employment)"
+ },
  "meta:1147497470935457": {
   "title": "People Service Delivery Lead"
  },
@@ -1145,6 +1160,9 @@
  },
  "meta:1169426155744434": {
   "title": "Audit and Compliance Manager"
+ },
+ "meta:1172768971855228": {
+  "title": "AI Engineer, Specialist - VR - (Technical Leadership)"
  },
  "meta:1173461138453246": {
   "title": "Controls Subject Matter Expert"
@@ -1989,6 +2007,9 @@
  "meta:1446008381918730": {
   "title": "Product Manager, WhatsApp - India"
  },
+ "meta:1447131743482590": {
+  "title": "UX Research Scientist Intern, Contextual AI (PhD)"
+ },
  "meta:1450222650641899": {
   "title": "ASIC Engineering Intern, Formal Verification"
  },
@@ -2138,6 +2159,9 @@
  },
  "meta:1476369240973799": {
   "title": "Community Engagement Manager"
+ },
+ "meta:1476374641074357": {
+  "title": "Software Engineer, Agent Transformation Accelerator XFN (Technical Leadership)"
  },
  "meta:1476493301035580": {
   "title": "Research Scientist, Machine Learning &amp; Signal Processing [Technical Leadership]"
@@ -3057,6 +3081,9 @@
  "meta:1691709792593561": {
   "title": "Research Scientist Intern, Ads Recommendations (PhD)"
  },
+ "meta:1691722179032422": {
+  "title": "Technical Program Manager - Wearables Experiences"
+ },
  "meta:1692628531801921": {
   "title": null
  },
@@ -3714,6 +3741,9 @@
  "meta:1850153969751238": {
   "title": "Digital Design Engineer, Interconnect"
  },
+ "meta:1851134056233013": {
+  "title": "Program Manager, Emerging Technical Talent Strategy"
+ },
  "meta:1851348099357899": {
   "title": "Optical Engineering AI and Data Analytics Intern"
  },
@@ -4085,6 +4115,9 @@
  },
  "meta:2050456652268351": {
   "title": "Technical Solutions Consultant"
+ },
+ "meta:2051551862208705": {
+  "title": "CAD and Methodology Engineer, Silicon"
  },
  "meta:2052496682052214": {
   "title": "Content Strategist, Help Center"
@@ -4461,6 +4494,9 @@
  "meta:2194093991203321": {
   "title": "Software Engineering Manager, AI Kernels &amp; Performance Optimization &#x2014; MTIA Software"
  },
+ "meta:2194663121400231": {
+  "title": "Executive Recruiting Partner"
+ },
  "meta:2195354808028299": {
   "title": null
  },
@@ -4826,6 +4862,9 @@
  },
  "meta:2449524898891982": {
   "title": null
+ },
+ "meta:2450572595421422": {
+  "title": "Production Engineer"
  },
  "meta:2464918144030553": {
   "title": "Product Manager, Infrastructure Capacity"
@@ -5198,6 +5237,9 @@
  },
  "meta:28741286075523076": {
   "title": "Program Manager, Strategic Risk Programs"
+ },
+ "meta:2875011329549610": {
+  "title": "Business Development Manager, Monetization"
  },
  "meta:2875169372831018": {
   "title": "Data Center Site Selection Manager"
@@ -6330,6 +6372,9 @@
  "meta:996188146810500": {
   "title": null
  },
+ "meta:996383829599423": {
+  "title": "Retail Operations Manager"
+ },
  "meta:997421852701968": {
   "title": "Director, Compute Manufacturing &amp; Strategic Sourcing"
  },
@@ -7044,6 +7089,9 @@
  "netflix:790319425306": {
   "title": "Senior Manager, Games Content Acquisition & Licensing"
  },
+ "netflix:790319427586": {
+  "title": "Strategy MBA Internship, Summer 2027"
+ },
  "netflix:790319429186": {
   "title": "Executive Coach - APAC"
  },
@@ -7091,5 +7139,14 @@
  },
  "netflix:790319474502": {
   "title": "Manager, Engineering - Digital Productions Engineering"
+ },
+ "netflix:790319479285": {
+  "title": "Manager, Audience Strategy - Publishing"
+ },
+ "netflix:790319479902": {
+  "title": "Machine Learning Scientist 5 - Bidding & Pacing"
+ },
+ "netflix:790319483034": {
+  "title": "Game Reliability Manager"
  }
 }
