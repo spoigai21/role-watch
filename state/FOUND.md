@@ -2055,3 +2055,46 @@
   https://www.metacareers.com/profile/job_details/1817149119485247/
 - *(quiet)* Meta - Software Engineer, Product, Applied AI  
   https://www.metacareers.com/profile/job_details/1110879381568123/
+
+## 2026-11-12 00:33
+
+- *(quiet)* Netflix - Associate, LATAM Payments Finance & Strategy  
+  https://explore.jobs.netflix.net/careers/job/790319462403
+- *(quiet)* Netflix - Mexico Live Sports, Technical & Post Production, Manager (Temporary Role)  
+  https://explore.jobs.netflix.net/careers/job/790319462408
+- *(quiet)* Netflix - Associate, Production Operations  
+  https://explore.jobs.netflix.net/careers/job/790319460323
+- *(quiet)* Netflix - Software Engineer in Test 5 - Discovery & Viewing Experiences  
+  https://explore.jobs.netflix.net/careers/job/790319386313
+- *(quiet)* Netflix - Software Engineer 5 - TV (Ads)  
+  https://explore.jobs.netflix.net/careers/job/790319354933
+- *(quiet)* Netflix - Product Operations Lead: Core Discovery  
+  https://explore.jobs.netflix.net/careers/job/790319295260
+- *(quiet)* Netflix - Senior Director, Sourcing  
+  https://explore.jobs.netflix.net/careers/job/790319262762
+- *(quiet)* Meta - Research Scientist Intern, TPU(PhD)  
+  https://www.metacareers.com/profile/job_details/2690374264750493/
+- *(quiet)* Meta - Director, Compute Manufacturing &amp; Strategic Sourcing  
+  https://www.metacareers.com/profile/job_details/997421852701968/
+- *(quiet)* Meta - AI Specialist - VR  
+  https://www.metacareers.com/profile/job_details/2474739616386250/
+- *(quiet)* Meta - Research Scientist Intern, Generative AI &amp; 3D Generation (PhD)  
+  https://www.metacareers.com/profile/job_details/1414858330673000/
+- *(quiet)* Meta - HR Business Partner, Meta Superintelligence Labs (MSL)   
+  https://www.metacareers.com/profile/job_details/3455551204832865/
+- *(quiet)* Meta - Research Scientist, Omnilingual (FAIR)  
+  https://www.metacareers.com/profile/job_details/1152480800601146/
+- *(quiet)* Meta - UX Research Scientist, User Safety  
+  https://www.metacareers.com/profile/job_details/1345122305360373/
+- *(quiet)* Meta - Director of Product Staff, Instagram Business Ranking &amp; Delivery  
+  https://www.metacareers.com/profile/job_details/2143933519831023/
+- *(quiet)* Meta - Product Content Engineer - Content Strategist  
+  https://www.metacareers.com/profile/job_details/948697208124352/
+- *(quiet)* Meta - Research Scientist, Demand Forecasting  
+  https://www.metacareers.com/profile/job_details/1117047447904510/
+- *(quiet)* Meta - Security &amp; Compliance Operations Lead, Global Operations  
+  https://www.metacareers.com/profile/job_details/1847131683137830/
+- *(quiet)* Meta - Research Scientist, Server Demand Forecasting  
+  https://www.metacareers.com/profile/job_details/1487028006662011/
+- *(quiet)* Meta - Server Demand Planner, Engineering  
+  https://www.metacareers.com/profile/job_details/2411435136055341/
