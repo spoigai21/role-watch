@@ -2187,3 +2187,36 @@
   https://explore.jobs.netflix.net/careers/job/790319490395
 - *(quiet)* Meta - Director, Entertainment Partnerships, NORAM  
   https://www.metacareers.com/profile/job_details/1151602707382306/
+
+## 2026-11-13 17:28
+
+- *(quiet)* Netflix - Senior Manager, Brand Strategy, Marketing Partnerships  
+  https://explore.jobs.netflix.net/careers/job/790319500144
+- *(quiet)* Netflix - Manager, Consumer Products Solutions  
+  https://explore.jobs.netflix.net/careers/job/790319500686
+- *(quiet)* Netflix - Counsel, Business & Legal Affairs - Spain & Portugal  
+  https://explore.jobs.netflix.net/careers/job/790319453247
+- *(quiet)* Netflix - Data Engineering Manager - Ads Audience, Identity, Signals and Measurement  
+  https://explore.jobs.netflix.net/careers/job/790319446263
+- *(quiet)* Netflix - Sr. Manager, Ads Marketing LATAM Regional  
+  https://explore.jobs.netflix.net/careers/job/790319441269
+- *(quiet)* Meta - Network Site Investments Manager  
+  https://www.metacareers.com/profile/job_details/1455722832835537/
+- *(quiet)* Meta - Associate General Counsel, AI Product  
+  https://www.metacareers.com/profile/job_details/1041507768348279/
+- *(quiet)* Meta - Director, Enterprise Platform  
+  https://www.metacareers.com/profile/job_details/1168031035721735/
+- *(quiet)* Meta - Production Engineer  
+  https://www.metacareers.com/profile/job_details/877502507478895/
+- *(quiet)* Meta - Marketing Science Partner, Northern Europe  
+  https://www.metacareers.com/profile/job_details/1927854174849079/
+- *(quiet)* Meta - Software Engineer - Canada - IC5 | Ing&#xe9;nieur logiciel - Canada - IC5  
+  https://www.metacareers.com/profile/job_details/2660997357751142/
+- *(quiet)* Meta - AI Research Scientist, FAIR Security, Privacy, and Reliability  
+  https://www.metacareers.com/profile/job_details/1482970387066899/
+- *(quiet)* Meta - Research Scientist Intern, Video Recommendations (PhD)  
+  https://www.metacareers.com/profile/job_details/29034450339514945/
+- *(quiet)* Meta - Principal Strategic Sourcing Manager- Muse Gadgets  
+  https://www.metacareers.com/profile/job_details/1647111540287326/
+- *(quiet)* Meta - Security &amp; Compliance Operations Lead, Global Operations  
+  https://www.metacareers.com/profile/job_details/2299049220936207/
