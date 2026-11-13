@@ -1,5 +1,5 @@
 {
- "_meta_checked": 1794590883.153665,
+ "_meta_checked": 1794609912.005389,
  "meta:1001245402541256": {
   "title": null
  },
@@ -155,6 +155,9 @@
  },
  "meta:1038128235640215": {
   "title": null
+ },
+ "meta:1038179719312945": {
+  "title": "Hardware Engineering Program Manager"
  },
  "meta:1038226098734847": {
   "title": "ASIC Engineer, Design Verification"
@@ -629,6 +632,9 @@
  },
  "meta:1092820423611310": {
   "title": "Community Engagement Manager, Public Policy"
+ },
+ "meta:1092979223754272": {
+  "title": "Research Scientist, AI Language Research"
  },
  "meta:1093183406780829": {
   "title": "Forward Deployed Engineer, Enterprise AI (Singapore)"
@@ -1133,6 +1139,9 @@
  },
  "meta:1155292783739299": {
   "title": "Research Scientist Intern, MSL - Agentic Post-Training (PhD)"
+ },
+ "meta:1158829233342350": {
+  "title": "Research Scientist Intern, Diffractive Optics (PhD)"
  },
  "meta:1159789876480295": {
   "title": "Director - Data Scientist"
@@ -2781,6 +2790,9 @@
  "meta:1620771789592841": {
   "title": "Connectivity Engineer - Data Center Design, Engineering, &amp; Construction"
  },
+ "meta:1621422476116910": {
+  "title": "ASIC Engineer, Emulation"
+ },
  "meta:1622348099529936": {
   "title": "Research Engineer, Language - Wearables Voice AI"
  },
@@ -3054,6 +3066,9 @@
  "meta:1673494347245985": {
   "title": null
  },
+ "meta:1674297360998408": {
+  "title": "Research Scientist Intern, Materials Architecture &amp; Device Integration (PhD)"
+ },
  "meta:1674394627579563": {
   "title": "Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)"
  },
@@ -3068,6 +3083,9 @@
  },
  "meta:1676116714093186": {
   "title": "Research Scientist Intern, LLM Memory and Skills (PhD)"
+ },
+ "meta:1676434554059815": {
+  "title": "Product Marketing Leader, Facebook Monetization"
  },
  "meta:1676541020697010": {
   "title": null
@@ -3224,6 +3242,9 @@
  },
  "meta:1722686882157341": {
   "title": "Software Engineer (Technical Leadership) - Central Security"
+ },
+ "meta:1725700665844666": {
+  "title": "Research Scientist, Neural Interfaces for Wearables"
  },
  "meta:1725888355192236": {
   "title": null
@@ -3417,6 +3438,9 @@
  "meta:1767903448137144": {
   "title": "Partner Manager, Government, Politics, Advocacy and Compliance"
  },
+ "meta:1768080781159715": {
+  "title": "Research Scientist, Central Applied Science"
+ },
  "meta:1769015281074596": {
   "title": null
  },
@@ -3521,6 +3545,9 @@
  },
  "meta:1786694942756620": {
   "title": null
+ },
+ "meta:1787261759176001": {
+  "title": "Supplier Master Operations Specialist"
  },
  "meta:1787860132469542": {
   "title": "Business Support Engineer AdTech"
@@ -3662,6 +3689,9 @@
  },
  "meta:1819250669048060": {
   "title": null
+ },
+ "meta:1819500979094439": {
+  "title": "Strategic Sourcing Manager, Intern"
  },
  "meta:1821129522375871": {
   "title": "Program Development Manager, Capacity Planning"
@@ -5465,6 +5495,9 @@
  },
  "meta:3265378000517806": {
   "title": "Research Scientist Intern, Generative Recommendation Systems (PhD)"
+ },
+ "meta:3272667389591898": {
+  "title": "AI Engineer, Specialist - VR"
  },
  "meta:3272811716246648": {
   "title": "Corporate Development Deal Lead"

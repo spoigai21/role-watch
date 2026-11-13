@@ -2220,3 +2220,28 @@
   https://www.metacareers.com/profile/job_details/1647111540287326/
 - *(quiet)* Meta - Security &amp; Compliance Operations Lead, Global Operations  
   https://www.metacareers.com/profile/job_details/2299049220936207/
+
+## 2026-11-13 22:45
+
+- *(quiet)* Meta - Strategic Sourcing Manager, Intern  
+  https://www.metacareers.com/profile/job_details/1819500979094439/
+- *(quiet)* Meta - Research Scientist, Neural Interfaces for Wearables  
+  https://www.metacareers.com/profile/job_details/1725700665844666/
+- *(quiet)* Meta - ASIC Engineer, Emulation  
+  https://www.metacareers.com/profile/job_details/1621422476116910/
+- *(quiet)* Meta - Product Marketing Leader, Facebook Monetization  
+  https://www.metacareers.com/profile/job_details/1676434554059815/
+- *(quiet)* Meta - AI Engineer, Specialist - VR  
+  https://www.metacareers.com/profile/job_details/3272667389591898/
+- *(quiet)* Meta - Research Scientist Intern, Diffractive Optics (PhD)  
+  https://www.metacareers.com/profile/job_details/1158829233342350/
+- *(quiet)* Meta - Hardware Engineering Program Manager  
+  https://www.metacareers.com/profile/job_details/1038179719312945/
+- *(quiet)* Meta - Research Scientist, Central Applied Science  
+  https://www.metacareers.com/profile/job_details/1768080781159715/
+- *(quiet)* Meta - Supplier Master Operations Specialist  
+  https://www.metacareers.com/profile/job_details/1787261759176001/
+- *(quiet)* Meta - Research Scientist, AI Language Research  
+  https://www.metacareers.com/profile/job_details/1092979223754272/
+- *(quiet)* Meta - Research Scientist Intern, Materials Architecture &amp; Device Integration (PhD)  
+  https://www.metacareers.com/profile/job_details/1674297360998408/
