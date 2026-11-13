@@ -2163,3 +2163,20 @@
   https://www.metacareers.com/profile/job_details/2450572595421422/
 - *(quiet)* Meta - Business Development Manager, Monetization  
   https://www.metacareers.com/profile/job_details/2875011329549610/
+
+## 2026-11-13 02:37
+
+- *(quiet)* Netflix - Technical Program Manager 6 - Content Promotion & Distribution  
+  https://explore.jobs.netflix.net/careers/job/790319484232
+- *(quiet)* Meta - Forward Deployed Engineer, Enterprise AI (Bangalore)  
+  https://www.metacareers.com/profile/job_details/1432499278390948/
+- *(quiet)* Meta - Law Enforcement Response Team Associate, APAC  
+  https://www.metacareers.com/profile/job_details/2257909881432919/
+- *(quiet)* Meta - Software Engineer, Container Infrastructure (Technical Leadership)  
+  https://www.metacareers.com/profile/job_details/1153298343784841/
+- *(quiet)* Meta - Wearables Systems Architect  
+  https://www.metacareers.com/profile/job_details/1880972626418157/
+- *(quiet)* Meta - Network Engineer, Deployment &amp; Support  
+  https://www.metacareers.com/profile/job_details/1115799461081377/
+- *(quiet)* Meta - Project Manager, Access &amp; Compromise Operations  
+  https://www.metacareers.com/profile/job_details/1439592651663270/
