@@ -2180,3 +2180,10 @@
   https://www.metacareers.com/profile/job_details/1115799461081377/
 - *(quiet)* Meta - Project Manager, Access &amp; Compromise Operations  
   https://www.metacareers.com/profile/job_details/1439592651663270/
+
+## 2026-11-13 09:56
+
+- *(quiet)* Netflix - EMEA Payroll Specialist  
+  https://explore.jobs.netflix.net/careers/job/790319490395
+- *(quiet)* Meta - Director, Entertainment Partnerships, NORAM  
+  https://www.metacareers.com/profile/job_details/1151602707382306/
