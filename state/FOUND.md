@@ -2260,3 +2260,8 @@
   https://explore.jobs.netflix.net/careers/job/790319503891
 - *(quiet)* Meta - Research Scientist - Demand Forecasting  
   https://www.metacareers.com/profile/job_details/1825428685550972/
+
+## 2026-11-14 09:26
+
+- *(quiet)* Meta - LINCS Security Engineer  
+  https://www.metacareers.com/profile/job_details/2296637507735867/
