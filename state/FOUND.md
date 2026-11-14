@@ -2245,3 +2245,18 @@
   https://www.metacareers.com/profile/job_details/1092979223754272/
 - *(quiet)* Meta - Research Scientist Intern, Materials Architecture &amp; Device Integration (PhD)  
   https://www.metacareers.com/profile/job_details/1674297360998408/
+
+## 2026-11-14 02:42
+
+- *(quiet)* Netflix - Global Head of Character Effects (CFX) - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319503099
+- *(quiet)* Netflix - Global Head of Modeling - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319503105
+- *(quiet)* Netflix - Sales Solutions Lead (UCAN - Programmatic)  
+  https://explore.jobs.netflix.net/careers/job/790319503349
+- *(quiet)* Netflix - Business Partner, Finance Procurement Operations - Studio  
+  https://explore.jobs.netflix.net/careers/job/790319503363
+- *(quiet)* Netflix - Administrative Assistant, Content Licensing  
+  https://explore.jobs.netflix.net/careers/job/790319503891
+- *(quiet)* Meta - Research Scientist - Demand Forecasting  
+  https://www.metacareers.com/profile/job_details/1825428685550972/
