@@ -2274,3 +2274,8 @@
   https://explore.jobs.netflix.net/careers/job/790319493694
 - *(quiet)* Netflix - Accountant, Financial Reporting - Spanish or Portuguese Speaking (For Talent Pooling)  
   https://explore.jobs.netflix.net/careers/job/790319493820
+
+## 2026-11-15 22:42
+
+- *(quiet)* Meta - Market Specialist, Global Response Operations, Indonesia  
+  https://www.metacareers.com/profile/job_details/1157351877240330/
