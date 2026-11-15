@@ -2265,3 +2265,12 @@
 
 - *(quiet)* Meta - LINCS Security Engineer  
   https://www.metacareers.com/profile/job_details/2296637507735867/
+
+## 2026-11-15 04:03
+
+- *(quiet)* Netflix - Accounts Receivable (AR) & Collections Analyst - Spanish Speaking (For Talent Pooling)  
+  https://explore.jobs.netflix.net/careers/job/790319493678
+- *(quiet)* Netflix - Content Accounting Specialist (For Talent Pooling)  
+  https://explore.jobs.netflix.net/careers/job/790319493694
+- *(quiet)* Netflix - Accountant, Financial Reporting - Spanish or Portuguese Speaking (For Talent Pooling)  
+  https://explore.jobs.netflix.net/careers/job/790319493820
