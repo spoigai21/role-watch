@@ -2279,3 +2279,16 @@
 
 - *(quiet)* Meta - Market Specialist, Global Response Operations, Indonesia  
   https://www.metacareers.com/profile/job_details/1157351877240330/
+
+## 2026-11-16 09:56
+
+- *(quiet)* Netflix - Manager, Ads Revenue & Yield Analytics - Korea  
+  https://explore.jobs.netflix.net/careers/job/790319533039
+- *(quiet)* Netflix - Marketing Manager, APAC Export  
+  https://explore.jobs.netflix.net/careers/job/790319529702
+- *(quiet)* Netflix - Sr. Sales Partner (Korea)  
+  https://explore.jobs.netflix.net/careers/job/790319531762
+- *(quiet)* Meta - Market Specialist, Thailand  
+  https://www.metacareers.com/profile/job_details/1008233061608583/
+- *(quiet)* Meta - Technical Solutions Consultant  
+  https://www.metacareers.com/profile/job_details/1457340473156962/
