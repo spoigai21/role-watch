@@ -2292,3 +2292,36 @@
   https://www.metacareers.com/profile/job_details/1008233061608583/
 - *(quiet)* Meta - Technical Solutions Consultant  
   https://www.metacareers.com/profile/job_details/1457340473156962/
+
+## 2026-11-16 19:58
+
+- *(quiet)* Meta - Business Engineer  
+  https://www.metacareers.com/profile/job_details/1662494832247659/
+- *(quiet)* Meta - Global Security Investigations Manager  
+  https://www.metacareers.com/profile/job_details/2259880381628785/
+- *(quiet)* Meta - Crisis Management Lead, Americas  
+  https://www.metacareers.com/profile/job_details/2154385498500697/
+- *(quiet)* Meta - Global Security Intelligence Manager  
+  https://www.metacareers.com/profile/job_details/1453066639892882/
+- *(quiet)* Meta - Investigations Lead, Global Security  
+  https://www.metacareers.com/profile/job_details/1746554380140763/
+- *(quiet)* Meta - Visiting Researcher, AI Mentorship Program (PhD)  
+  https://www.metacareers.com/profile/job_details/4529244430625751/
+- *(quiet)* Meta - Creator and Content Benchmarking Lead, Product Content Engineer   
+  https://www.metacareers.com/profile/job_details/1454097660242651/
+- *(quiet)* Meta - Network Engineer, Foundation &amp; Support  
+  https://www.metacareers.com/profile/job_details/4738167219805618/
+- *(quiet)* Meta - Product Manager, Content Integrity, Harm Prevention  
+  https://www.metacareers.com/profile/job_details/1032486706154756/
+- *(quiet)* Meta - Program Manager, Product Immersion and Testing  
+  https://www.metacareers.com/profile/job_details/3730296080473102/
+- *(quiet)* Meta - Research Scientist Intern, Intelligent Camera Systems (PhD)  
+  https://www.metacareers.com/profile/job_details/971210335715482/
+- *(quiet)* Meta - Client Solutions Manager | Responsable des solutions clients  
+  https://www.metacareers.com/profile/job_details/2235040207042840/
+- *(quiet)* Meta - UX Researcher, Mixed Methods  
+  https://www.metacareers.com/profile/job_details/1519471390201718/
+- *(quiet)* Meta - Software Engineer (Leadership), Systems  
+  https://www.metacareers.com/profile/job_details/1622433179922692/
+- *(quiet)* Meta - Network Engineer, Deployment &amp; Support  
+  https://www.metacareers.com/profile/job_details/1122419357210009/
