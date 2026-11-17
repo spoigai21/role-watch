@@ -2374,3 +2374,12 @@
   https://www.metacareers.com/profile/job_details/3606534702842282/
 - *(quiet)* Meta - Software Engineer, Systems ML: PyTorch Distributed  
   https://www.metacareers.com/profile/job_details/1177583138161589/
+
+## 2026-11-17 11:13
+
+- *(quiet)* Meta - Network Engineer, Engineering R&amp;D Environments  
+  https://www.metacareers.com/profile/job_details/1119258647405056/
+- *(quiet)* Meta - Agency Partner  
+  https://www.metacareers.com/profile/job_details/2153692841909135/
+- *(quiet)* Meta - Senior/Staff Electrical Engineer, Meta Robotics  
+  https://www.metacareers.com/profile/job_details/1746587157032102/
