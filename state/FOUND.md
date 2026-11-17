@@ -2325,3 +2325,52 @@
   https://www.metacareers.com/profile/job_details/1622433179922692/
 - *(quiet)* Meta - Network Engineer, Deployment &amp; Support  
   https://www.metacareers.com/profile/job_details/1122419357210009/
+
+## 2026-11-17 02:46
+
+- *(quiet)* Netflix - Administrative Assistant, Finance & Strategy  
+  https://explore.jobs.netflix.net/careers/job/790319542220
+- *(quiet)* Netflix - Product Manager, Editorial & Post-Production Tools  
+  https://explore.jobs.netflix.net/careers/job/790319545244
+- *(quiet)* Netflix - Sales Partner (UK)  
+  https://explore.jobs.netflix.net/careers/job/790319473713
+- *(quiet)* Netflix - Recruiter - SEA  
+  https://explore.jobs.netflix.net/careers/job/790319467981
+- *(quiet)* Netflix - Executive Coach - EMEA  
+  https://explore.jobs.netflix.net/careers/job/790319453248
+- *(quiet)* Netflix - Coordinator, Post Production, Nordics  
+  https://explore.jobs.netflix.net/careers/job/790319459046
+- *(quiet)* Netflix - Counsel, Privacy and Data Security (EMEA)  
+  https://explore.jobs.netflix.net/careers/job/790319459856
+- *(quiet)* Meta - Strategic Partner Manager, Business Messaging LATAM  
+  https://www.metacareers.com/profile/job_details/2630264670747995/
+- *(quiet)* Meta - Research Scientist Intern, LLM-Native Recommendation Systems (PhD)  
+  https://www.metacareers.com/profile/job_details/1157475613903880/
+- *(quiet)* Meta - Public Policy Manager  
+  https://www.metacareers.com/profile/job_details/980148701387295/
+- *(quiet)* Meta - US Indirect Tax Manager  
+  https://www.metacareers.com/profile/job_details/1434021812220377/
+- *(quiet)* Meta - Retail Operations Field Manager  
+  https://www.metacareers.com/profile/job_details/1379969380674941/
+- *(quiet)* Meta - Research Scientist Intern, Perception, Displays and Graphics (PhD)  
+  https://www.metacareers.com/profile/job_details/1500136678656794/
+- *(quiet)* Meta - Internal Communications Manager, Enterprise Platform  
+  https://www.metacareers.com/profile/job_details/4645497549051802/
+- *(quiet)* Meta - Construction Manager, Data Center  
+  https://www.metacareers.com/profile/job_details/1885691272599336/
+- *(quiet)* Meta - Construction Manager, Data Center  
+  https://www.metacareers.com/profile/job_details/1479650870757468/
+- *(quiet)* Meta - Commercial Sourcing Manager, Strategic Silicon   
+  https://www.metacareers.com/profile/job_details/1727440505572625/
+- *(quiet)* Meta - Visual Designer, Product Creative (Human Interface)  
+  https://www.metacareers.com/profile/job_details/1638158854473837/
+- *(quiet)* Meta - AI Risk Program Manager  
+  https://www.metacareers.com/profile/job_details/1162184956309538/
+- *(quiet)* Meta - Camera Perception Engineer   
+  https://www.metacareers.com/profile/job_details/28977971385164064/
+- *(quiet)* Meta - Project Manager, Integrity Operations, Child Safety  
+  https://www.metacareers.com/profile/job_details/1664197148587471/
+- *(quiet)* Meta - Content Engineer, Meta Superintelligence Labs  
+  https://www.metacareers.com/profile/job_details/3606534702842282/
+- *(quiet)* Meta - Software Engineer, Systems ML: PyTorch Distributed  
+  https://www.metacareers.com/profile/job_details/1177583138161589/
