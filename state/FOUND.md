@@ -2383,3 +2383,40 @@
   https://www.metacareers.com/profile/job_details/2153692841909135/
 - *(quiet)* Meta - Senior/Staff Electrical Engineer, Meta Robotics  
   https://www.metacareers.com/profile/job_details/1746587157032102/
+
+## 2026-11-17 19:50
+
+- *(quiet)* Netflix - Manager, Programming - Experiences  
+  https://explore.jobs.netflix.net/careers/job/790319557901
+- *(quiet)* Netflix - Administrative Assistant, NSFTM  
+  https://explore.jobs.netflix.net/careers/job/790319559393
+- *(quiet)* Netflix - Software Engineering 5 - Ads Finance  
+  https://explore.jobs.netflix.net/careers/job/790319538405
+- *(quiet)* Meta - Visiting Researcher, AI Mentorship Program (PhD) | Chercheur invit&#xe9;, programme de mentorat en IA (PhD)  
+  https://www.metacareers.com/profile/job_details/1110284504699535/
+- *(quiet)* Meta - Art Director, CX  
+  https://www.metacareers.com/profile/job_details/27611129535238799/
+- *(quiet)* Meta - Commercial Sourcing Manager, Memory and Storage   
+  https://www.metacareers.com/profile/job_details/1124334983799391/
+- *(quiet)* Meta - Product Risk Program Manager - Product Enablement  
+  https://www.metacareers.com/profile/job_details/1496123412616078/
+- *(quiet)* Meta - Product Policy Manager, Messaging  
+  https://www.metacareers.com/profile/job_details/1674378051083141/
+- *(quiet)* Meta - Client Solutions Manager - Travel  
+  https://www.metacareers.com/profile/job_details/4224640077672572/
+- *(quiet)* Meta - Data Center Planning Lead   
+  https://www.metacareers.com/profile/job_details/1664082508590840/
+- *(quiet)* Meta - Technical Program Manager - Growth Platforms  
+  https://www.metacareers.com/profile/job_details/2329999280908239/
+- *(quiet)* Meta - Product Marketing Manager  
+  https://www.metacareers.com/profile/job_details/2633768500380737/
+- *(quiet)* Meta - Applied AI Architect, Meta Enterprise Platform  
+  https://www.metacareers.com/profile/job_details/1676903474082602/
+- *(quiet)* Meta - Data Operations Program Manager  
+  https://www.metacareers.com/profile/job_details/1794418755199423/
+- *(quiet)* Meta - Global Payroll Technology and AI Analyst  
+  https://www.metacareers.com/profile/job_details/1463640159052438/
+- *(quiet)* Meta - Product Manager, Catalog  
+  https://www.metacareers.com/profile/job_details/1070630436015980/
+- *(quiet)* Meta - Communications Manager, Thailand  
+  https://www.metacareers.com/profile/job_details/1652344616370702/
