@@ -2441,3 +2441,14 @@
   https://www.metacareers.com/profile/job_details/2019143672089456/
 - *(quiet)* Meta - Product Marketing Manager, Generative AI  
   https://www.metacareers.com/profile/job_details/1594194286085079/
+
+## 2026-11-18 09:24
+
+- *(quiet)* Netflix - Launch Manager - Japan  
+  https://explore.jobs.netflix.net/careers/job/790319564319
+- *(quiet)* Netflix - Director, HRBP SEA & Marketing  
+  https://explore.jobs.netflix.net/careers/job/790319566987
+- *(quiet)* Netflix - Head of US Enterprise Sales  
+  https://explore.jobs.netflix.net/careers/job/790319545961
+- *(quiet)* Meta - Electrical Engineer, Power  
+  https://www.metacareers.com/profile/job_details/1949501852705927/
