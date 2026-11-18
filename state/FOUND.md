@@ -2452,3 +2452,26 @@
   https://explore.jobs.netflix.net/careers/job/790319545961
 - *(quiet)* Meta - Electrical Engineer, Power  
   https://www.metacareers.com/profile/job_details/1949501852705927/
+
+## 2026-11-18 18:14
+
+- *(quiet)* Netflix - Manager, Marketing Partnerships Creative Production, EMEA  
+  https://explore.jobs.netflix.net/careers/job/790319438097
+- *(quiet)* Netflix - Specialist, Marketing Partnerships Creative Production, EMEA  
+  https://explore.jobs.netflix.net/careers/job/790319438107
+- *(quiet)* Netflix - Executive Recruiter,  EMEA  
+  https://explore.jobs.netflix.net/careers/job/790319572991
+- *(quiet)* Netflix - Manager, Operations Optimization - Experiences  
+  https://explore.jobs.netflix.net/careers/job/790319579328
+- *(quiet)* Meta - Research Scientist, PAR Safety  
+  https://www.metacareers.com/profile/job_details/1434154382200527/
+- *(quiet)* Meta - Partner Manager, Social Media Communications  
+  https://www.metacareers.com/profile/job_details/1462930442469708/
+- *(quiet)* Meta - Communications Associate Manager  
+  https://www.metacareers.com/profile/job_details/1668690204951183/
+- *(quiet)* Meta - Research Scientist, Applied AI - AI Specialist  
+  https://www.metacareers.com/profile/job_details/1845141720022019/
+- *(quiet)* Meta - Partner Engineer  
+  https://www.metacareers.com/profile/job_details/1511786967522227/
+- *(quiet)* Meta - Integrated Marketing Manager, AI Wearables - EMEA (France focus)  
+  https://www.metacareers.com/profile/job_details/1504267934886960/
