@@ -2420,3 +2420,24 @@
   https://www.metacareers.com/profile/job_details/1070630436015980/
 - *(quiet)* Meta - Communications Manager, Thailand  
   https://www.metacareers.com/profile/job_details/1652344616370702/
+
+## 2026-11-18 01:54
+
+- *(quiet)* Netflix - Software Engineer 5 - Search & Voice Systems  
+  https://explore.jobs.netflix.net/careers/job/790319560051
+- *(quiet)* Netflix - Full-stack Engineer 4, User Data & Consent Experiences  
+  https://explore.jobs.netflix.net/careers/job/790319561012
+- *(quiet)* Netflix - Playtest L5 Researcher  
+  https://explore.jobs.netflix.net/careers/job/790319562368
+- *(quiet)* Netflix - Global Head of Modeling  
+  https://explore.jobs.netflix.net/careers/job/790319542169
+- *(quiet)* Netflix - Global Head of Character Effects (CFX) - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319542353
+- *(quiet)* Meta - Market Specialist, Global Response Operations, India  
+  https://www.metacareers.com/profile/job_details/2924710607902842/
+- *(quiet)* Meta - Area Project Controls Lead, Leased - Data Center Development  
+  https://www.metacareers.com/profile/job_details/1440039554993527/
+- *(quiet)* Meta - Capacity Delivery Lead, Data Center Infrastructure  
+  https://www.metacareers.com/profile/job_details/2019143672089456/
+- *(quiet)* Meta - Product Marketing Manager, Generative AI  
+  https://www.metacareers.com/profile/job_details/1594194286085079/
