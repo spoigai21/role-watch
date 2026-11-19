@@ -2509,3 +2509,32 @@
   https://www.metacareers.com/profile/job_details/892052170595981/
 - *(quiet)* Meta - PLM- Engineering Product Configuration Manager  
   https://www.metacareers.com/profile/job_details/29212011025126498/
+
+## 2026-11-19 16:47
+
+- *(quiet)* Netflix - Senior Manager, Brand Partnerships (Global Partners), EMEA  
+  https://explore.jobs.netflix.net/careers/job/790319597303
+- *(quiet)* Netflix - Data Engineering Manager - Ads Audience, Identity, Signals and Measurement  
+  https://explore.jobs.netflix.net/careers/job/790319599628
+- *(quiet)* Netflix - APAC Payroll Specialist  
+  https://explore.jobs.netflix.net/careers/job/790319605378
+- *(quiet)* Meta - Full Stack Engineer, WhatsApp  
+  https://www.metacareers.com/profile/job_details/913369835101676/
+- *(quiet)* Meta - Full Stack Engineer, Product Risk &amp; Compliance  
+  https://www.metacareers.com/profile/job_details/28905789572456874/
+- *(quiet)* Meta - Backend Engineer (Technical Leadership), WhatsApp  
+  https://www.metacareers.com/profile/job_details/1679623290523766/
+- *(quiet)* Meta - Android Engineer (Technical Leadership), WhatsApp  
+  https://www.metacareers.com/profile/job_details/1734756811407923/
+- *(quiet)* Meta - Machine Learning Engineer, WhatsApp  
+  https://www.metacareers.com/profile/job_details/1875622243788616/
+- *(quiet)* Meta - Strategic Partner Manager, Business Messaging LATAM  
+  https://www.metacareers.com/profile/job_details/1668436534653871/
+- *(quiet)* Meta - Machine Learning Engineer (Technical Leadership), WhatsApp  
+  https://www.metacareers.com/profile/job_details/2078851143518368/
+- *(quiet)* Meta - iOS Engineer, WhatsApp   
+  https://www.metacareers.com/profile/job_details/29030081546642214/
+- *(quiet)* Meta - Client Solutions Manager, Israel, Tel Aviv  
+  https://www.metacareers.com/profile/job_details/28654826420883665/
+- *(quiet)* Meta - International Accountant  
+  https://www.metacareers.com/profile/job_details/2109983283288728/
