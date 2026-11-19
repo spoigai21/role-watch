@@ -2475,3 +2475,28 @@
   https://www.metacareers.com/profile/job_details/1511786967522227/
 - *(quiet)* Meta - Integrated Marketing Manager, AI Wearables - EMEA (France focus)  
   https://www.metacareers.com/profile/job_details/1504267934886960/
+
+## 2026-11-19 00:24
+
+- *(quiet)* Meta - Research Scientist Intern, Physics-Grounded Multimodal Robot Learning  
+  https://www.metacareers.com/profile/job_details/994911809842621/
+- *(quiet)* Meta - Manager, Exam and Audit, AI  
+  https://www.metacareers.com/profile/job_details/2148951462675796/
+- *(quiet)* Meta - Connectivity Integration Lead, Data Center Infrastructure  
+  https://www.metacareers.com/profile/job_details/988708213554854/
+- *(quiet)* Meta - Warehouse Operations Manager  
+  https://www.metacareers.com/profile/job_details/996487466312164/
+- *(quiet)* Meta - Technical Program Manager, Infrastructure Data Centers  
+  https://www.metacareers.com/profile/job_details/1495805042421585/
+- *(quiet)* Meta - Finance Associate, AI Enablement  
+  https://www.metacareers.com/profile/job_details/4577901059128121/
+- *(quiet)* Meta - Finance Manager, AI Enablement  
+  https://www.metacareers.com/profile/job_details/1482830713947771/
+- *(quiet)* Meta - Product Designer, Meta Superintelligence Labs  
+  https://www.metacareers.com/profile/job_details/1515035570481226/
+- *(quiet)* Meta - Research Scientist Intern, Computational Mechanics (PhD)  
+  https://www.metacareers.com/profile/job_details/1283598853967973/
+- *(quiet)* Meta - Financial Accountant &#x2014; International Statutory Controllership  
+  https://www.metacareers.com/profile/job_details/29649129734692300/
+- *(quiet)* Meta - Art Director / Associate Creative Director  
+  https://www.metacareers.com/profile/job_details/1150994334052061/
