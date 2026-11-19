@@ -2500,3 +2500,12 @@
   https://www.metacareers.com/profile/job_details/29649129734692300/
 - *(quiet)* Meta - Art Director / Associate Creative Director  
   https://www.metacareers.com/profile/job_details/1150994334052061/
+
+## 2026-11-19 07:41
+
+- *(quiet)* Meta - AML Models Analytics Lead  
+  https://www.metacareers.com/profile/job_details/1556258143188105/
+- *(quiet)* Meta - Lead Counsel, Incident Response  
+  https://www.metacareers.com/profile/job_details/892052170595981/
+- *(quiet)* Meta - PLM- Engineering Product Configuration Manager  
+  https://www.metacareers.com/profile/job_details/29212011025126498/
