@@ -2538,3 +2538,36 @@
   https://www.metacareers.com/profile/job_details/28654826420883665/
 - *(quiet)* Meta - International Accountant  
   https://www.metacareers.com/profile/job_details/2109983283288728/
+
+## 2026-11-19 23:16
+
+- *(quiet)* Netflix - Technical Director Performance  - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319611689
+- *(quiet)* Netflix - Talent Analytics Researcher  
+  https://explore.jobs.netflix.net/careers/job/790319609003
+- *(quiet)* Netflix - Software Engineer 5, AI Observability  
+  https://explore.jobs.netflix.net/careers/job/790319610169
+- *(quiet)* Meta - Manager, Global Infrastructure Site Services  
+  https://www.metacareers.com/profile/job_details/2083447629043799/
+- *(quiet)* Meta - Finance Director, Infrastructure &amp; AI Business Operations  
+  https://www.metacareers.com/profile/job_details/1467868595268107/
+- *(quiet)* Meta - Regional Warehouse Operations Manager  
+  https://www.metacareers.com/profile/job_details/1520776409874660/
+- *(quiet)* Meta - Policy Communications Manager, Brazil  
+  https://www.metacareers.com/profile/job_details/1816359589697168/
+- *(quiet)* Meta - Software Engineer, Embedded Systems Security  
+  https://www.metacareers.com/profile/job_details/1860326902051467/
+- *(quiet)* Meta - Research Scientist Intern, AI Agents for Autonomous Laboratories (PhD)  
+  https://www.metacareers.com/profile/job_details/29481973694788756/
+- *(quiet)* Meta - UX Research Intern, Quantitative (Summer 2027)  
+  https://www.metacareers.com/profile/job_details/29109871588622645/
+- *(quiet)* Meta - VP, Associate General Counsel, Legal Tech Solutions &amp; Innovation  
+  https://www.metacareers.com/profile/job_details/4522197584695130/
+- *(quiet)* Meta - Android Engineer, WhatsApp  
+  https://www.metacareers.com/profile/job_details/980479324710261/
+- *(quiet)* Meta - Director, Network Planning  
+  https://www.metacareers.com/profile/job_details/1146662401089017/
+- *(quiet)* Meta - Technical Program Manager, AI Network Infra  
+  https://www.metacareers.com/profile/job_details/1109746545130154/
+- *(quiet)* Meta - Research Scientist Intern, Machine Learning for Robotics (PhD)  
+  https://www.metacareers.com/profile/job_details/1766347491109788/
