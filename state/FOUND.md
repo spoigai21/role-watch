@@ -2584,3 +2584,12 @@
   https://www.metacareers.com/profile/job_details/1460916302909820/
 - *(quiet)* Meta - Backend Engineer, Central Integrity  
   https://www.metacareers.com/profile/job_details/1105424948927978/
+
+## 2026-11-20 12:38
+
+- *(quiet)* Meta - Software Engineer Intern, Machine Learning (PhD)  
+  https://www.metacareers.com/profile/job_details/2137583054300946/
+- *(quiet)* Meta - Backend Engineer, WhatsApp  
+  https://www.metacareers.com/profile/job_details/1691589682565164/
+- *(quiet)* Meta - Software Engineering Manager, Experiment Foundations  
+  https://www.metacareers.com/profile/job_details/1117280987949250/
