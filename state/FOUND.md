@@ -2593,3 +2593,72 @@
   https://www.metacareers.com/profile/job_details/1691589682565164/
 - *(quiet)* Meta - Software Engineering Manager, Experiment Foundations  
   https://www.metacareers.com/profile/job_details/1117280987949250/
+
+## 2026-11-20 20:42
+
+- *(quiet)* Meta - Brand Marketing Manager, WhatsApp  
+  https://www.metacareers.com/profile/job_details/2886723825034525/
+- *(quiet)* Meta - Community Manager, Executive Social  
+  https://www.metacareers.com/profile/job_details/1733144181671279/
+- *(quiet)* Meta - Product Manager  
+  https://www.metacareers.com/profile/job_details/1586596673213002/
+- *(quiet)* Meta -  Software Engineer, Product  
+  https://www.metacareers.com/profile/job_details/1123527766795128/
+- *(quiet)* Meta - Full Stack Engineer, Central Integrity  
+  https://www.metacareers.com/profile/job_details/1007263232436217/
+- *(quiet)* Meta - Software Engineering Manager  
+  https://www.metacareers.com/profile/job_details/1038087915705897/
+- *(quiet)* Meta - Software Engineer, Systems  
+  https://www.metacareers.com/profile/job_details/1402699157903809/
+- *(quiet)* Meta - Compensation Business Partner  
+  https://www.metacareers.com/profile/job_details/28622085427440843/
+- *(quiet)* Meta - Privacy Program Manager  
+  https://www.metacareers.com/profile/job_details/4218535248449640/
+- *(quiet)* Meta - Data Engineering Manager, Analytics  
+  https://www.metacareers.com/profile/job_details/2577495332696995/
+- *(quiet)* Meta - Software Engineer, Product  
+  https://www.metacareers.com/profile/job_details/1613643980303295/
+- *(quiet)* Meta - Software Engineer (Product)  
+  https://www.metacareers.com/profile/job_details/1110323608323248/
+- *(quiet)* Meta - Software Engineer  
+  https://www.metacareers.com/profile/job_details/1124937540046351/
+- *(quiet)* Meta - Software Engineer, Audio  
+  https://www.metacareers.com/profile/job_details/1169647092254330/
+- *(quiet)* Meta - Product Security Engineer &#x2013; Wearables (Meta Reality Labs)  
+  https://www.metacareers.com/profile/job_details/1494676229143581/
+- *(quiet)* Meta - Software Engineer  
+  https://www.metacareers.com/profile/job_details/1426828819426854/
+- *(quiet)* Meta - Business Engineer, Industry Innovation  
+  https://www.metacareers.com/profile/job_details/1635973211539119/
+- *(quiet)* Meta - Public Affairs Manager, Youth and Well-being  
+  https://www.metacareers.com/profile/job_details/1603159361184743/
+- *(quiet)* Meta - Engineering Manager  
+  https://www.metacareers.com/profile/job_details/1399951558795733/
+- *(quiet)* Meta - Product Manager, Enterprise Solutions (Forward-Deployed)  
+  https://www.metacareers.com/profile/job_details/2588760948302289/
+- *(quiet)* Meta - Research Scientist Intern, Photorealistic Telepresence (PhD)  
+  https://www.metacareers.com/profile/job_details/1122232790428355/
+- *(quiet)* Meta - Content Business Development Lead  
+  https://www.metacareers.com/profile/job_details/1472754809245538/
+- *(quiet)* Meta - Technical Program Manager  
+  https://www.metacareers.com/profile/job_details/1691523626011407/
+- *(quiet)* Meta - Data Scientist, Analytics  
+  https://www.metacareers.com/profile/job_details/1815110263014680/
+- *(quiet)* Meta - Data Scientist  
+  https://www.metacareers.com/profile/job_details/1451590453703172/
+- *(quiet)* Meta - Software Engineer, Systems  
+  https://www.metacareers.com/profile/job_details/1645351630326290/
+- *(quiet)* Meta - Supply Planner  
+  https://www.metacareers.com/profile/job_details/2075052396709617/
+- *(quiet)* Meta - Data Scientist  
+  https://www.metacareers.com/profile/job_details/2230486607740953/
+- *(quiet)* Meta - Software Engineer, iOS  
+  https://www.metacareers.com/profile/job_details/1087742840660039/
+- *(quiet)* Meta - Software Engineer Manager  
+  https://www.metacareers.com/profile/job_details/2136758413640094/
+- *(quiet)* Meta - Technical Program Manager, Infrastructure Data Governance  
+  https://www.metacareers.com/profile/job_details/1119862297432304/
+- *(quiet)* Meta - Research Scientist Intern, Security &amp; Integrity (PhD)  
+  https://www.metacareers.com/profile/job_details/4110138665949300/
+- *(quiet)* Meta - Production Network Engineer, Design  
+  https://www.metacareers.com/profile/job_details/1651595593038147/
