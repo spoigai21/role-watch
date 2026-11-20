@@ -2571,3 +2571,16 @@
   https://www.metacareers.com/profile/job_details/1109746545130154/
 - *(quiet)* Meta - Research Scientist Intern, Machine Learning for Robotics (PhD)  
   https://www.metacareers.com/profile/job_details/1766347491109788/
+
+## 2026-11-20 03:59
+
+- *(quiet)* Netflix - Manager, Sponsorships & Packages - Korea & Japan  
+  https://explore.jobs.netflix.net/careers/job/790319592325
+- *(quiet)* Meta - Edge Strategy Manager  
+  https://www.metacareers.com/profile/job_details/1129841556535656/
+- *(quiet)* Meta - Design Engineer, Facebook  
+  https://www.metacareers.com/profile/job_details/2116597172328583/
+- *(quiet)* Meta - Director, Compensation Business Partner  
+  https://www.metacareers.com/profile/job_details/1460916302909820/
+- *(quiet)* Meta - Backend Engineer, Central Integrity  
+  https://www.metacareers.com/profile/job_details/1105424948927978/
