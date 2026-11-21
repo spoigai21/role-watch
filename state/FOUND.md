@@ -2687,3 +2687,10 @@
   https://www.metacareers.com/profile/job_details/3003562383332006/
 - *(quiet)* Meta - Account Executive, Model AI API  
   https://www.metacareers.com/profile/job_details/1413226674215587/
+
+## 2026-11-21 08:47
+
+- *(quiet)* Netflix - Technical Director PaFX (Houdini) - Netflix Animation Studios  
+  https://explore.jobs.netflix.net/careers/job/790319635726
+- *(quiet)* Meta - Policy Programs and Partnerships Manager, Latin America  (Short Term Employment)  
+  https://www.metacareers.com/profile/job_details/29574219935602607/
