@@ -2662,3 +2662,28 @@
   https://www.metacareers.com/profile/job_details/4110138665949300/
 - *(quiet)* Meta - Production Network Engineer, Design  
   https://www.metacareers.com/profile/job_details/1651595593038147/
+
+## 2026-11-21 01:44
+
+- *(quiet)* Netflix - Brand Strategy, Manager, Netflix Ads Marketing EMEA  
+  https://explore.jobs.netflix.net/careers/job/790319624073
+- *(quiet)* Netflix - Principal Counsel, Commerce Legal  
+  https://explore.jobs.netflix.net/careers/job/790319634370
+- *(quiet)* Meta - Software Engineer (Technical Leadership), Central Integrity   
+  https://www.metacareers.com/profile/job_details/1159876130064120/
+- *(quiet)* Meta - Head of Audio Strategy, Executive Communications  
+  https://www.metacareers.com/profile/job_details/1824347182048483/
+- *(quiet)* Meta - Product Data Operations Program Manager  
+  https://www.metacareers.com/profile/job_details/2636071766835138/
+- *(quiet)* Meta - Software Engineer, Systems  
+  https://www.metacareers.com/profile/job_details/2216077149311950/
+- *(quiet)* Meta - Software Engineer - Android  
+  https://www.metacareers.com/profile/job_details/1407489568097442/
+- *(quiet)* Meta - Software Engineer  
+  https://www.metacareers.com/profile/job_details/1622696969378908/
+- *(quiet)* Meta - Data Center Operations Global Program Manager  
+  https://www.metacareers.com/profile/job_details/1477870834253907/
+- *(quiet)* Meta - Strategic Partnerships &amp; Engagement Operations Manager  
+  https://www.metacareers.com/profile/job_details/3003562383332006/
+- *(quiet)* Meta - Account Executive, Model AI API  
+  https://www.metacareers.com/profile/job_details/1413226674215587/
