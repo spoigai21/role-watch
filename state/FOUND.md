@@ -2699,3 +2699,16 @@
 
 - *(quiet)* Netflix - Communications - Commerce (Ads/Business Partnership), Product and Corporate (Korea)  
   https://explore.jobs.netflix.net/careers/job/790319660706
+
+## 2026-11-23 10:58
+
+- *(quiet)* Netflix - Recruiting Researcher, Executive Engagement - APAC  
+  https://explore.jobs.netflix.net/careers/job/790319664436
+- *(quiet)* Netflix - Principal Counsel, Patent and Patent Litigation  
+  https://explore.jobs.netflix.net/careers/job/790319664444
+- *(quiet)* Meta - Client Partner  
+  https://www.metacareers.com/profile/job_details/1745565037232422/
+- *(quiet)* Meta - Business Marketing Manager, Japan  
+  https://www.metacareers.com/profile/job_details/1534802292037712/
+- *(quiet)* Meta - Policy Programs Manager, AI and Wearables  
+  https://www.metacareers.com/profile/job_details/1638723163769070/
