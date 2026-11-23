@@ -2712,3 +2712,36 @@
   https://www.metacareers.com/profile/job_details/1534802292037712/
 - *(quiet)* Meta - Policy Programs Manager, AI and Wearables  
   https://www.metacareers.com/profile/job_details/1638723163769070/
+
+## 2026-11-23 22:28
+
+- *(quiet)* Netflix - Employee Operations Specialist, EMEA  
+  https://explore.jobs.netflix.net/careers/job/790319699932
+- *(quiet)* Netflix - Senior Sales Partner  
+  https://explore.jobs.netflix.net/careers/job/790319701024
+- *(quiet)* Netflix - Sales Solutions Lead, Italy  
+  https://explore.jobs.netflix.net/careers/job/790319600799
+- *(quiet)* Meta - Director of Benefits, EMEA &amp; LATAM  
+  https://www.metacareers.com/profile/job_details/1748339936263356/
+- *(quiet)* Meta - Lead Counsel, eDiscovery &amp; Information Governance  
+  https://www.metacareers.com/profile/job_details/1706868154375330/
+- *(quiet)* Meta - Mechanical Design Engineer: Robotics Hardware Engineering  
+  https://www.metacareers.com/profile/job_details/1129435743389273/
+- *(quiet)* Meta - Public Policy Director, Compute and Economic Policy  
+  https://www.metacareers.com/profile/job_details/1971792060871050/
+- *(quiet)* Meta - Strategic Cost Management Lead, Infrastructure Data Centers  
+  https://www.metacareers.com/profile/job_details/2317631902412034/
+- *(quiet)* Meta - Software Engineer, MTIA-SW Foundation  
+  https://www.metacareers.com/profile/job_details/2273427400106148/
+- *(quiet)* Meta - Research Scientist Intern, Spatial-temporal Consistent 4D Generation (PhD)  
+  https://www.metacareers.com/profile/job_details/2357948038329505/
+- *(quiet)* Meta - Developer Marketing Manager  
+  https://www.metacareers.com/profile/job_details/1396681252329069/
+- *(quiet)* Meta - AI Research Scientist (Technical Leadership), MSL FAIR Data  
+  https://www.metacareers.com/profile/job_details/2065281677624998/
+- *(quiet)* Meta - Construction Manager, Data Center Development  
+  https://www.metacareers.com/profile/job_details/1091166557305129/
+- *(quiet)* Meta - Research Scientist Intern, uLED Display Characterization (PhD)  
+  https://www.metacareers.com/profile/job_details/1296888565955935/
+- *(quiet)* Meta - Software Engineer, Product  
+  https://www.metacareers.com/profile/job_details/4573769386220944/
