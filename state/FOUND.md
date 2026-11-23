@@ -2694,3 +2694,8 @@
   https://explore.jobs.netflix.net/careers/job/790319635726
 - *(quiet)* Meta - Policy Programs and Partnerships Manager, Latin America  (Short Term Employment)  
   https://www.metacareers.com/profile/job_details/29574219935602607/
+
+## 2026-11-23 02:26
+
+- *(quiet)* Netflix - Communications - Commerce (Ads/Business Partnership), Product and Corporate (Korea)  
+  https://explore.jobs.netflix.net/careers/job/790319660706
