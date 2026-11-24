@@ -2745,3 +2745,12 @@
   https://www.metacareers.com/profile/job_details/1296888565955935/
 - *(quiet)* Meta - Software Engineer, Product  
   https://www.metacareers.com/profile/job_details/4573769386220944/
+
+## 2026-11-24 06:16
+
+- *(quiet)* Netflix - Associate, Ads Finance & Strategy  
+  https://explore.jobs.netflix.net/careers/job/790319702952
+- *(quiet)* Meta - Market Specialist, Global Response Operations, India  
+  https://www.metacareers.com/profile/job_details/4856812277885320/
+- *(quiet)* Meta - Counsel, Security Legal  
+  https://www.metacareers.com/profile/job_details/1168865888988864/
