@@ -2754,3 +2754,24 @@
   https://www.metacareers.com/profile/job_details/4856812277885320/
 - *(quiet)* Meta - Counsel, Security Legal  
   https://www.metacareers.com/profile/job_details/1168865888988864/
+
+## 2026-11-24 17:51
+
+- *(quiet)* Netflix - Ads Sales Partner - Korea  
+  https://explore.jobs.netflix.net/careers/job/790319711015
+- *(quiet)* Netflix - Security Software Engineer 5 - Security Observability  
+  https://explore.jobs.netflix.net/careers/job/790319623568
+- *(quiet)* Netflix - Manager, Marketing - UK Series/ Unscripted  
+  https://explore.jobs.netflix.net/careers/job/790319599178
+- *(quiet)* Meta - Associate General Counsel, International Regulatory Engagement (APAC)  
+  https://www.metacareers.com/profile/job_details/879530091909568/
+- *(quiet)* Meta - Data Scientist, Finance  
+  https://www.metacareers.com/profile/job_details/1696494735515242/
+- *(quiet)* Meta - Machine Learning Engineer, Central Growth  
+  https://www.metacareers.com/profile/job_details/3108906696119886/
+- *(quiet)* Meta - Global Process Owner, Credit and Customer Onboarding  
+  https://www.metacareers.com/profile/job_details/1135523299068464/
+- *(quiet)* Meta - Integrity Expert Enablement Specialist  
+  https://www.metacareers.com/profile/job_details/1711716557400510/
+- *(quiet)* Meta - Brand Strategist  
+  https://www.metacareers.com/profile/job_details/2198096947758287/
