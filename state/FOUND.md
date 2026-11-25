@@ -2775,3 +2775,52 @@
   https://www.metacareers.com/profile/job_details/1711716557400510/
 - *(quiet)* Meta - Brand Strategist  
   https://www.metacareers.com/profile/job_details/2198096947758287/
+
+## 2026-11-25 01:38
+
+- *(quiet)* Netflix - AI Software Engineer (L5) - Machine Learning  
+  https://explore.jobs.netflix.net/careers/job/790319332434
+- *(quiet)* Netflix - Games Solutions Engineer 5  
+  https://explore.jobs.netflix.net/careers/job/790314058583
+- *(quiet)* Meta - ASIC Engineer, Performance Architecture and Modeling (University Grad)  
+  https://www.metacareers.com/profile/job_details/1451659813754708/
+- *(quiet)* Meta - Backend Software Engineer, Applied AI Engineering  
+  https://www.metacareers.com/profile/job_details/2226129517969205/
+- *(quiet)* Meta - Security Engineer, Applied AI  
+  https://www.metacareers.com/profile/job_details/1277771494565971/
+- *(quiet)* Meta - Account Executive, Model AI API (EMEA)  
+  https://www.metacareers.com/profile/job_details/1133403862788308/
+- *(quiet)* Meta - Software Engineer, Systems  
+  https://www.metacareers.com/profile/job_details/4505238863028026/
+- *(quiet)* Meta - Software Engineer, AI Builder - Devices and Embedded  
+  https://www.metacareers.com/profile/job_details/1489207229762040/
+- *(quiet)* Meta - Software Developer, Scaled Ops AI Acceleration Team  
+  https://www.metacareers.com/profile/job_details/39982369118077971/
+- *(quiet)* Meta - Software Engineer, Systems and Infrastructure  
+  https://www.metacareers.com/profile/job_details/2420642692010378/
+- *(quiet)* Meta - User Experience Researcher - Advertiser Integrity Experiences  
+  https://www.metacareers.com/profile/job_details/3591601614355032/
+- *(quiet)* Meta - Network Quantitative Engineer  
+  https://www.metacareers.com/profile/job_details/1501102891960516/
+- *(quiet)* Meta - Software Engineer, Observability (Technical Leadership)  
+  https://www.metacareers.com/profile/job_details/1480142257395696/
+- *(quiet)* Meta - Research Engineer, AI Ecosystem Optimization  
+  https://www.metacareers.com/profile/job_details/1127581479979089/
+- *(quiet)* Meta - Software Engineer (Technical Leadership), Privacy  
+  https://www.metacareers.com/profile/job_details/1175149555168202/
+- *(quiet)* Meta - Thermal Design Engineer  
+  https://www.metacareers.com/profile/job_details/1658203509186637/
+- *(quiet)* Meta - Battery Engineering Intern, Battery Systems Engineering  
+  https://www.metacareers.com/profile/job_details/1165674205921515/
+- *(quiet)* Meta - Full Stack Engineer, Product Risk &amp; Compliance  
+  https://www.metacareers.com/profile/job_details/2004222000254303/
+- *(quiet)* Meta - ASIC Engineer, Design Verification  
+  https://www.metacareers.com/profile/job_details/2402314173838623/
+- *(quiet)* Meta - Global Schedule &amp; Technical Integration Manager, Data Centers  
+  https://www.metacareers.com/profile/job_details/4276370712655722/
+- *(quiet)* Meta - Full Stack Engineer (Technical Leadership), Product Risk &amp; Compliance  
+  https://www.metacareers.com/profile/job_details/1465603252451425/
+- *(quiet)* Meta - Research Scientist Intern, Machine Learning for Robust 3D Perception (PhD)  
+  https://www.metacareers.com/profile/job_details/1482835147112669/
+- *(quiet)* Meta - Integrity Science Engineer  
+  https://www.metacareers.com/profile/job_details/1616351779810443/
