@@ -2824,3 +2824,76 @@
   https://www.metacareers.com/profile/job_details/1482835147112669/
 - *(quiet)* Meta - Integrity Science Engineer  
   https://www.metacareers.com/profile/job_details/1616351779810443/
+
+## 2026-11-25 20:01
+
+- *(quiet)* Meta - Technical Logistics Specialist  
+  https://www.metacareers.com/profile/job_details/2270908273486802/
+- *(quiet)* Meta - Software Engineer, Systems  
+  https://www.metacareers.com/profile/job_details/28872009425748529/
+- *(quiet)* Meta - Data Engineer, Analytics  
+  https://www.metacareers.com/profile/job_details/1510642494269521/
+- *(quiet)* Meta - Data Engineer  
+  https://www.metacareers.com/profile/job_details/1926983275422529/
+- *(quiet)* Meta - Software Engineer  
+  https://www.metacareers.com/profile/job_details/2026090611401041/
+- *(quiet)* Meta - Software Engineer  
+  https://www.metacareers.com/profile/job_details/2188713048675088/
+- *(quiet)* Meta - Product Designer  
+  https://www.metacareers.com/profile/job_details/1942816500435054/
+- *(quiet)* Meta - Technical Program Manager  
+  https://www.metacareers.com/profile/job_details/30486888410901771/
+- *(quiet)* Meta - Data Scientist, Product Analytics  
+  https://www.metacareers.com/profile/job_details/1113149038368708/
+- *(quiet)* Meta - Software Engineer (Systems)  
+  https://www.metacareers.com/profile/job_details/1153878043863573/
+- *(quiet)* Meta - Program Manager GenAI, Scaled Product Delivery  
+  https://www.metacareers.com/profile/job_details/1875396434587866/
+- *(quiet)* Meta - Identity and Access Management, Integration Manager  
+  https://www.metacareers.com/profile/job_details/1639536837624576/
+- *(quiet)* Meta - Software Engineer Intern, Machine Learning (PhD)  
+  https://www.metacareers.com/profile/job_details/992384923485156/
+- *(quiet)* Meta - Software Engineer, Systems  
+  https://www.metacareers.com/profile/job_details/4081524855487459/
+- *(quiet)* Meta - Software Engineer (Systems)  
+  https://www.metacareers.com/profile/job_details/3985098184960568/
+- *(quiet)* Meta - Sr. Data Scientist  
+  https://www.metacareers.com/profile/job_details/1571999844948555/
+- *(quiet)* Meta - Director, Product Design  
+  https://www.metacareers.com/profile/job_details/1406724411062807/
+- *(quiet)* Meta - Partner Engineer, Gen AI  
+  https://www.metacareers.com/profile/job_details/1094336790239599/
+- *(quiet)* Meta - Software Engineer, Systems  
+  https://www.metacareers.com/profile/job_details/2666686747134642/
+- *(quiet)* Meta - Product Growth Analyst  
+  https://www.metacareers.com/profile/job_details/1472040221613218/
+- *(quiet)* Meta - Software Engineering Manager  
+  https://www.metacareers.com/profile/job_details/1378847401000567/
+- *(quiet)* Meta - Technical Program Manager  
+  https://www.metacareers.com/profile/job_details/2073016820044190/
+- *(quiet)* Meta - Software Engineer, Machine Learning  
+  https://www.metacareers.com/profile/job_details/2542490782884946/
+- *(quiet)* Meta - Software Engineer, Systems  
+  https://www.metacareers.com/profile/job_details/1397288538596491/
+- *(quiet)* Meta - Enterprise Training &amp; Enablement Lead, AI  
+  https://www.metacareers.com/profile/job_details/2338811200195385/
+- *(quiet)* Meta - Software Engineer, Machine Learning - Ranking, Home Feed, Standalone Apps Team  
+  https://www.metacareers.com/profile/job_details/4604362149801918/
+- *(quiet)* Meta - Software Engineer (Machine Learning)  
+  https://www.metacareers.com/profile/job_details/1061344469849575/
+- *(quiet)* Meta - Software Engineer, Systems  
+  https://www.metacareers.com/profile/job_details/1741989810350064/
+- *(quiet)* Meta - System Assurance Lead  
+  https://www.metacareers.com/profile/job_details/1846071379862169/
+- *(quiet)* Meta - Client Solutions Manager - Travel  
+  https://www.metacareers.com/profile/job_details/1915099426138534/
+- *(quiet)* Meta - Associate General Counsel, Environmental Health &amp; Safety, Sustainability &amp; Hardware Compliance  
+  https://www.metacareers.com/profile/job_details/968212909455533/
+- *(quiet)* Meta - Backend Engineer, Product Risk &amp; Compliance  
+  https://www.metacareers.com/profile/job_details/1612001497395375/
+- *(quiet)* Meta - Full Stack Engineer, Central Integrity  
+  https://www.metacareers.com/profile/job_details/1830343551530883/
+- *(quiet)* Meta - Backend Engineer (Technical Leadership), Central Integrity  
+  https://www.metacareers.com/profile/job_details/1451616767078275/
+- *(quiet)* Meta - Backend Engineer (Technical Leadership), Central Integrity  
+  https://www.metacareers.com/profile/job_details/29554487220829722/
