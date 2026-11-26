@@ -2927,3 +2927,14 @@
   https://www.metacareers.com/profile/job_details/2203967606897780/
 - *(quiet)* Meta - Market Specialist, Global Response Operations, Pakistan Urdu  
   https://www.metacareers.com/profile/job_details/1170257138809869/
+
+## 2026-11-26 20:26
+
+- *(quiet)* Meta - Backend Engineer (Technical Leadership), Product Risk &amp; Compliance  
+  https://www.metacareers.com/profile/job_details/1652775143017426/
+- *(quiet)* Meta - Full Stack Engineer (Technical Leadership), Product Risk &amp; Compliance  
+  https://www.metacareers.com/profile/job_details/1457221262617285/
+- *(quiet)* Meta - Recruiter  
+  https://www.metacareers.com/profile/job_details/4639779289682243/
+- *(quiet)* Meta - Recruiter  
+  https://www.metacareers.com/profile/job_details/29676681202017689/
