@@ -2918,3 +2918,12 @@
   https://www.metacareers.com/profile/job_details/3165495873798489/
 - *(quiet)* Meta - Program Manager Software and 3P AI  
   https://www.metacareers.com/profile/job_details/1677269310727708/
+
+## 2026-11-26 11:29
+
+- *(quiet)* Netflix - Associate, Production Finance - Japan  
+  https://explore.jobs.netflix.net/careers/job/790319746454
+- *(quiet)* Meta - Software Engineer, iOS  
+  https://www.metacareers.com/profile/job_details/2203967606897780/
+- *(quiet)* Meta - Market Specialist, Global Response Operations, Pakistan Urdu  
+  https://www.metacareers.com/profile/job_details/1170257138809869/
