@@ -2897,3 +2897,24 @@
   https://www.metacareers.com/profile/job_details/1451616767078275/
 - *(quiet)* Meta - Backend Engineer (Technical Leadership), Central Integrity  
   https://www.metacareers.com/profile/job_details/29554487220829722/
+
+## 2026-11-26 02:44
+
+- *(quiet)* Netflix - Publicity Manager - Thailand  
+  https://explore.jobs.netflix.net/careers/job/790319736176
+- *(quiet)* Netflix - Senior Software Engineer (L5), Device Capabilities – Partner Enablement Applications  
+  https://explore.jobs.netflix.net/careers/job/790319739225
+- *(quiet)* Netflix - Coordinator, Term Deal Payroll/PACT - Payment Administration & Contract Tracking Role  
+  https://explore.jobs.netflix.net/careers/job/790319740951
+- *(quiet)* Netflix - Machine Learning Scientist 5 (L5) - Human Understanding & Applied AI, Content & Studio  
+  https://explore.jobs.netflix.net/careers/job/790319742534
+- *(quiet)* Meta - Security Strategist  
+  https://www.metacareers.com/profile/job_details/1878896683114165/
+- *(quiet)* Meta - Enterprise Program Manager  
+  https://www.metacareers.com/profile/job_details/4790299111256862/
+- *(quiet)* Meta - Security Analyst Investigator - Youth Safety  
+  https://www.metacareers.com/profile/job_details/1613613680079904/
+- *(quiet)* Meta - Program Manager, Service Partnerships &amp; NPI &#x2013; Reality Labs Post-Sales Operations  
+  https://www.metacareers.com/profile/job_details/3165495873798489/
+- *(quiet)* Meta - Program Manager Software and 3P AI  
+  https://www.metacareers.com/profile/job_details/1677269310727708/
