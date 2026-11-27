@@ -2960,3 +2960,12 @@
   https://www.metacareers.com/profile/job_details/1474508431373156/
 - *(quiet)* Meta - Marketing Manager, Wearables (Australia)  
   https://www.metacareers.com/profile/job_details/1115733054641268/
+
+## 2026-11-27 20:45
+
+- *(quiet)* Netflix - Manager, Brand Partnerships Spain & Portugal  
+  https://explore.jobs.netflix.net/careers/job/790319776459
+- *(quiet)* Netflix - Manager, Engineering - HIPR (Health and Integrity of the Paved Road)  
+  https://explore.jobs.netflix.net/careers/job/790319776460
+- *(quiet)* Netflix - Sr. Account Manager  
+  https://explore.jobs.netflix.net/careers/job/790319779974
