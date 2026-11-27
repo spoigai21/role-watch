@@ -2943,3 +2943,20 @@
 
 - *(quiet)* Meta - Software Engineer, Endpoint Networking (Technical Leadership)  
   https://www.metacareers.com/profile/job_details/1603944021501959/
+
+## 2026-11-27 11:58
+
+- *(quiet)* Netflix - Product Localization Team Lead  
+  https://explore.jobs.netflix.net/careers/job/790319768926
+- *(quiet)* Netflix - Product Localization Coordinator  
+  https://explore.jobs.netflix.net/careers/job/790319769239
+- *(quiet)* Netflix - Administrative Assistant, Content, CEE (FTC)  
+  https://explore.jobs.netflix.net/careers/job/790319774335
+- *(quiet)* Netflix - Accounts Payable Invoice Processing Specialist  
+  https://explore.jobs.netflix.net/careers/job/790319768606
+- *(quiet)* Netflix - Manager, Live & Sports - Korea  
+  https://explore.jobs.netflix.net/careers/job/790319662777
+- *(quiet)* Meta - Sales Strategy Planning and Operations Lead - EMEA  
+  https://www.metacareers.com/profile/job_details/1474508431373156/
+- *(quiet)* Meta - Marketing Manager, Wearables (Australia)  
+  https://www.metacareers.com/profile/job_details/1115733054641268/
