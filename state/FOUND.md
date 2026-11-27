@@ -2938,3 +2938,8 @@
   https://www.metacareers.com/profile/job_details/4639779289682243/
 - *(quiet)* Meta - Recruiter  
   https://www.metacareers.com/profile/job_details/29676681202017689/
+
+## 2026-11-27 03:01
+
+- *(quiet)* Meta - Software Engineer, Endpoint Networking (Technical Leadership)  
+  https://www.metacareers.com/profile/job_details/1603944021501959/
